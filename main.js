@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\GitHub\kaizer project files\kaizer2\src\main.ts */"zUnb");
+module.exports = __webpack_require__(/*! D:\Sinsan backup\kaizer2-main-v2\kaizer2-main\src\main.ts */"zUnb");
 
 
 /***/ }),

@@ -153,7 +153,7 @@ TimelineComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefine
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, styles: ["p[_ngcontent-%COMP%] {\r\n    margin-top: 0;\r\n    margin-bottom: 0 !important; }\r\n\r\n    ul[_ngcontent-%COMP%]{\r\n        padding: 0 !important;\r\n    }\r\n\r\n    .timer-section[_ngcontent-%COMP%] {\r\n    min-height: 100vh;\r\n  }\r\n\r\n    .timer-section[_ngcontent-%COMP%]   .container[_ngcontent-%COMP%] {\r\n    padding-left: 15px;\r\n    padding-right: 15px;\r\n  }\r\n\r\n    .timer-section[_ngcontent-%COMP%]   .timer-container[_ngcontent-%COMP%] {\r\n    list-style: none;\r\n  }\r\n\r\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%] {\r\n    list-style: none;\r\n    position: relative;\r\n    max-width: 750px;\r\n    margin: auto;\r\n  }\r\n\r\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]::before {\r\n    \r\n    position: absolute;\r\n    height: 100%;\r\n    width: 2px;\r\n    background-color: #F2F2F2;\r\n    left: 50%;\r\n    transform: translateX(-50%);\r\n  }\r\n\r\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%] {\r\n    width: 50%;\r\n    padding: 20px 15px;\r\n    position: relative;\r\n    background-color: #F2F2F2;\r\n    box-shadow: 0 5px 15px rgba(0, 0, 0, .04);\r\n  }\r\n\r\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]:not(:first-child), .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]:not(:last-child) {\r\n    margin: 90px 0 60px 0;\r\n  }\r\n\r\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]:nth-child(odd) {\r\n    transform: translateX(100%);\r\n    border-left: 2px solid #0A939D;\r\n    border-radius: 0 3px 3px 0;\r\n  }\r\n\r\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]:nth-child(even) {\r\n    border-right: 2px solid #299ADC;\r\n    border-radius: 3px 0 0 3px;\r\n  }\r\n\r\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]    > span[_ngcontent-%COMP%] {\r\n    position: absolute;\r\n    height: 26px;\r\n    width: 50px;\r\n    color: #333;\r\n    background-color: #F2F2F2;\r\n    text-align: center;\r\n    line-height: 22px;\r\n    border-radius: 3px;\r\n    font-size: .8rem;\r\n  }\r\n\r\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]:nth-child(odd)    > span[_ngcontent-%COMP%] {\r\n    top: -40px;\r\n    left: -13px;\r\n    border: 2px solid #0A939D;\r\n    font-weight: bold;\r\n  }\r\n\r\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]:nth-child(even)    > span[_ngcontent-%COMP%] {\r\n    top: -40px;\r\n    right: -13px;\r\n    border: 2px solid #299ADC;\r\n    font-weight: bold;\r\n  }\r\n\r\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]   h3[_ngcontent-%COMP%] {\r\n    \r\n  }\r\n\r\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]   p[_ngcontent-%COMP%] {\r\n    font-weight: 300;\r\n    font-size: .85rem;\r\n    color: #555;\r\n  }\r\n\r\n    @media screen and (max-width: 500px) {\r\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%] {\r\n      width: 100%;\r\n      text-align: center;\r\n      transform: translateX(0%);\r\n      border-radius: 3px !important;\r\n    }\r\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]:nth-child(odd) {\r\n      transform: translateX(0%);\r\n      border: none;\r\n      border-top: 2px solid #0A939D;\r\n      font-weight: bold;\r\n    }\r\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]:nth-child(even) {\r\n      border: none;\r\n      border-top: 2px solid #299ADC;\r\n      font-weight: bold;\r\n    }\r\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]   span[_ngcontent-%COMP%] {\r\n      left: 50% !important;\r\n      transform: translateX(-50%);\r\n    }\r\n  }\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRpbWVsaW5lLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSxhQUFhO0lBQ2IsMkJBQTJCLEVBQUU7O0lBRTdCO1FBQ0kscUJBQXFCO0lBQ3pCOztJQUNKO0lBQ0ksaUJBQWlCO0VBQ25COztJQUNBO0lBQ0Usa0JBQWtCO0lBQ2xCLG1CQUFtQjtFQUNyQjs7SUFFQTtJQUNFLGdCQUFnQjtFQUNsQjs7SUFDQTtJQUNFLGdCQUFnQjtJQUNoQixrQkFBa0I7SUFDbEIsZ0JBQWdCO0lBQ2hCLFlBQVk7RUFDZDs7SUFDQTtJQUNFLGlCQUFpQjtJQUNqQixrQkFBa0I7SUFDbEIsWUFBWTtJQUNaLFVBQVU7SUFDVix5QkFBeUI7SUFDekIsU0FBUztJQUNULDJCQUEyQjtFQUM3Qjs7SUFFQTtJQUNFLFVBQVU7SUFDVixrQkFBa0I7SUFDbEIsa0JBQWtCO0lBQ2xCLHlCQUF5QjtJQUN6Qix5Q0FBeUM7RUFDM0M7O0lBQ0E7O0lBRUUscUJBQXFCO0VBQ3ZCOztJQUNBO0lBQ0UsMkJBQTJCO0lBQzNCLDhCQUE4QjtJQUM5QiwwQkFBMEI7RUFDNUI7O0lBQ0E7SUFDRSwrQkFBK0I7SUFDL0IsMEJBQTBCO0VBQzVCOztJQUVBO0lBQ0Usa0JBQWtCO0lBQ2xCLFlBQVk7SUFDWixXQUFXO0lBQ1gsV0FBVztJQUNYLHlCQUF5QjtJQUN6QixrQkFBa0I7SUFDbEIsaUJBQWlCO0lBQ2pCLGtCQUFrQjtJQUNsQixnQkFBZ0I7RUFDbEI7O0lBQ0E7SUFDRSxVQUFVO0lBQ1YsV0FBVztJQUNYLHlCQUF5QjtJQUN6QixpQkFBaUI7RUFDbkI7O0lBQ0E7SUFDRSxVQUFVO0lBQ1YsWUFBWTtJQUNaLHlCQUF5QjtJQUN6QixpQkFBaUI7RUFDbkI7O0lBRUE7SUFDRSx5QkFBeUI7RUFDM0I7O0lBQ0E7SUFDRSxnQkFBZ0I7SUFDaEIsaUJBQWlCO0lBQ2pCLFdBQVc7RUFDYjs7SUFFQTtJQUNFO01BQ0UsV0FBVztNQUNYLGtCQUFrQjtNQUNsQix5QkFBeUI7TUFDekIsNkJBQTZCO0lBQy9CO0lBQ0E7TUFDRSx5QkFBeUI7TUFDekIsWUFBWTtNQUNaLDZCQUE2QjtNQUM3QixpQkFBaUI7SUFDbkI7SUFDQTtNQUNFLFlBQVk7TUFDWiw2QkFBNkI7TUFDN0IsaUJBQWlCO0lBQ25CO0lBQ0E7TUFDRSxvQkFBb0I7TUFDcEIsMkJBQTJCO0lBQzdCO0VBQ0YiLCJmaWxlIjoidGltZWxpbmUuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbInAge1xyXG4gICAgbWFyZ2luLXRvcDogMDtcclxuICAgIG1hcmdpbi1ib3R0b206IDAgIWltcG9ydGFudDsgfVxyXG5cclxuICAgIHVse1xyXG4gICAgICAgIHBhZGRpbmc6IDAgIWltcG9ydGFudDtcclxuICAgIH1cclxuLnRpbWVyLXNlY3Rpb24ge1xyXG4gICAgbWluLWhlaWdodDogMTAwdmg7XHJcbiAgfVxyXG4gIC50aW1lci1zZWN0aW9uIC5jb250YWluZXIge1xyXG4gICAgcGFkZGluZy1sZWZ0OiAxNXB4O1xyXG4gICAgcGFkZGluZy1yaWdodDogMTVweDtcclxuICB9XHJcbiAgXHJcbiAgLnRpbWVyLXNlY3Rpb24gLnRpbWVyLWNvbnRhaW5lciB7XHJcbiAgICBsaXN0LXN0eWxlOiBub25lO1xyXG4gIH1cclxuICAudGltZXItc2VjdGlvbiAudGltZXIge1xyXG4gICAgbGlzdC1zdHlsZTogbm9uZTtcclxuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuICAgIG1heC13aWR0aDogNzUwcHg7XHJcbiAgICBtYXJnaW46IGF1dG87XHJcbiAgfVxyXG4gIC50aW1lci1zZWN0aW9uIC50aW1lcjo6YmVmb3JlIHtcclxuICAgIC8qIGNvbnRlbnQ6ICcnOyAqL1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgaGVpZ2h0OiAxMDAlO1xyXG4gICAgd2lkdGg6IDJweDtcclxuICAgIGJhY2tncm91bmQtY29sb3I6ICNGMkYyRjI7XHJcbiAgICBsZWZ0OiA1MCU7XHJcbiAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVgoLTUwJSk7XHJcbiAgfVxyXG4gIFxyXG4gIC50aW1lci1zZWN0aW9uIC50aW1lciAuc3RlcCB7XHJcbiAgICB3aWR0aDogNTAlO1xyXG4gICAgcGFkZGluZzogMjBweCAxNXB4O1xyXG4gICAgcG9zaXRpb246IHJlbGF0aXZlO1xyXG4gICAgYmFja2dyb3VuZC1jb2xvcjogI0YyRjJGMjtcclxuICAgIGJveC1zaGFkb3c6IDAgNXB4IDE1cHggcmdiYSgwLCAwLCAwLCAuMDQpO1xyXG4gIH1cclxuICAudGltZXItc2VjdGlvbiAudGltZXIgLnN0ZXA6bm90KDpmaXJzdC1jaGlsZCksXHJcbiAgLnRpbWVyLXNlY3Rpb24gLnRpbWVyIC5zdGVwOm5vdCg6bGFzdC1jaGlsZCkge1xyXG4gICAgbWFyZ2luOiA5MHB4IDAgNjBweCAwO1xyXG4gIH1cclxuICAudGltZXItc2VjdGlvbiAudGltZXIgLnN0ZXA6bnRoLWNoaWxkKG9kZCkge1xyXG4gICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVYKDEwMCUpO1xyXG4gICAgYm9yZGVyLWxlZnQ6IDJweCBzb2xpZCAjMEE5MzlEO1xyXG4gICAgYm9yZGVyLXJhZGl1czogMCAzcHggM3B4IDA7XHJcbiAgfVxyXG4gIC50aW1lci1zZWN0aW9uIC50aW1lciAuc3RlcDpudGgtY2hpbGQoZXZlbikge1xyXG4gICAgYm9yZGVyLXJpZ2h0OiAycHggc29saWQgIzI5OUFEQztcclxuICAgIGJvcmRlci1yYWRpdXM6IDNweCAwIDAgM3B4O1xyXG4gIH1cclxuICBcclxuICAudGltZXItc2VjdGlvbiAudGltZXIgLnN0ZXAgPiBzcGFuIHtcclxuICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcclxuICAgIGhlaWdodDogMjZweDtcclxuICAgIHdpZHRoOiA1MHB4O1xyXG4gICAgY29sb3I6ICMzMzM7XHJcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjRjJGMkYyO1xyXG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG4gICAgbGluZS1oZWlnaHQ6IDIycHg7XHJcbiAgICBib3JkZXItcmFkaXVzOiAzcHg7XHJcbiAgICBmb250LXNpemU6IC44cmVtO1xyXG4gIH1cclxuICAudGltZXItc2VjdGlvbiAudGltZXIgLnN0ZXA6bnRoLWNoaWxkKG9kZCkgPiBzcGFuIHtcclxuICAgIHRvcDogLTQwcHg7XHJcbiAgICBsZWZ0OiAtMTNweDtcclxuICAgIGJvcmRlcjogMnB4IHNvbGlkICMwQTkzOUQ7XHJcbiAgICBmb250LXdlaWdodDogYm9sZDtcclxuICB9XHJcbiAgLnRpbWVyLXNlY3Rpb24gLnRpbWVyIC5zdGVwOm50aC1jaGlsZChldmVuKSA+IHNwYW4ge1xyXG4gICAgdG9wOiAtNDBweDtcclxuICAgIHJpZ2h0OiAtMTNweDtcclxuICAgIGJvcmRlcjogMnB4IHNvbGlkICMyOTlBREM7XHJcbiAgICBmb250LXdlaWdodDogYm9sZDtcclxuICB9XHJcbiAgXHJcbiAgLnRpbWVyLXNlY3Rpb24gLnRpbWVyIC5zdGVwIGgzIHtcclxuICAgIC8qIG1hcmdpbi1ib3R0b206IDE1cHg7ICovXHJcbiAgfVxyXG4gIC50aW1lci1zZWN0aW9uIC50aW1lciAuc3RlcCBwIHtcclxuICAgIGZvbnQtd2VpZ2h0OiAzMDA7XHJcbiAgICBmb250LXNpemU6IC44NXJlbTtcclxuICAgIGNvbG9yOiAjNTU1O1xyXG4gIH1cclxuICBcclxuICBAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA1MDBweCkge1xyXG4gICAgLnRpbWVyLXNlY3Rpb24gLnRpbWVyIC5zdGVwIHtcclxuICAgICAgd2lkdGg6IDEwMCU7XHJcbiAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcclxuICAgICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVYKDAlKTtcclxuICAgICAgYm9yZGVyLXJhZGl1czogM3B4ICFpbXBvcnRhbnQ7XHJcbiAgICB9XHJcbiAgICAudGltZXItc2VjdGlvbiAudGltZXIgLnN0ZXA6bnRoLWNoaWxkKG9kZCkge1xyXG4gICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVgoMCUpO1xyXG4gICAgICBib3JkZXI6IG5vbmU7XHJcbiAgICAgIGJvcmRlci10b3A6IDJweCBzb2xpZCAjMEE5MzlEO1xyXG4gICAgICBmb250LXdlaWdodDogYm9sZDtcclxuICAgIH1cclxuICAgIC50aW1lci1zZWN0aW9uIC50aW1lciAuc3RlcDpudGgtY2hpbGQoZXZlbikge1xyXG4gICAgICBib3JkZXI6IG5vbmU7XHJcbiAgICAgIGJvcmRlci10b3A6IDJweCBzb2xpZCAjMjk5QURDO1xyXG4gICAgICBmb250LXdlaWdodDogYm9sZDtcclxuICAgIH1cclxuICAgIC50aW1lci1zZWN0aW9uIC50aW1lciAuc3RlcCBzcGFuIHtcclxuICAgICAgbGVmdDogNTAlICFpbXBvcnRhbnQ7XHJcbiAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWCgtNTAlKTtcclxuICAgIH1cclxuICB9Il19 */"] });
+    } }, styles: ["p[_ngcontent-%COMP%] {\n    margin-top: 0;\n    margin-bottom: 0 !important; }\n\n    ul[_ngcontent-%COMP%]{\n        padding: 0 !important;\n    }\n\n    .timer-section[_ngcontent-%COMP%] {\n    min-height: 100vh;\n  }\n\n    .timer-section[_ngcontent-%COMP%]   .container[_ngcontent-%COMP%] {\n    padding-left: 15px;\n    padding-right: 15px;\n  }\n\n    .timer-section[_ngcontent-%COMP%]   .timer-container[_ngcontent-%COMP%] {\n    list-style: none;\n  }\n\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%] {\n    list-style: none;\n    position: relative;\n    max-width: 750px;\n    margin: auto;\n  }\n\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]::before {\n    \n    position: absolute;\n    height: 100%;\n    width: 2px;\n    background-color: #F2F2F2;\n    left: 50%;\n    transform: translateX(-50%);\n  }\n\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%] {\n    width: 50%;\n    padding: 20px 15px;\n    position: relative;\n    background-color: #F2F2F2;\n    box-shadow: 0 5px 15px rgba(0, 0, 0, .04);\n  }\n\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]:not(:first-child), .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]:not(:last-child) {\n    margin: 90px 0 60px 0;\n  }\n\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]:nth-child(odd) {\n    transform: translateX(100%);\n    border-left: 2px solid #0A939D;\n    border-radius: 0 3px 3px 0;\n  }\n\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]:nth-child(even) {\n    border-right: 2px solid #299ADC;\n    border-radius: 3px 0 0 3px;\n  }\n\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]    > span[_ngcontent-%COMP%] {\n    position: absolute;\n    height: 26px;\n    width: 50px;\n    color: #333;\n    background-color: #F2F2F2;\n    text-align: center;\n    line-height: 22px;\n    border-radius: 3px;\n    font-size: .8rem;\n  }\n\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]:nth-child(odd)    > span[_ngcontent-%COMP%] {\n    top: -40px;\n    left: -13px;\n    border: 2px solid #0A939D;\n    font-weight: bold;\n  }\n\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]:nth-child(even)    > span[_ngcontent-%COMP%] {\n    top: -40px;\n    right: -13px;\n    border: 2px solid #299ADC;\n    font-weight: bold;\n  }\n\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]   h3[_ngcontent-%COMP%] {\n    \n  }\n\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]   p[_ngcontent-%COMP%] {\n    font-weight: 300;\n    font-size: .85rem;\n    color: #555;\n  }\n\n    @media screen and (max-width: 500px) {\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%] {\n      width: 100%;\n      text-align: center;\n      transform: translateX(0%);\n      border-radius: 3px !important;\n    }\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]:nth-child(odd) {\n      transform: translateX(0%);\n      border: none;\n      border-top: 2px solid #0A939D;\n      font-weight: bold;\n    }\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]:nth-child(even) {\n      border: none;\n      border-top: 2px solid #299ADC;\n      font-weight: bold;\n    }\n    .timer-section[_ngcontent-%COMP%]   .timer[_ngcontent-%COMP%]   .step[_ngcontent-%COMP%]   span[_ngcontent-%COMP%] {\n      left: 50% !important;\n      transform: translateX(-50%);\n    }\n  }\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRpbWVsaW5lLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSxhQUFhO0lBQ2IsMkJBQTJCLEVBQUU7O0lBRTdCO1FBQ0kscUJBQXFCO0lBQ3pCOztJQUNKO0lBQ0ksaUJBQWlCO0VBQ25COztJQUNBO0lBQ0Usa0JBQWtCO0lBQ2xCLG1CQUFtQjtFQUNyQjs7SUFFQTtJQUNFLGdCQUFnQjtFQUNsQjs7SUFDQTtJQUNFLGdCQUFnQjtJQUNoQixrQkFBa0I7SUFDbEIsZ0JBQWdCO0lBQ2hCLFlBQVk7RUFDZDs7SUFDQTtJQUNFLGlCQUFpQjtJQUNqQixrQkFBa0I7SUFDbEIsWUFBWTtJQUNaLFVBQVU7SUFDVix5QkFBeUI7SUFDekIsU0FBUztJQUNULDJCQUEyQjtFQUM3Qjs7SUFFQTtJQUNFLFVBQVU7SUFDVixrQkFBa0I7SUFDbEIsa0JBQWtCO0lBQ2xCLHlCQUF5QjtJQUN6Qix5Q0FBeUM7RUFDM0M7O0lBQ0E7O0lBRUUscUJBQXFCO0VBQ3ZCOztJQUNBO0lBQ0UsMkJBQTJCO0lBQzNCLDhCQUE4QjtJQUM5QiwwQkFBMEI7RUFDNUI7O0lBQ0E7SUFDRSwrQkFBK0I7SUFDL0IsMEJBQTBCO0VBQzVCOztJQUVBO0lBQ0Usa0JBQWtCO0lBQ2xCLFlBQVk7SUFDWixXQUFXO0lBQ1gsV0FBVztJQUNYLHlCQUF5QjtJQUN6QixrQkFBa0I7SUFDbEIsaUJBQWlCO0lBQ2pCLGtCQUFrQjtJQUNsQixnQkFBZ0I7RUFDbEI7O0lBQ0E7SUFDRSxVQUFVO0lBQ1YsV0FBVztJQUNYLHlCQUF5QjtJQUN6QixpQkFBaUI7RUFDbkI7O0lBQ0E7SUFDRSxVQUFVO0lBQ1YsWUFBWTtJQUNaLHlCQUF5QjtJQUN6QixpQkFBaUI7RUFDbkI7O0lBRUE7SUFDRSx5QkFBeUI7RUFDM0I7O0lBQ0E7SUFDRSxnQkFBZ0I7SUFDaEIsaUJBQWlCO0lBQ2pCLFdBQVc7RUFDYjs7SUFFQTtJQUNFO01BQ0UsV0FBVztNQUNYLGtCQUFrQjtNQUNsQix5QkFBeUI7TUFDekIsNkJBQTZCO0lBQy9CO0lBQ0E7TUFDRSx5QkFBeUI7TUFDekIsWUFBWTtNQUNaLDZCQUE2QjtNQUM3QixpQkFBaUI7SUFDbkI7SUFDQTtNQUNFLFlBQVk7TUFDWiw2QkFBNkI7TUFDN0IsaUJBQWlCO0lBQ25CO0lBQ0E7TUFDRSxvQkFBb0I7TUFDcEIsMkJBQTJCO0lBQzdCO0VBQ0YiLCJmaWxlIjoidGltZWxpbmUuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbInAge1xuICAgIG1hcmdpbi10b3A6IDA7XG4gICAgbWFyZ2luLWJvdHRvbTogMCAhaW1wb3J0YW50OyB9XG5cbiAgICB1bHtcbiAgICAgICAgcGFkZGluZzogMCAhaW1wb3J0YW50O1xuICAgIH1cbi50aW1lci1zZWN0aW9uIHtcbiAgICBtaW4taGVpZ2h0OiAxMDB2aDtcbiAgfVxuICAudGltZXItc2VjdGlvbiAuY29udGFpbmVyIHtcbiAgICBwYWRkaW5nLWxlZnQ6IDE1cHg7XG4gICAgcGFkZGluZy1yaWdodDogMTVweDtcbiAgfVxuICBcbiAgLnRpbWVyLXNlY3Rpb24gLnRpbWVyLWNvbnRhaW5lciB7XG4gICAgbGlzdC1zdHlsZTogbm9uZTtcbiAgfVxuICAudGltZXItc2VjdGlvbiAudGltZXIge1xuICAgIGxpc3Qtc3R5bGU6IG5vbmU7XG4gICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgIG1heC13aWR0aDogNzUwcHg7XG4gICAgbWFyZ2luOiBhdXRvO1xuICB9XG4gIC50aW1lci1zZWN0aW9uIC50aW1lcjo6YmVmb3JlIHtcbiAgICAvKiBjb250ZW50OiAnJzsgKi9cbiAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgaGVpZ2h0OiAxMDAlO1xuICAgIHdpZHRoOiAycHg7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogI0YyRjJGMjtcbiAgICBsZWZ0OiA1MCU7XG4gICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVYKC01MCUpO1xuICB9XG4gIFxuICAudGltZXItc2VjdGlvbiAudGltZXIgLnN0ZXAge1xuICAgIHdpZHRoOiA1MCU7XG4gICAgcGFkZGluZzogMjBweCAxNXB4O1xuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjRjJGMkYyO1xuICAgIGJveC1zaGFkb3c6IDAgNXB4IDE1cHggcmdiYSgwLCAwLCAwLCAuMDQpO1xuICB9XG4gIC50aW1lci1zZWN0aW9uIC50aW1lciAuc3RlcDpub3QoOmZpcnN0LWNoaWxkKSxcbiAgLnRpbWVyLXNlY3Rpb24gLnRpbWVyIC5zdGVwOm5vdCg6bGFzdC1jaGlsZCkge1xuICAgIG1hcmdpbjogOTBweCAwIDYwcHggMDtcbiAgfVxuICAudGltZXItc2VjdGlvbiAudGltZXIgLnN0ZXA6bnRoLWNoaWxkKG9kZCkge1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWCgxMDAlKTtcbiAgICBib3JkZXItbGVmdDogMnB4IHNvbGlkICMwQTkzOUQ7XG4gICAgYm9yZGVyLXJhZGl1czogMCAzcHggM3B4IDA7XG4gIH1cbiAgLnRpbWVyLXNlY3Rpb24gLnRpbWVyIC5zdGVwOm50aC1jaGlsZChldmVuKSB7XG4gICAgYm9yZGVyLXJpZ2h0OiAycHggc29saWQgIzI5OUFEQztcbiAgICBib3JkZXItcmFkaXVzOiAzcHggMCAwIDNweDtcbiAgfVxuICBcbiAgLnRpbWVyLXNlY3Rpb24gLnRpbWVyIC5zdGVwID4gc3BhbiB7XG4gICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgIGhlaWdodDogMjZweDtcbiAgICB3aWR0aDogNTBweDtcbiAgICBjb2xvcjogIzMzMztcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjRjJGMkYyO1xuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICBsaW5lLWhlaWdodDogMjJweDtcbiAgICBib3JkZXItcmFkaXVzOiAzcHg7XG4gICAgZm9udC1zaXplOiAuOHJlbTtcbiAgfVxuICAudGltZXItc2VjdGlvbiAudGltZXIgLnN0ZXA6bnRoLWNoaWxkKG9kZCkgPiBzcGFuIHtcbiAgICB0b3A6IC00MHB4O1xuICAgIGxlZnQ6IC0xM3B4O1xuICAgIGJvcmRlcjogMnB4IHNvbGlkICMwQTkzOUQ7XG4gICAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gIH1cbiAgLnRpbWVyLXNlY3Rpb24gLnRpbWVyIC5zdGVwOm50aC1jaGlsZChldmVuKSA+IHNwYW4ge1xuICAgIHRvcDogLTQwcHg7XG4gICAgcmlnaHQ6IC0xM3B4O1xuICAgIGJvcmRlcjogMnB4IHNvbGlkICMyOTlBREM7XG4gICAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gIH1cbiAgXG4gIC50aW1lci1zZWN0aW9uIC50aW1lciAuc3RlcCBoMyB7XG4gICAgLyogbWFyZ2luLWJvdHRvbTogMTVweDsgKi9cbiAgfVxuICAudGltZXItc2VjdGlvbiAudGltZXIgLnN0ZXAgcCB7XG4gICAgZm9udC13ZWlnaHQ6IDMwMDtcbiAgICBmb250LXNpemU6IC44NXJlbTtcbiAgICBjb2xvcjogIzU1NTtcbiAgfVxuICBcbiAgQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNTAwcHgpIHtcbiAgICAudGltZXItc2VjdGlvbiAudGltZXIgLnN0ZXAge1xuICAgICAgd2lkdGg6IDEwMCU7XG4gICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVgoMCUpO1xuICAgICAgYm9yZGVyLXJhZGl1czogM3B4ICFpbXBvcnRhbnQ7XG4gICAgfVxuICAgIC50aW1lci1zZWN0aW9uIC50aW1lciAuc3RlcDpudGgtY2hpbGQob2RkKSB7XG4gICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVgoMCUpO1xuICAgICAgYm9yZGVyOiBub25lO1xuICAgICAgYm9yZGVyLXRvcDogMnB4IHNvbGlkICMwQTkzOUQ7XG4gICAgICBmb250LXdlaWdodDogYm9sZDtcbiAgICB9XG4gICAgLnRpbWVyLXNlY3Rpb24gLnRpbWVyIC5zdGVwOm50aC1jaGlsZChldmVuKSB7XG4gICAgICBib3JkZXI6IG5vbmU7XG4gICAgICBib3JkZXItdG9wOiAycHggc29saWQgIzI5OUFEQztcbiAgICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xuICAgIH1cbiAgICAudGltZXItc2VjdGlvbiAudGltZXIgLnN0ZXAgc3BhbiB7XG4gICAgICBsZWZ0OiA1MCUgIWltcG9ydGFudDtcbiAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWCgtNTAlKTtcbiAgICB9XG4gIH0iXX0= */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](TimelineComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -948,7 +948,7 @@ HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, directives: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterLinkWithHref"]], styles: ["#slider[_ngcontent-%COMP%]   .carousel-item[_ngcontent-%COMP%] {\r\n    height: 500px;\r\n  }\r\n  \r\n  .carousel-caption[_ngcontent-%COMP%] {\r\n    font-size: 18px;\r\n  }\r\n  \r\n  .carousel-item[_ngcontent-%COMP%] > img[_ngcontent-%COMP%] {\r\n    width: 100%\r\n  }\r\n  \r\n  .carousel-indicators[_ngcontent-%COMP%]   li[_ngcontent-%COMP%] {\r\n    background-color: #0a939d;\r\n    height: 10px;\r\n    width: 10px;\r\n    border-radius: 50%;\r\n  }\r\n  \r\n  .carousel-control-next-icon[_ngcontent-%COMP%] {\r\n    background-image: url(\"/assets/images/right-arrow.png\");\r\n    width: 50px;\r\n    height: 50px;\r\n  }\r\n  \r\n  .carousel-control-prev-icon[_ngcontent-%COMP%] {\r\n    background-image: url(\"/assets/images/left-arrow.png\");\r\n    width: 50px;\r\n    height: 50px;\r\n  }\r\n  \r\n  \r\n  \r\n  .carousel-item[_ngcontent-%COMP%] {\r\n  height: 80vh;\r\n  background-repeat: no-repeat;\r\n  background-position: center center;\r\n  background-size: cover;\r\n}\r\n  \r\n  @media only screen and (max-width: 600px) and (min-width: 320px) {\r\n  .carousel-item[_ngcontent-%COMP%] {\r\n    height: 31vh;\r\n  }\r\n}\r\n  \r\n  .registerBtn[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]{\r\n  text-decoration: none;\r\n  color: #000000;\r\n  font-weight: 500;\r\n}\r\n  \r\n  @media only screen and (max-width: 768px) {\r\n  .modal-dialog[_ngcontent-%COMP%]{\r\n    padding-top: 120px\r\n  }\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhvbWUuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLGFBQWE7RUFDZjs7RUFFQTtJQUNFLGVBQWU7RUFDakI7O0VBRUE7SUFDRTtFQUNGOztFQUNBO0lBQ0UseUJBQXlCO0lBQ3pCLFlBQVk7SUFDWixXQUFXO0lBQ1gsa0JBQWtCO0VBQ3BCOztFQUNBO0lBQ0UsdURBQXVEO0lBQ3ZELFdBQVc7SUFDWCxZQUFZO0VBQ2Q7O0VBQ0E7SUFDRSxzREFBc0Q7SUFDdEQsV0FBVztJQUNYLFlBQVk7RUFDZDs7RUFDSSxXQUFXOztFQUNqQjtFQUNFLFlBQVk7RUFDWiw0QkFBNEI7RUFDNUIsa0NBQWtDO0VBQ2xDLHNCQUFzQjtBQUN4Qjs7RUFDQTtFQUNFO0lBQ0UsWUFBWTtFQUNkO0FBQ0Y7O0VBRUE7RUFDRSxxQkFBcUI7RUFDckIsY0FBYztFQUNkLGdCQUFnQjtBQUNsQjs7RUFJQTtFQUNFO0lBQ0U7RUFDRjtBQUNGOztFQUVBOzs7Ozs7Ozs7R0FTRyIsImZpbGUiOiJob21lLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIjc2xpZGVyIC5jYXJvdXNlbC1pdGVtIHtcclxuICAgIGhlaWdodDogNTAwcHg7XHJcbiAgfVxyXG4gIFxyXG4gIC5jYXJvdXNlbC1jYXB0aW9uIHtcclxuICAgIGZvbnQtc2l6ZTogMThweDtcclxuICB9XHJcbiAgXHJcbiAgLmNhcm91c2VsLWl0ZW0+aW1nIHtcclxuICAgIHdpZHRoOiAxMDAlXHJcbiAgfVxyXG4gIC5jYXJvdXNlbC1pbmRpY2F0b3JzIGxpIHtcclxuICAgIGJhY2tncm91bmQtY29sb3I6ICMwYTkzOWQ7XHJcbiAgICBoZWlnaHQ6IDEwcHg7XHJcbiAgICB3aWR0aDogMTBweDtcclxuICAgIGJvcmRlci1yYWRpdXM6IDUwJTtcclxuICB9XHJcbiAgLmNhcm91c2VsLWNvbnRyb2wtbmV4dC1pY29uIHtcclxuICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChcIi9hc3NldHMvaW1hZ2VzL3JpZ2h0LWFycm93LnBuZ1wiKTtcclxuICAgIHdpZHRoOiA1MHB4O1xyXG4gICAgaGVpZ2h0OiA1MHB4O1xyXG4gIH1cclxuICAuY2Fyb3VzZWwtY29udHJvbC1wcmV2LWljb24ge1xyXG4gICAgYmFja2dyb3VuZC1pbWFnZTogdXJsKFwiL2Fzc2V0cy9pbWFnZXMvbGVmdC1hcnJvdy5wbmdcIik7XHJcbiAgICB3aWR0aDogNTBweDtcclxuICAgIGhlaWdodDogNTBweDtcclxuICB9XHJcbiAgICAgIC8qIFNsaWRlciAqL1xyXG4uY2Fyb3VzZWwtaXRlbSB7XHJcbiAgaGVpZ2h0OiA4MHZoO1xyXG4gIGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7XHJcbiAgYmFja2dyb3VuZC1wb3NpdGlvbjogY2VudGVyIGNlbnRlcjtcclxuICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xyXG59XHJcbkBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13aWR0aDogNjAwcHgpIGFuZCAobWluLXdpZHRoOiAzMjBweCkge1xyXG4gIC5jYXJvdXNlbC1pdGVtIHtcclxuICAgIGhlaWdodDogMzF2aDtcclxuICB9XHJcbn1cclxuXHJcbi5yZWdpc3RlckJ0biBhe1xyXG4gIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcclxuICBjb2xvcjogIzAwMDAwMDtcclxuICBmb250LXdlaWdodDogNTAwO1xyXG59XHJcblxyXG5cclxuXHJcbkBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13aWR0aDogNzY4cHgpIHtcclxuICAubW9kYWwtZGlhbG9ne1xyXG4gICAgcGFkZGluZy10b3A6IDEyMHB4XHJcbiAgfVxyXG59XHJcblxyXG4vKlxyXG4ubW9kYWwtZGlhbG9nLFxyXG4ubW9kYWwtY29udGVudCB7XHJcbiAgICBoZWlnaHQ6IDEwMCU7XHJcbn1cclxuXHJcbi5tb2RhbC1ib2R5IHtcclxuICAgIG1heC1oZWlnaHQ6IGNhbGMoMTAwJSAtIDEyMHB4KTtcclxuICAgIG92ZXJmbG93LXk6IHNjcm9sbDtcclxufSAqLyJdfQ== */", ".wrapper[_ngcontent-%COMP%] {\n        display: -webkit-flex;\n        display: -moz-flex;\n        display: -ms-flex;\n        display: -o-flex;\n        display: flex;\n    }\n\n    .box[_ngcontent-%COMP%] {\n        background: linear-gradient(360deg, #61948d 0%, #549e8f 0%, #17c69f 100%);\n        overflow: hidden;\n        box-sizing: border-box;\n        margin: 15px;\n        position: relative;\n        height: calc(300px - 30px);\n        width: calc(400px - 30px);\n    }\n\n    .img-area[_ngcontent-%COMP%] {\n        position: absolute;\n        left: 0;\n        top: 0;\n        height: 100%;\n        width: 100%;\n        transition: all 0.5s ease-in;\n        z-index: 1;\n        -webkit-background-size: cover;\n        background-size: cover;\n        background-position: center center;\n    }\n\n    .box[_ngcontent-%COMP%]:hover > .img-area[_ngcontent-%COMP%] {\n        \n        border-radius: 50%;\n        left: calc(50% - 56px);\n        top: 20px;\n        height: 66px;\n        width: 30%;\n    }\n\n    .content[_ngcontent-%COMP%] {\n        position: absolute;\n        width: 100%;\n        top: 100%;\n        height: calc(100% - 100px);\n        padding: 20px 0;\n        text-align: center;\n        box-sizing: border-box;\n        transition: all 0.5s ease-in;\n        opacity: 0;\n    }\n\n    .box[_ngcontent-%COMP%]:hover   .content[_ngcontent-%COMP%] {\n        top: 100px;\n        opacity: 1;\n    }\n\n    .content[_ngcontent-%COMP%]   h3[_ngcontent-%COMP%] {\n        margin: 0 0 10px;\n        padding: 0;\n        font-size: 1.5rem;\n    }", "#external-controls[_ngcontent-%COMP%]   button[_ngcontent-%COMP%]:focus {\n                        outline: none !important;\n                        box-shadow: none !important;\n                    }"] });
+    } }, directives: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterLinkWithHref"]], styles: ["#slider[_ngcontent-%COMP%]   .carousel-item[_ngcontent-%COMP%] {\n    height: 500px;\n  }\n  \n  .carousel-caption[_ngcontent-%COMP%] {\n    font-size: 18px;\n  }\n  \n  .carousel-item[_ngcontent-%COMP%] > img[_ngcontent-%COMP%] {\n    width: 100%\n  }\n  \n  .carousel-indicators[_ngcontent-%COMP%]   li[_ngcontent-%COMP%] {\n    background-color: #0a939d;\n    height: 10px;\n    width: 10px;\n    border-radius: 50%;\n  }\n  \n  .carousel-control-next-icon[_ngcontent-%COMP%] {\n    background-image: url(\"/assets/images/right-arrow.png\");\n    width: 50px;\n    height: 50px;\n  }\n  \n  .carousel-control-prev-icon[_ngcontent-%COMP%] {\n    background-image: url(\"/assets/images/left-arrow.png\");\n    width: 50px;\n    height: 50px;\n  }\n  \n  \n  \n  .carousel-item[_ngcontent-%COMP%] {\n  height: 80vh;\n  background-repeat: no-repeat;\n  background-position: center center;\n  background-size: cover;\n}\n  \n  @media only screen and (max-width: 600px) and (min-width: 320px) {\n  .carousel-item[_ngcontent-%COMP%] {\n    height: 31vh;\n  }\n}\n  \n  .registerBtn[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]{\n  text-decoration: none;\n  color: #000000;\n  font-weight: 500;\n}\n  \n  @media only screen and (max-width: 768px) {\n  .modal-dialog[_ngcontent-%COMP%]{\n    padding-top: 120px\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhvbWUuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLGFBQWE7RUFDZjs7RUFFQTtJQUNFLGVBQWU7RUFDakI7O0VBRUE7SUFDRTtFQUNGOztFQUNBO0lBQ0UseUJBQXlCO0lBQ3pCLFlBQVk7SUFDWixXQUFXO0lBQ1gsa0JBQWtCO0VBQ3BCOztFQUNBO0lBQ0UsdURBQXVEO0lBQ3ZELFdBQVc7SUFDWCxZQUFZO0VBQ2Q7O0VBQ0E7SUFDRSxzREFBc0Q7SUFDdEQsV0FBVztJQUNYLFlBQVk7RUFDZDs7RUFDSSxXQUFXOztFQUNqQjtFQUNFLFlBQVk7RUFDWiw0QkFBNEI7RUFDNUIsa0NBQWtDO0VBQ2xDLHNCQUFzQjtBQUN4Qjs7RUFDQTtFQUNFO0lBQ0UsWUFBWTtFQUNkO0FBQ0Y7O0VBRUE7RUFDRSxxQkFBcUI7RUFDckIsY0FBYztFQUNkLGdCQUFnQjtBQUNsQjs7RUFJQTtFQUNFO0lBQ0U7RUFDRjtBQUNGOztFQUVBOzs7Ozs7Ozs7R0FTRyIsImZpbGUiOiJob21lLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIjc2xpZGVyIC5jYXJvdXNlbC1pdGVtIHtcbiAgICBoZWlnaHQ6IDUwMHB4O1xuICB9XG4gIFxuICAuY2Fyb3VzZWwtY2FwdGlvbiB7XG4gICAgZm9udC1zaXplOiAxOHB4O1xuICB9XG4gIFxuICAuY2Fyb3VzZWwtaXRlbT5pbWcge1xuICAgIHdpZHRoOiAxMDAlXG4gIH1cbiAgLmNhcm91c2VsLWluZGljYXRvcnMgbGkge1xuICAgIGJhY2tncm91bmQtY29sb3I6ICMwYTkzOWQ7XG4gICAgaGVpZ2h0OiAxMHB4O1xuICAgIHdpZHRoOiAxMHB4O1xuICAgIGJvcmRlci1yYWRpdXM6IDUwJTtcbiAgfVxuICAuY2Fyb3VzZWwtY29udHJvbC1uZXh0LWljb24ge1xuICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChcIi9hc3NldHMvaW1hZ2VzL3JpZ2h0LWFycm93LnBuZ1wiKTtcbiAgICB3aWR0aDogNTBweDtcbiAgICBoZWlnaHQ6IDUwcHg7XG4gIH1cbiAgLmNhcm91c2VsLWNvbnRyb2wtcHJldi1pY29uIHtcbiAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoXCIvYXNzZXRzL2ltYWdlcy9sZWZ0LWFycm93LnBuZ1wiKTtcbiAgICB3aWR0aDogNTBweDtcbiAgICBoZWlnaHQ6IDUwcHg7XG4gIH1cbiAgICAgIC8qIFNsaWRlciAqL1xuLmNhcm91c2VsLWl0ZW0ge1xuICBoZWlnaHQ6IDgwdmg7XG4gIGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7XG4gIGJhY2tncm91bmQtcG9zaXRpb246IGNlbnRlciBjZW50ZXI7XG4gIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XG59XG5AbWVkaWEgb25seSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDYwMHB4KSBhbmQgKG1pbi13aWR0aDogMzIwcHgpIHtcbiAgLmNhcm91c2VsLWl0ZW0ge1xuICAgIGhlaWdodDogMzF2aDtcbiAgfVxufVxuXG4ucmVnaXN0ZXJCdG4gYXtcbiAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xuICBjb2xvcjogIzAwMDAwMDtcbiAgZm9udC13ZWlnaHQ6IDUwMDtcbn1cblxuXG5cbkBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13aWR0aDogNzY4cHgpIHtcbiAgLm1vZGFsLWRpYWxvZ3tcbiAgICBwYWRkaW5nLXRvcDogMTIwcHhcbiAgfVxufVxuXG4vKlxuLm1vZGFsLWRpYWxvZyxcbi5tb2RhbC1jb250ZW50IHtcbiAgICBoZWlnaHQ6IDEwMCU7XG59XG5cbi5tb2RhbC1ib2R5IHtcbiAgICBtYXgtaGVpZ2h0OiBjYWxjKDEwMCUgLSAxMjBweCk7XG4gICAgb3ZlcmZsb3cteTogc2Nyb2xsO1xufSAqLyJdfQ== */", ".wrapper[_ngcontent-%COMP%] {\n        display: -webkit-flex;\n        display: -moz-flex;\n        display: -ms-flex;\n        display: -o-flex;\n        display: flex;\n    }\n\n    .box[_ngcontent-%COMP%] {\n        background: linear-gradient(360deg, #61948d 0%, #549e8f 0%, #17c69f 100%);\n        overflow: hidden;\n        box-sizing: border-box;\n        margin: 15px;\n        position: relative;\n        height: calc(300px - 30px);\n        width: calc(400px - 30px);\n    }\n\n    .img-area[_ngcontent-%COMP%] {\n        position: absolute;\n        left: 0;\n        top: 0;\n        height: 100%;\n        width: 100%;\n        transition: all 0.5s ease-in;\n        z-index: 1;\n        -webkit-background-size: cover;\n        background-size: cover;\n        background-position: center center;\n    }\n\n    .box[_ngcontent-%COMP%]:hover > .img-area[_ngcontent-%COMP%] {\n        \n        border-radius: 50%;\n        left: calc(50% - 56px);\n        top: 20px;\n        height: 66px;\n        width: 30%;\n    }\n\n    .content[_ngcontent-%COMP%] {\n        position: absolute;\n        width: 100%;\n        top: 100%;\n        height: calc(100% - 100px);\n        padding: 20px 0;\n        text-align: center;\n        box-sizing: border-box;\n        transition: all 0.5s ease-in;\n        opacity: 0;\n    }\n\n    .box[_ngcontent-%COMP%]:hover   .content[_ngcontent-%COMP%] {\n        top: 100px;\n        opacity: 1;\n    }\n\n    .content[_ngcontent-%COMP%]   h3[_ngcontent-%COMP%] {\n        margin: 0 0 10px;\n        padding: 0;\n        font-size: 1.5rem;\n    }", "#external-controls[_ngcontent-%COMP%]   button[_ngcontent-%COMP%]:focus {\n                        outline: none !important;\n                        box-shadow: none !important;\n                    }"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](HomeComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -1232,7 +1232,7 @@ HeaderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, directives: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterLinkWithHref"], _angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterLinkActive"]], styles: [".actives[_ngcontent-%COMP%]{\r\n    background-color: white;\r\n    color: #0A939D !important;\r\n    border-top: 2px solid #0A939D !important;\r\n    font-weight: bold !important;\r\n    \r\n}\r\na[_ngcontent-%COMP%] {\r\n    cursor: pointer;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhlYWRlci5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0lBQ0ksdUJBQXVCO0lBQ3ZCLHlCQUF5QjtJQUN6Qix3Q0FBd0M7SUFDeEMsNEJBQTRCOztBQUVoQztBQUNBO0lBQ0ksZUFBZTtBQUNuQiIsImZpbGUiOiJoZWFkZXIuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5hY3RpdmVze1xyXG4gICAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGU7XHJcbiAgICBjb2xvcjogIzBBOTM5RCAhaW1wb3J0YW50O1xyXG4gICAgYm9yZGVyLXRvcDogMnB4IHNvbGlkICMwQTkzOUQgIWltcG9ydGFudDtcclxuICAgIGZvbnQtd2VpZ2h0OiBib2xkICFpbXBvcnRhbnQ7XHJcbiAgICBcclxufVxyXG5hIHtcclxuICAgIGN1cnNvcjogcG9pbnRlcjtcclxufVxyXG4iXX0= */"] });
+    } }, directives: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterLinkWithHref"], _angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterLinkActive"]], styles: [".actives[_ngcontent-%COMP%]{\n    background-color: white;\n    color: #0A939D !important;\n    border-top: 2px solid #0A939D !important;\n    font-weight: bold !important;\n    \n}\na[_ngcontent-%COMP%] {\n    cursor: pointer;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhlYWRlci5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0lBQ0ksdUJBQXVCO0lBQ3ZCLHlCQUF5QjtJQUN6Qix3Q0FBd0M7SUFDeEMsNEJBQTRCOztBQUVoQztBQUNBO0lBQ0ksZUFBZTtBQUNuQiIsImZpbGUiOiJoZWFkZXIuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5hY3RpdmVze1xuICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlO1xuICAgIGNvbG9yOiAjMEE5MzlEICFpbXBvcnRhbnQ7XG4gICAgYm9yZGVyLXRvcDogMnB4IHNvbGlkICMwQTkzOUQgIWltcG9ydGFudDtcbiAgICBmb250LXdlaWdodDogYm9sZCAhaW1wb3J0YW50O1xuICAgIFxufVxuYSB7XG4gICAgY3Vyc29yOiBwb2ludGVyO1xufVxuIl19 */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](HeaderComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -1567,7 +1567,7 @@ CareersComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](59, "input", 22);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, styles: [".heroBreadcrumb[_ngcontent-%COMP%] {\r\n    height: 40vh !important;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNhcmVlcnMuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLHVCQUF1QjtBQUMzQiIsImZpbGUiOiJjYXJlZXJzLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaGVyb0JyZWFkY3J1bWIge1xyXG4gICAgaGVpZ2h0OiA0MHZoICFpbXBvcnRhbnQ7XHJcbn0iXX0= */"] });
+    } }, styles: [".heroBreadcrumb[_ngcontent-%COMP%] {\n    height: 40vh !important;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNhcmVlcnMuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLHVCQUF1QjtBQUMzQiIsImZpbGUiOiJjYXJlZXJzLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaGVyb0JyZWFkY3J1bWIge1xuICAgIGhlaWdodDogNDB2aCAhaW1wb3J0YW50O1xufSJdfQ== */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](CareersComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -1947,7 +1947,7 @@ GalleryComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](125);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx.imgSrc, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
-    } }, styles: [".heroBreadcrumb[_ngcontent-%COMP%] {\r\n    height: 40vh !important;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImdhbGxlcnkuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLHVCQUF1QjtBQUMzQiIsImZpbGUiOiJnYWxsZXJ5LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaGVyb0JyZWFkY3J1bWIge1xyXG4gICAgaGVpZ2h0OiA0MHZoICFpbXBvcnRhbnQ7XHJcbn0iXX0= */"] });
+    } }, styles: [".heroBreadcrumb[_ngcontent-%COMP%] {\n    height: 40vh !important;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImdhbGxlcnkuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLHVCQUF1QjtBQUMzQiIsImZpbGUiOiJnYWxsZXJ5LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaGVyb0JyZWFkY3J1bWIge1xuICAgIGhlaWdodDogNDB2aCAhaW1wb3J0YW50O1xufSJdfQ== */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](GalleryComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -2486,7 +2486,7 @@ TherapyComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, directives: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterLink"]], styles: [".heroBreadcrumb[_ngcontent-%COMP%] {\r\n    height: 40vh !important;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRoZXJhcHkuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLHVCQUF1QjtBQUMzQiIsImZpbGUiOiJ0aGVyYXB5LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaGVyb0JyZWFkY3J1bWIge1xyXG4gICAgaGVpZ2h0OiA0MHZoICFpbXBvcnRhbnQ7XHJcbn0iXX0= */"] });
+    } }, directives: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterLink"]], styles: [".heroBreadcrumb[_ngcontent-%COMP%] {\n    height: 40vh !important;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRoZXJhcHkuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLHVCQUF1QjtBQUMzQiIsImZpbGUiOiJ0aGVyYXB5LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaGVyb0JyZWFkY3J1bWIge1xuICAgIGhlaWdodDogNDB2aCAhaW1wb3J0YW50O1xufSJdfQ== */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](TherapyComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -3641,14 +3641,20 @@ class ProductComponent {
             }
             else { }
         });
-        if (this.productName === "GLIMFIRST M1/M2 FORTE TAB") {
+        if (this.productName === "GLIMFIRST M1/M2") {
             this.productNameImg = "Glimfirst_M1";
         }
         if (this.productName === "TENLIP M/M Forte") {
             this.productNameImg = "TENLIP_M_Forte";
         }
-        else if (this.productName === "TELFIRST 20/40/80MG TAB") {
-            this.productNameImg = "TELFIRST 204080";
+        else if (this.productName === "TELFIRST 20/40 MG") {
+            this.productNameImg = "Telfirst 20-40 logo";
+        }
+        else if (this.productName === "TELFIRST AM") {
+            this.productNameImg = "Telfirst AM";
+        }
+        else if (this.productName === "Telfirst H 40 +12.5 MG") {
+            this.productNameImg = "Telfirst H logo-1.1";
         }
         else if (this.productName === "BDID SR/TH") {
             this.productNameImg = "BDID SRTH";
@@ -3671,6 +3677,12 @@ class ProductComponent {
         else if (this.productName === "ZICLA 60 SR/60SRM") {
             this.productNameImg = "ZICLA_60_SRM";
         }
+        else if (this.productName === "Homo 16 PG") {
+            this.productNameImg = "HOMO 16 PG";
+        }
+        else if (this.productName === "HOMO 16 D") {
+            this.productNameImg = "Homo 16 D";
+        }
         else if (this.productName === "CAMDEM-5/10") {
             this.productNameImg = "Camdem-510";
         }
@@ -3683,8 +3695,92 @@ class ProductComponent {
         else if (this.productName === "TELFIRST M 25/50MG") {
             this.productNameImg = "TELFIRST M 2550MG";
         }
-        else if (this.productName === "TELFIRST CT 40/6.25 TAB") {
+        else if (this.productName === "D- Bose M 0.2/0.3") {
+            this.productNameImg = "DBOSE M";
+        }
+        else if (this.productName === "GLIMFIRST MP1/MP2") {
+            this.productNameImg = "Glimfirst MP1 MP2";
+        }
+        else if (this.productName === "GLIMFIRST MV1/MV2") {
+            this.productNameImg = "GLIMFIRST MV1";
+        }
+        else if (this.productName === "Atorfirst 10/20/40") {
+            this.productNameImg = "ATORFIRST";
+        }
+        else if (this.productName === "Atorfirst F") {
+            this.productNameImg = "Atorfirst F";
+        }
+        else if (this.productName === "Dyloop 5/10/20") {
+            this.productNameImg = "Dyloop";
+        }
+        else if (this.productName === "Dyloop Plus") {
+            this.productNameImg = "Dyloop Plus";
+        }
+        else if (this.productName === "Homo 16 LC") {
+            this.productNameImg = "Homo 16 LC";
+        }
+        else if (this.productName === "ROZFIRST 5/10/20") {
+            this.productNameImg = "ROZFIRST-10 MG TAB";
+        }
+        else if (this.productName === "ROZFIRST GOLD 10/20") {
+            this.productNameImg = "ROZFIRST GOLD 10";
+        }
+        else if (this.productName === "METFIRST T 25/50") {
+            this.productNameImg = "Metfirst T";
+        }
+        else if (this.productName === "Bipra 20/D") {
+            this.productNameImg = "Bipra 20";
+        }
+        else if (this.productName === "Panfirst 40/D") {
+            this.productNameImg = "Panfirst D";
+        }
+        else if (this.productName === "PANFIRST D") {
+            this.productNameImg = "Panfirst D";
+        }
+        else if (this.productName === "CAMDEM-5/10") {
+            this.productNameImg = "Camdem";
+        }
+        else if (this.productName === "BENTOZ") {
+            this.productNameImg = "Bentoz";
+        }
+        else if (this.productName === "DFRIZ") {
+            this.productNameImg = "Dfriz";
+        }
+        else if (this.productName === "GOXOI") {
+            this.productNameImg = "Goxoi";
+        }
+        else if (this.productName === "CAMDEM") {
+            this.productNameImg = "Camdem";
+        }
+        else if (this.productName === "CORBET XT") {
+            this.productNameImg = "corbet";
+        }
+        else if (this.productName === "CORBET XT TAB") {
+            this.productNameImg = "Corbet XT";
+        }
+        else if (this.productName === "ZICLA M") {
+            this.productNameImg = "Zicla M";
+        }
+        else if (this.productName === "TELFIRST CT 40 +6.25/12.5 MG") {
             this.productNameImg = "TELFIRST CT 406.25 TAB";
+        }
+        else if (this.productName === "VILSURE M") {
+            this.productNameImg = "Vilsure M";
+        }
+        else if (this.productName === "Vilsure D") {
+            this.productNameImg = "Vilsure D";
+        }
+        else if (this.productName === "VILSURE 100 SR") {
+            this.productNameImg = "VILSURE 100 SR";
+        }
+        else if (this.productName === "TENLIP 20") {
+            this.productNameImg = "Tenlip 20";
+        }
+        else if (this.productName === "METFIRST XL 25MG") {
+            this.productNameImg = "METFIRST XL 25MG TAB";
+        }
+        else if (this.productName === "BIPRA D") {
+            this.productNameImg = "Bipra D";
         }
         else { }
         if (this.productAlsoAvaliable1 === undefined) {
@@ -3786,7 +3882,7 @@ ProductComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx.mainProductsDiv);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx.subProductsDiv);
-    } }, directives: [_angular_common__WEBPACK_IMPORTED_MODULE_2__["NgIf"], _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgForOf"], _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgClass"]], styles: [".tree[_ngcontent-%COMP%]   ul[_ngcontent-%COMP%] {\r\n    padding-top: 20px; position: relative;\r\n\t\r\n\ttransition: all 0.5s;\r\n\t-webkit-transition: all 0.5s;\r\n\t-moz-transition: all 0.5s;\r\n}\r\n\r\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%] {\r\n\tfloat: left; text-align: center;\r\n\tlist-style-type: none;\r\n\tposition: relative;\r\n\tpadding: 20px 5px 0 5px;\r\n\t\r\n\ttransition: all 0.5s;\r\n\t-webkit-transition: all 0.5s;\r\n\t-moz-transition: all 0.5s;\r\n}\r\n\r\n\r\n\r\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]::before, .tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]::after{\r\n\tcontent: '';\r\n\tposition: absolute; top: 0; right: 50%;\r\n\tborder-top: 1px solid #299adc;\r\n\twidth: 50%; height: 20px;\r\n}\r\n\r\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]::after{\r\n\tright: auto; left: 50%;\r\n\tborder-left: 1px solid #299adc;\r\n}\r\n\r\n\r\n\r\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]:only-child::after, .tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]:only-child::before {\r\n\tdisplay: none;\r\n}\r\n\r\n\r\n\r\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]:only-child{ padding-top: 0;}\r\n\r\n\r\n\r\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]:first-child::before, .tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]:last-child::after{\r\n\tborder: 0 none;\r\n}\r\n\r\n\r\n\r\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]:last-child::before{\r\n\tborder-right: 1px solid #299adc;\r\n\tborder-radius: 0 5px 0 0;\r\n\t-webkit-border-radius: 0 5px 0 0;\r\n\t-moz-border-radius: 0 5px 0 0;\r\n}\r\n\r\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]:first-child::after{\r\n\tborder-radius: 5px 0 0 0;\r\n\t-webkit-border-radius: 5px 0 0 0;\r\n\t-moz-border-radius: 5px 0 0 0;\r\n}\r\n\r\n\r\n\r\n.tree[_ngcontent-%COMP%]   ul[_ngcontent-%COMP%]   ul[_ngcontent-%COMP%]::before{\r\n\tcontent: '';\r\n\tposition: absolute; top: 0; left: 50%;\r\n\tborder-left: 1px solid #299adc;\r\n\twidth: 0; height: 20px;\r\n}\r\n\r\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]{\r\n\tborder: 1px solid #729fa3;\r\n\tpadding: 5px 10px;\r\n\ttext-decoration: none;\r\n    color: #000000;\r\n    font-weight: bold;\r\n\t\r\n\tfont-size: 12px;\r\n\tdisplay: inline-block;\r\n\t\r\n\tborder-radius: 5px;\r\n\t-webkit-border-radius: 5px;\r\n\t-moz-border-radius: 5px;\r\n\t\r\n\ttransition: all 0.5s;\r\n\t-webkit-transition: all 0.5s;\r\n\t-moz-transition: all 0.5s;\r\n}\r\n\r\n\r\n\r\n\r\n\r\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover, .tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover + ul[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%] {\r\n\tbackground: #c8e4f8; color: #000; border: 1px solid #94a0b4;\r\n}\r\n\r\n\r\n\r\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover + ul[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]::after, .tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover + ul[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]::before, .tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover + ul[_ngcontent-%COMP%]::before, .tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover + ul[_ngcontent-%COMP%]   ul[_ngcontent-%COMP%]::before{\r\n\tborder-color:  #94a0b4;\r\n}\r\n\r\n\r\n\r\n\r\n\r\n.tableSty[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]{\r\n\tcolor: teal;\r\n\tfont-weight: 700;\r\n}\r\n\r\n.list[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]{\r\n\tlist-style: none;\r\n\tcolor: black;\r\n}\r\n\r\ni[_ngcontent-%COMP%]{\r\n\tcolor: #0A939D;\r\n}\r\n\r\n.citiusDivs[_ngcontent-%COMP%]{\r\n\tbackground-color: #0A939D;\r\n\tfont-weight: bold;\r\n\tfont-size: larger;\r\n\tcolor: black;\r\n}\r\n\r\n.kaizerDivs[_ngcontent-%COMP%]{\r\n\tbackground-color: #0A939D;\r\n\tfont-weight: bold;\r\n\tfont-size: larger;\r\n\tcolor: black;\r\n}\r\n\r\ntd[_ngcontent-%COMP%]:hover{\r\ncursor: pointer\r\n}\r\n\r\n\r\n\r\n.bk-btn[_ngcontent-%COMP%] {\r\n\theight: 52px;\r\n\twidth: 52px;\r\n\tbackground-color: #0B939D;\r\n\tborder-radius: 50%;\r\n  }\r\n\r\n.bk-btn[_ngcontent-%COMP%]   .bk-btn-triangle[_ngcontent-%COMP%] {\r\n\tposition: relative;\r\n\ttop: 13px;\r\n\tleft: 10.4px;\r\n\twidth: 0;\r\n\theight: 0;\r\n\tborder-top: 13px solid transparent;\r\n\tborder-bottom: 13px solid transparent;\r\n\tborder-right: 13px solid white;\r\n  }\r\n\r\n.bk-btn[_ngcontent-%COMP%]   .bk-btn-bar[_ngcontent-%COMP%] {\r\n\tposition: relative;\r\n\tbackground-color: white;\r\n\theight: 7.8px;\r\n\twidth: 13px;\r\n\ttop: -3.64px;\r\n\tleft: 22.88px;\r\n  }\r\n\r\nli[_ngcontent-%COMP%]{\r\n\t  position: relative;\r\n\t  line-height: 33PX;\r\n\t  border-bottom: #1C4D86 1px solid;\r\n\t  font-weight: 900;\r\n  }\r\n\r\nli[_ngcontent-%COMP%]:hover{\r\n\t  cursor: pointer;\r\n\t  color: blueviolet;\r\n\t  font-weight: bold;\r\n  }\r\n\r\n.nav[_ngcontent-%COMP%]{\r\n\tpadding-left: 0;\r\n    margin-bottom: 0;\r\n    list-style: none;\r\n  }\r\n\r\n.nav-list[_ngcontent-%COMP%]{\r\n\tmargin: 0;\r\n    padding: 0;\r\n    display: block;\r\n  }\r\n\r\n\r\n\r\n.heroBreadcrumb[_ngcontent-%COMP%] {\r\n    height: 40vh !important;\r\n}\r\n\r\n*[_ngcontent-%COMP%] {\r\n    font-family: 'Montserrat', sans-serif;\r\n  }\r\n\r\n.card[_ngcontent-%COMP%] {\r\n    \r\n    \r\n    \r\n    box-shadow: 0 0 10px #000;\r\n    \r\n  }\r\n\r\nlabel[_ngcontent-%COMP%], a[_ngcontent-%COMP%] {\r\n    cursor: pointer;\r\n    -webkit-user-select: none;\r\n            user-select: none;\r\n    text-decoration: none;\r\n    display: inline-block;\r\n    color: inherit;\r\n    transition: border 0.2s;\r\n    border-bottom: 5px solid rgba(142, 68, 173, 0.2);\r\n    padding: 3px 2px;\r\n  }\r\n\r\nlabel[_ngcontent-%COMP%]:hover, a[_ngcontent-%COMP%]:hover {\r\n    border-bottom-color: #9b59b6;\r\n  }\r\n\r\n.layout[_ngcontent-%COMP%] {\r\n    display: grid;\r\n    height: 100%;\r\n    width: 100%;\r\n    overflow: hidden;\r\n    grid-template-rows: 50px 1fr;\r\n    grid-template-columns: 1fr 1fr;\r\n  }\r\n\r\ninput[type=radio][_ngcontent-%COMP%] {\r\n    display: none;\r\n  }\r\n\r\nlabel.nav[_ngcontent-%COMP%] {\r\n    display: flex;\r\n    height: 116px;\r\n    align-items: center;\r\n    justify-content: center;\r\n    cursor: pointer;\r\n    border-bottom: 2px solid #d5a31b;\r\n    background: #ecf0f1;\r\n    -webkit-user-select: none;\r\n            user-select: none;\r\n    transition: background 0.4s, padding-left 0.2s;\r\n    padding-left: 0;\r\n  }\r\n\r\ninput[type=radio][_ngcontent-%COMP%]:checked + .page[_ngcontent-%COMP%] + label.nav[_ngcontent-%COMP%] {\r\n    background: #FEE4C3;\r\n    color: #ffffff;\r\n    padding-left: 20px;\r\n  }\r\n\r\ninput[type=radio][_ngcontent-%COMP%]:checked + .page[_ngcontent-%COMP%] + label.nav[_ngcontent-%COMP%]   span[_ngcontent-%COMP%] {\r\n    padding-left: 20px;\r\n  }\r\n\r\ninput[type=radio][_ngcontent-%COMP%]:checked + .page[_ngcontent-%COMP%] + label.nav[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%] {\r\n    opacity: 1;\r\n  }\r\n\r\nlabel.nav[_ngcontent-%COMP%]   span[_ngcontent-%COMP%] {\r\n    padding-left: 0px;\r\n    position: relative;\r\n  }\r\n\r\nlabel.nav[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%] {\r\n    left: 0;\r\n    top: -3px;\r\n    position: absolute;\r\n    width: 15px;\r\n    opacity: 0;\r\n    transition: opacity 0.2s;\r\n  }\r\n\r\n.page[_ngcontent-%COMP%] {\r\n    grid-column-start: 1;\r\n    grid-row-start: 2;\r\n    grid-column-end: span 3;\r\n    padding: 0px 20px;\r\n    \r\n    align-items: center;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%] {\r\n    opacity: 0;\r\n    transform: translateY(20px);\r\n    transition: opacity 0.2s, transform 0.2s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(1) {\r\n    transition-delay: 0.4s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(2) {\r\n    transition-delay: 0.6s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(3) {\r\n    transition-delay: 0.8s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(4) {\r\n    transition-delay: 1s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(5) {\r\n    transition-delay: 1.2s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(6) {\r\n    transition-delay: 1.4s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(7) {\r\n    transition-delay: 1.6s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(8) {\r\n    transition-delay: 1.8s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(9) {\r\n    transition-delay: 2s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(10) {\r\n    transition-delay: 2.2s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(11) {\r\n    transition-delay: 2.4s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(12) {\r\n    transition-delay: 2.6s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(13) {\r\n    transition-delay: 2.8s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(14) {\r\n    transition-delay: 3s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(15) {\r\n    transition-delay: 3.2s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(16) {\r\n    transition-delay: 3.4s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(17) {\r\n    transition-delay: 3.6s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(18) {\r\n    transition-delay: 3.8s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(19) {\r\n    transition-delay: 4s;\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(20) {\r\n    transition-delay: 4.2s;\r\n  }\r\n\r\ninput[type=radio][_ngcontent-%COMP%] + .page[_ngcontent-%COMP%] {\r\n    transition: transform 0.2s;\r\n    transform: translateX(100%);\r\n  }\r\n\r\ninput[type=radio][_ngcontent-%COMP%]:checked + .page[_ngcontent-%COMP%] {\r\n    transform: translateX(0%);\r\n  }\r\n\r\ninput[type=radio][_ngcontent-%COMP%]:checked + .page[_ngcontent-%COMP%]   .page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%] {\r\n    opacity: 1;\r\n    transform: translateY(0px);\r\n  }\r\n\r\n.page-contents[_ngcontent-%COMP%] {\r\n    \r\n    \r\n    margin: 0 auto;\r\n  }\r\n\r\nli[_ngcontent-%COMP%]:active{\r\n\t  color: red;\r\n  }\r\n\r\n.active[_ngcontent-%COMP%]{\r\n\tcolor: red;\r\n\tfont-size: 18px;\r\n  }\n/*# sourceMappingURL=data:application/json;base64,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QUN4Qjs7QUFFQTtJQUNFLG9CQUFvQjtFQUN0Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLG9CQUFvQjtFQUN0Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLG9CQUFvQjtFQUN0Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLG9CQUFvQjtFQUN0Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLDBCQUEwQjtJQUMxQiwyQkFBMkI7RUFDN0I7O0FBRUE7SUFDRSx5QkFBeUI7RUFDM0I7O0FBRUE7SUFDRSxVQUFVO0lBQ1YsMEJBQTBCO0VBQzVCOztBQUVBO0lBQ0UscUJBQXFCO0lBQ3JCLGtCQUFrQjtJQUNsQixjQUFjO0VBQ2hCOztBQUNBO0dBQ0MsVUFBVTtFQUNYOztBQUNBO0NBQ0QsVUFBVTtDQUNWLGVBQWU7RUFDZCIsImZpbGUiOiJwcm9kdWN0LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIvKk5vdyB0aGUgQ1NTIENyZWF0ZWQgYnkgUi5TKi9cclxuXHJcbi50cmVlIHVsIHtcclxuICAgIHBhZGRpbmctdG9wOiAyMHB4OyBwb3NpdGlvbjogcmVsYXRpdmU7XHJcblx0XHJcblx0dHJhbnNpdGlvbjogYWxsIDAuNXM7XHJcblx0LXdlYmtpdC10cmFuc2l0aW9uOiBhbGwgMC41cztcclxuXHQtbW96LXRyYW5zaXRpb246IGFsbCAwLjVzO1xyXG59XHJcblxyXG4udHJlZSBsaSB7XHJcblx0ZmxvYXQ6IGxlZnQ7IHRleHQtYWxpZ246IGNlbnRlcjtcclxuXHRsaXN0LXN0eWxlLXR5cGU6IG5vbmU7XHJcblx0cG9zaXRpb246IHJlbGF0aXZlO1xyXG5cdHBhZGRpbmc6IDIwcHggNXB4IDAgNXB4O1xyXG5cdFxyXG5cdHRyYW5zaXRpb246IGFsbCAwLjVzO1xyXG5cdC13ZWJraXQtdHJhbnNpdGlvbjogYWxsIDAuNXM7XHJcblx0LW1vei10cmFuc2l0aW9uOiBhbGwgMC41cztcclxufVxyXG5cclxuLypXZSB3aWxsIHVzZSA6OmJlZm9yZSBhbmQgOjphZnRlciB0byBkcmF3IHRoZSBjb25uZWN0b3JzKi9cclxuXHJcbi50cmVlIGxpOjpiZWZvcmUsIC50cmVlIGxpOjphZnRlcntcclxuXHRjb250ZW50OiAnJztcclxuXHRwb3NpdGlvbjogYWJzb2x1dGU7IHRvcDogMDsgcmlnaHQ6IDUwJTtcclxuXHRib3JkZXItdG9wOiAxcHggc29saWQgIzI5OWFkYztcclxuXHR3aWR0aDogNTAlOyBoZWlnaHQ6IDIwcHg7XHJcbn1cclxuLnRyZWUgbGk6OmFmdGVye1xyXG5cdHJpZ2h0OiBhdXRvOyBsZWZ0OiA1MCU7XHJcblx0Ym9yZGVyLWxlZnQ6IDFweCBzb2xpZCAjMjk5YWRjO1xyXG59XHJcblxyXG4vKldlIG5lZWQgdG8gcmVtb3ZlIGxlZnQtcmlnaHQgY29ubmVjdG9ycyBmcm9tIGVsZW1lbnRzIHdpdGhvdXQgXHJcbmFueSBzaWJsaW5ncyovXHJcbi50cmVlIGxpOm9ubHktY2hpbGQ6OmFmdGVyLCAudHJlZSBsaTpvbmx5LWNoaWxkOjpiZWZvcmUge1xyXG5cdGRpc3BsYXk6IG5vbmU7XHJcbn1cclxuXHJcbi8qUmVtb3ZlIHNwYWNlIGZyb20gdGhlIHRvcCBvZiBzaW5nbGUgY2hpbGRyZW4qL1xyXG4udHJlZSBsaTpvbmx5LWNoaWxkeyBwYWRkaW5nLXRvcDogMDt9XHJcblxyXG4vKlJlbW92ZSBsZWZ0IGNvbm5lY3RvciBmcm9tIGZpcnN0IGNoaWxkIGFuZCBcclxucmlnaHQgY29ubmVjdG9yIGZyb20gbGFzdCBjaGlsZCovXHJcbi50cmVlIGxpOmZpcnN0LWNoaWxkOjpiZWZvcmUsIC50cmVlIGxpOmxhc3QtY2hpbGQ6OmFmdGVye1xyXG5cdGJvcmRlcjogMCBub25lO1xyXG59XHJcbi8qQWRkaW5nIGJhY2sgdGhlIHZlcnRpY2FsIGNvbm5lY3RvciB0byB0aGUgbGFzdCBub2RlcyovXHJcbi50cmVlIGxpOmxhc3QtY2hpbGQ6OmJlZm9yZXtcclxuXHRib3JkZXItcmlnaHQ6IDFweCBzb2xpZCAjMjk5YWRjO1xyXG5cdGJvcmRlci1yYWRpdXM6IDAgNXB4IDAgMDtcclxuXHQtd2Via2l0LWJvcmRlci1yYWRpdXM6IDAgNXB4IDAgMDtcclxuXHQtbW96LWJvcmRlci1yYWRpdXM6IDAgNXB4IDAgMDtcclxufVxyXG4udHJlZSBsaTpmaXJzdC1jaGlsZDo6YWZ0ZXJ7XHJcblx0Ym9yZGVyLXJhZGl1czogNXB4IDAgMCAwO1xyXG5cdC13ZWJraXQtYm9yZGVyLXJhZGl1czogNXB4IDAgMCAwO1xyXG5cdC1tb3otYm9yZGVyLXJhZGl1czogNXB4IDAgMCAwO1xyXG59XHJcblxyXG4vKlRpbWUgdG8gYWRkIGRvd253YXJkIGNvbm5lY3RvcnMgZnJvbSBwYXJlbnRzKi9cclxuLnRyZWUgdWwgdWw6OmJlZm9yZXtcclxuXHRjb250ZW50OiAnJztcclxuXHRwb3NpdGlvbjogYWJzb2x1dGU7IHRvcDogMDsgbGVmdDogNTAlO1xyXG5cdGJvcmRlci1sZWZ0OiAxcHggc29saWQgIzI5OWFkYztcclxuXHR3aWR0aDogMDsgaGVpZ2h0OiAyMHB4O1xyXG59XHJcblxyXG4udHJlZSBsaSBhe1xyXG5cdGJvcmRlcjogMXB4IHNvbGlkICM3MjlmYTM7XHJcblx0cGFkZGluZzogNXB4IDEwcHg7XHJcblx0dGV4dC1kZWNvcmF0aW9uOiBub25lO1xyXG4gICAgY29sb3I6ICMwMDAwMDA7XHJcbiAgICBmb250LXdlaWdodDogYm9sZDtcclxuXHQvKiBmb250LWZhbWlseTogYXJpYWwsIHZlcmRhbmEsIHRhaG9tYTsgKi9cclxuXHRmb250LXNpemU6IDEycHg7XHJcblx0ZGlzcGxheTogaW5saW5lLWJsb2NrO1xyXG5cdFxyXG5cdGJvcmRlci1yYWRpdXM6IDVweDtcclxuXHQtd2Via2l0LWJvcmRlci1yYWRpdXM6IDVweDtcclxuXHQtbW96LWJvcmRlci1yYWRpdXM6IDVweDtcclxuXHRcclxuXHR0cmFuc2l0aW9uOiBhbGwgMC41cztcclxuXHQtd2Via2l0LXRyYW5zaXRpb246IGFsbCAwLjVzO1xyXG5cdC1tb3otdHJhbnNpdGlvbjogYWxsIDAuNXM7XHJcbn1cclxuXHJcbi8qVGltZSBmb3Igc29tZSBob3ZlciBlZmZlY3RzKi9cclxuLypXZSB3aWxsIGFwcGx5IHRoZSBob3ZlciBlZmZlY3QgdGhlIHRoZSBsaW5lYWdlIG9mIHRoZSBlbGVtZW50IGFsc28qL1xyXG4udHJlZSBsaSBhOmhvdmVyLCAudHJlZSBsaSBhOmhvdmVyK3VsIGxpIGEge1xyXG5cdGJhY2tncm91bmQ6ICNjOGU0Zjg7IGNvbG9yOiAjMDAwOyBib3JkZXI6IDFweCBzb2xpZCAjOTRhMGI0O1xyXG59XHJcbi8qQ29ubmVjdG9yIHN0eWxlcyBvbiBob3ZlciovXHJcbi50cmVlIGxpIGE6aG92ZXIrdWwgbGk6OmFmdGVyLCBcclxuLnRyZWUgbGkgYTpob3Zlcit1bCBsaTo6YmVmb3JlLCBcclxuLnRyZWUgbGkgYTpob3Zlcit1bDo6YmVmb3JlLCBcclxuLnRyZWUgbGkgYTpob3Zlcit1bCB1bDo6YmVmb3Jle1xyXG5cdGJvcmRlci1jb2xvcjogICM5NGEwYjQ7XHJcbn1cclxuXHJcbi8qVGhhdHMgYWxsLiBJIGhvcGUgeW91IGVuam95ZWQgaXQuXHJcblRoYW5rcyA6KSovXHJcblxyXG5cclxuLyogT3duIFN0eWxlICovXHJcblxyXG4udGFibGVTdHkgYXtcclxuXHRjb2xvcjogdGVhbDtcclxuXHRmb250LXdlaWdodDogNzAwO1xyXG59XHJcbi5saXN0IGxpe1xyXG5cdGxpc3Qtc3R5bGU6IG5vbmU7XHJcblx0Y29sb3I6IGJsYWNrO1xyXG59XHJcbml7XHJcblx0Y29sb3I6ICMwQTkzOUQ7XHJcbn1cclxuLmNpdGl1c0RpdnN7XHJcblx0YmFja2dyb3VuZC1jb2xvcjogIzBBOTM5RDtcclxuXHRmb250LXdlaWdodDogYm9sZDtcclxuXHRmb250LXNpemU6IGxhcmdlcjtcclxuXHRjb2xvcjogYmxhY2s7XHJcbn1cclxuLmthaXplckRpdnN7XHJcblx0YmFja2dyb3VuZC1jb2xvcjogIzBBOTM5RDtcclxuXHRmb250LXdlaWdodDogYm9sZDtcclxuXHRmb250LXNpemU6IGxhcmdlcjtcclxuXHRjb2xvcjogYmxhY2s7XHJcbn1cclxuXHJcbnRkOmhvdmVye1xyXG5jdXJzb3I6IHBvaW50ZXJcclxufVxyXG5cclxuLyogYmFjayBidXR0b24gKi9cclxuLmJrLWJ0biB7XHJcblx0aGVpZ2h0OiA1MnB4O1xyXG5cdHdpZHRoOiA1MnB4O1xyXG5cdGJhY2tncm91bmQtY29sb3I6ICMwQjkzOUQ7XHJcblx0Ym9yZGVyLXJhZGl1czogNTAlO1xyXG4gIH1cclxuICAuYmstYnRuIC5iay1idG4tdHJpYW5nbGUge1xyXG5cdHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuXHR0b3A6IDEzcHg7XHJcblx0bGVmdDogMTAuNHB4O1xyXG5cdHdpZHRoOiAwO1xyXG5cdGhlaWdodDogMDtcclxuXHRib3JkZXItdG9wOiAxM3B4IHNvbGlkIHRyYW5zcGFyZW50O1xyXG5cdGJvcmRlci1ib3R0b206IDEzcHggc29saWQgdHJhbnNwYXJlbnQ7XHJcblx0Ym9yZGVyLXJpZ2h0OiAxM3B4IHNvbGlkIHdoaXRlO1xyXG4gIH1cclxuICAuYmstYnRuIC5iay1idG4tYmFyIHtcclxuXHRwb3NpdGlvbjogcmVsYXRpdmU7XHJcblx0YmFja2dyb3VuZC1jb2xvcjogd2hpdGU7XHJcblx0aGVpZ2h0OiA3LjhweDtcclxuXHR3aWR0aDogMTNweDtcclxuXHR0b3A6IC0zLjY0cHg7XHJcblx0bGVmdDogMjIuODhweDtcclxuICB9XHJcblxyXG4gIGxpe1xyXG5cdCAgcG9zaXRpb246IHJlbGF0aXZlO1xyXG5cdCAgbGluZS1oZWlnaHQ6IDMzUFg7XHJcblx0ICBib3JkZXItYm90dG9tOiAjMUM0RDg2IDFweCBzb2xpZDtcclxuXHQgIGZvbnQtd2VpZ2h0OiA5MDA7XHJcbiAgfVxyXG4gIGxpOmhvdmVye1xyXG5cdCAgY3Vyc29yOiBwb2ludGVyO1xyXG5cdCAgY29sb3I6IGJsdWV2aW9sZXQ7XHJcblx0ICBmb250LXdlaWdodDogYm9sZDtcclxuICB9XHJcblxyXG4gIC5uYXZ7XHJcblx0cGFkZGluZy1sZWZ0OiAwO1xyXG4gICAgbWFyZ2luLWJvdHRvbTogMDtcclxuICAgIGxpc3Qtc3R5bGU6IG5vbmU7XHJcbiAgfVxyXG4gIC5uYXYtbGlzdHtcclxuXHRtYXJnaW46IDA7XHJcbiAgICBwYWRkaW5nOiAwO1xyXG4gICAgZGlzcGxheTogYmxvY2s7XHJcbiAgfVxyXG4gIC8qIGFzaWRlIHVsLm5hdi1saXN0IGxpLmFjdGl2ZTpiZWZvcmUge1xyXG4gICAgY29udGVudDogJyc7XHJcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMjE1Y2EwO1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgbGVmdDogMHB4O1xyXG4gICAgdG9wOiAwO1xyXG4gICAgaGVpZ2h0OiAxMDAlO1xyXG4gICAgd2lkdGg6IDRweDtcclxuXHR6LWluZGV4OiAyO1xyXG4gIH0gKi9cclxuXHJcbiAgLmhlcm9CcmVhZGNydW1iIHtcclxuICAgIGhlaWdodDogNDB2aCAhaW1wb3J0YW50O1xyXG59XHJcblxyXG4gICoge1xyXG4gICAgZm9udC1mYW1pbHk6ICdNb250c2VycmF0Jywgc2Fucy1zZXJpZjtcclxuICB9XHJcblxyXG4gIC5jYXJkIHtcclxuICAgIC8qIGJveC1zaGFkb3c6IDBweCA1cHggMTBweCByZ2JhKDAsMCwwLDAuMyk7ICovXHJcbiAgICAvKiBib3gtc2hhZG93OiAwIDAgNXB4IDJweCAjMDAwOyAqL1xyXG4gICAgLyogYm94LXNoYWRvdzogMCAwIDEwcHggcmdiYSgwLDAsMCwwLjYpOyAqL1xyXG4gICAgYm94LXNoYWRvdzogMCAwIDEwcHggIzAwMDtcclxuICAgIC8qIGJveC1zaGFkb3c6IDBweCA1cHggMTBweCByZ2JhKDAsMCwwLDAuMyk7ICovXHJcbiAgfVxyXG5cclxuICBsYWJlbCxcclxuICBhIHtcclxuICAgIGN1cnNvcjogcG9pbnRlcjtcclxuICAgIHVzZXItc2VsZWN0OiBub25lO1xyXG4gICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xyXG4gICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xyXG4gICAgY29sb3I6IGluaGVyaXQ7XHJcbiAgICB0cmFuc2l0aW9uOiBib3JkZXIgMC4ycztcclxuICAgIGJvcmRlci1ib3R0b206IDVweCBzb2xpZCByZ2JhKDE0MiwgNjgsIDE3MywgMC4yKTtcclxuICAgIHBhZGRpbmc6IDNweCAycHg7XHJcbiAgfVxyXG5cclxuICBsYWJlbDpob3ZlcixcclxuICBhOmhvdmVyIHtcclxuICAgIGJvcmRlci1ib3R0b20tY29sb3I6ICM5YjU5YjY7XHJcbiAgfVxyXG5cclxuICAubGF5b3V0IHtcclxuICAgIGRpc3BsYXk6IGdyaWQ7XHJcbiAgICBoZWlnaHQ6IDEwMCU7XHJcbiAgICB3aWR0aDogMTAwJTtcclxuICAgIG92ZXJmbG93OiBoaWRkZW47XHJcbiAgICBncmlkLXRlbXBsYXRlLXJvd3M6IDUwcHggMWZyO1xyXG4gICAgZ3JpZC10ZW1wbGF0ZS1jb2x1bW5zOiAxZnIgMWZyO1xyXG4gIH1cclxuXHJcbiAgaW5wdXRbdHlwZT1yYWRpb10ge1xyXG4gICAgZGlzcGxheTogbm9uZTtcclxuICB9XHJcblxyXG4gIGxhYmVsLm5hdiB7XHJcbiAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAgaGVpZ2h0OiAxMTZweDtcclxuICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcbiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcclxuICAgIGN1cnNvcjogcG9pbnRlcjtcclxuICAgIGJvcmRlci1ib3R0b206IDJweCBzb2xpZCAjZDVhMzFiO1xyXG4gICAgYmFja2dyb3VuZDogI2VjZjBmMTtcclxuICAgIHVzZXItc2VsZWN0OiBub25lO1xyXG4gICAgdHJhbnNpdGlvbjogYmFja2dyb3VuZCAwLjRzLCBwYWRkaW5nLWxlZnQgMC4ycztcclxuICAgIHBhZGRpbmctbGVmdDogMDtcclxuICB9XHJcblxyXG4gIGlucHV0W3R5cGU9cmFkaW9dOmNoZWNrZWQrLnBhZ2UrbGFiZWwubmF2IHtcclxuICAgIGJhY2tncm91bmQ6ICNGRUU0QzM7XHJcbiAgICBjb2xvcjogI2ZmZmZmZjtcclxuICAgIHBhZGRpbmctbGVmdDogMjBweDtcclxuICB9XHJcblxyXG4gIGlucHV0W3R5cGU9cmFkaW9dOmNoZWNrZWQrLnBhZ2UrbGFiZWwubmF2IHNwYW4ge1xyXG4gICAgcGFkZGluZy1sZWZ0OiAyMHB4O1xyXG4gIH1cclxuXHJcbiAgaW5wdXRbdHlwZT1yYWRpb106Y2hlY2tlZCsucGFnZStsYWJlbC5uYXYgc3ZnIHtcclxuICAgIG9wYWNpdHk6IDE7XHJcbiAgfVxyXG5cclxuICBsYWJlbC5uYXYgc3BhbiB7XHJcbiAgICBwYWRkaW5nLWxlZnQ6IDBweDtcclxuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuICB9XHJcblxyXG4gIGxhYmVsLm5hdiBzdmcge1xyXG4gICAgbGVmdDogMDtcclxuICAgIHRvcDogLTNweDtcclxuICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcclxuICAgIHdpZHRoOiAxNXB4O1xyXG4gICAgb3BhY2l0eTogMDtcclxuICAgIHRyYW5zaXRpb246IG9wYWNpdHkgMC4ycztcclxuICB9XHJcblxyXG4gIC5wYWdlIHtcclxuICAgIGdyaWQtY29sdW1uLXN0YXJ0OiAxO1xyXG4gICAgZ3JpZC1yb3ctc3RhcnQ6IDI7XHJcbiAgICBncmlkLWNvbHVtbi1lbmQ6IHNwYW4gMztcclxuICAgIHBhZGRpbmc6IDBweCAyMHB4O1xyXG4gICAgLyogZGlzcGxheTogZmxleDsgKi9cclxuICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcbiAgfVxyXG5cclxuICAucGFnZS1jb250ZW50cz4qIHtcclxuICAgIG9wYWNpdHk6IDA7XHJcbiAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMjBweCk7XHJcbiAgICB0cmFuc2l0aW9uOiBvcGFjaXR5IDAuMnMsIHRyYW5zZm9ybSAwLjJzO1xyXG4gIH1cclxuXHJcbiAgLnBhZ2UtY29udGVudHM+KjpudGgtY2hpbGQoMSkge1xyXG4gICAgdHJhbnNpdGlvbi1kZWxheTogMC40cztcclxuICB9XHJcblxyXG4gIC5wYWdlLWNvbnRlbnRzPio6bnRoLWNoaWxkKDIpIHtcclxuICAgIHRyYW5zaXRpb24tZGVsYXk6IDAuNnM7XHJcbiAgfVxyXG5cclxuICAucGFnZS1jb250ZW50cz4qOm50aC1jaGlsZCgzKSB7XHJcbiAgICB0cmFuc2l0aW9uLWRlbGF5OiAwLjhzO1xyXG4gIH1cclxuXHJcbiAgLnBhZ2UtY29udGVudHM+KjpudGgtY2hpbGQoNCkge1xyXG4gICAgdHJhbnNpdGlvbi1kZWxheTogMXM7XHJcbiAgfVxyXG5cclxuICAucGFnZS1jb250ZW50cz4qOm50aC1jaGlsZCg1KSB7XHJcbiAgICB0cmFuc2l0aW9uLWRlbGF5OiAxLjJzO1xyXG4gIH1cclxuXHJcbiAgLnBhZ2UtY29udGVudHM+KjpudGgtY2hpbGQoNikge1xyXG4gICAgdHJhbnNpdGlvbi1kZWxheTogMS40cztcclxuICB9XHJcblxyXG4gIC5wYWdlLWNvbnRlbnRzPio6bnRoLWNoaWxkKDcpIHtcclxuICAgIHRyYW5zaXRpb24tZGVsYXk6IDEuNnM7XHJcbiAgfVxyXG5cclxuICAucGFnZS1jb250ZW50cz4qOm50aC1jaGlsZCg4KSB7XHJcbiAgICB0cmFuc2l0aW9uLWRlbGF5OiAxLjhzO1xyXG4gIH1cclxuXHJcbiAgLnBhZ2UtY29udGVudHM+KjpudGgtY2hpbGQoOSkge1xyXG4gICAgdHJhbnNpdGlvbi1kZWxheTogMnM7XHJcbiAgfVxyXG5cclxuICAucGFnZS1jb250ZW50cz4qOm50aC1jaGlsZCgxMCkge1xyXG4gICAgdHJhbnNpdGlvbi1kZWxheTogMi4ycztcclxuICB9XHJcblxyXG4gIC5wYWdlLWNvbnRlbnRzPio6bnRoLWNoaWxkKDExKSB7XHJcbiAgICB0cmFuc2l0aW9uLWRlbGF5OiAyLjRzO1xyXG4gIH1cclxuXHJcbiAgLnBhZ2UtY29udGVudHM+KjpudGgtY2hpbGQoMTIpIHtcclxuICAgIHRyYW5zaXRpb24tZGVsYXk6IDIuNnM7XHJcbiAgfVxyXG5cclxuICAucGFnZS1jb250ZW50cz4qOm50aC1jaGlsZCgxMykge1xyXG4gICAgdHJhbnNpdGlvbi1kZWxheTogMi44cztcclxuICB9XHJcblxyXG4gIC5wYWdlLWNvbnRlbnRzPio6bnRoLWNoaWxkKDE0KSB7XHJcbiAgICB0cmFuc2l0aW9uLWRlbGF5OiAzcztcclxuICB9XHJcblxyXG4gIC5wYWdlLWNvbnRlbnRzPio6bnRoLWNoaWxkKDE1KSB7XHJcbiAgICB0cmFuc2l0aW9uLWRlbGF5OiAzLjJzO1xyXG4gIH1cclxuXHJcbiAgLnBhZ2UtY29udGVudHM+KjpudGgtY2hpbGQoMTYpIHtcclxuICAgIHRyYW5zaXRpb24tZGVsYXk6IDMuNHM7XHJcbiAgfVxyXG5cclxuICAucGFnZS1jb250ZW50cz4qOm50aC1jaGlsZCgxNykge1xyXG4gICAgdHJhbnNpdGlvbi1kZWxheTogMy42cztcclxuICB9XHJcblxyXG4gIC5wYWdlLWNvbnRlbnRzPio6bnRoLWNoaWxkKDE4KSB7XHJcbiAgICB0cmFuc2l0aW9uLWRlbGF5OiAzLjhzO1xyXG4gIH1cclxuXHJcbiAgLnBhZ2UtY29udGVudHM+KjpudGgtY2hpbGQoMTkpIHtcclxuICAgIHRyYW5zaXRpb24tZGVsYXk6IDRzO1xyXG4gIH1cclxuXHJcbiAgLnBhZ2UtY29udGVudHM+KjpudGgtY2hpbGQoMjApIHtcclxuICAgIHRyYW5zaXRpb24tZGVsYXk6IDQuMnM7XHJcbiAgfVxyXG5cclxuICBpbnB1dFt0eXBlPXJhZGlvXSsucGFnZSB7XHJcbiAgICB0cmFuc2l0aW9uOiB0cmFuc2Zvcm0gMC4ycztcclxuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWCgxMDAlKTtcclxuICB9XHJcblxyXG4gIGlucHV0W3R5cGU9cmFkaW9dOmNoZWNrZWQrLnBhZ2Uge1xyXG4gICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVYKDAlKTtcclxuICB9XHJcblxyXG4gIGlucHV0W3R5cGU9cmFkaW9dOmNoZWNrZWQrLnBhZ2UgLnBhZ2UtY29udGVudHM+KiB7XHJcbiAgICBvcGFjaXR5OiAxO1xyXG4gICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDBweCk7XHJcbiAgfVxyXG5cclxuICAucGFnZS1jb250ZW50cyB7XHJcbiAgICAvKiBtYXgtd2lkdGg6IDEwMCU7ICovXHJcbiAgICAvKiB3aWR0aDogNTAwcHg7ICovXHJcbiAgICBtYXJnaW46IDAgYXV0bztcclxuICB9XHJcbiAgbGk6YWN0aXZle1xyXG5cdCAgY29sb3I6IHJlZDtcclxuICB9XHJcbiAgLmFjdGl2ZXtcclxuXHRjb2xvcjogcmVkO1xyXG5cdGZvbnQtc2l6ZTogMThweDtcclxuICB9Il19 */"] });
+    } }, directives: [_angular_common__WEBPACK_IMPORTED_MODULE_2__["NgIf"], _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgForOf"], _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgClass"]], styles: [".tree[_ngcontent-%COMP%]   ul[_ngcontent-%COMP%] {\n    padding-top: 20px; position: relative;\n\t\n\ttransition: all 0.5s;\n\t-webkit-transition: all 0.5s;\n\t-moz-transition: all 0.5s;\n}\n\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%] {\n\tfloat: left; text-align: center;\n\tlist-style-type: none;\n\tposition: relative;\n\tpadding: 20px 5px 0 5px;\n\t\n\ttransition: all 0.5s;\n\t-webkit-transition: all 0.5s;\n\t-moz-transition: all 0.5s;\n}\n\n\n\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]::before, .tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]::after{\n\tcontent: '';\n\tposition: absolute; top: 0; right: 50%;\n\tborder-top: 1px solid #299adc;\n\twidth: 50%; height: 20px;\n}\n\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]::after{\n\tright: auto; left: 50%;\n\tborder-left: 1px solid #299adc;\n}\n\n\n\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]:only-child::after, .tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]:only-child::before {\n\tdisplay: none;\n}\n\n\n\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]:only-child{ padding-top: 0;}\n\n\n\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]:first-child::before, .tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]:last-child::after{\n\tborder: 0 none;\n}\n\n\n\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]:last-child::before{\n\tborder-right: 1px solid #299adc;\n\tborder-radius: 0 5px 0 0;\n\t-webkit-border-radius: 0 5px 0 0;\n\t-moz-border-radius: 0 5px 0 0;\n}\n\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]:first-child::after{\n\tborder-radius: 5px 0 0 0;\n\t-webkit-border-radius: 5px 0 0 0;\n\t-moz-border-radius: 5px 0 0 0;\n}\n\n\n\n.tree[_ngcontent-%COMP%]   ul[_ngcontent-%COMP%]   ul[_ngcontent-%COMP%]::before{\n\tcontent: '';\n\tposition: absolute; top: 0; left: 50%;\n\tborder-left: 1px solid #299adc;\n\twidth: 0; height: 20px;\n}\n\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]{\n\tborder: 1px solid #729fa3;\n\tpadding: 5px 10px;\n\ttext-decoration: none;\n    color: #000000;\n    font-weight: bold;\n\t\n\tfont-size: 12px;\n\tdisplay: inline-block;\n\t\n\tborder-radius: 5px;\n\t-webkit-border-radius: 5px;\n\t-moz-border-radius: 5px;\n\t\n\ttransition: all 0.5s;\n\t-webkit-transition: all 0.5s;\n\t-moz-transition: all 0.5s;\n}\n\n\n\n\n\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover, .tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover + ul[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%] {\n\tbackground: #c8e4f8; color: #000; border: 1px solid #94a0b4;\n}\n\n\n\n.tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover + ul[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]::after, .tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover + ul[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]::before, .tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover + ul[_ngcontent-%COMP%]::before, .tree[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover + ul[_ngcontent-%COMP%]   ul[_ngcontent-%COMP%]::before{\n\tborder-color:  #94a0b4;\n}\n\n\n\n\n\n.tableSty[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]{\n\tcolor: teal;\n\tfont-weight: 700;\n}\n\n.list[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]{\n\tlist-style: none;\n\tcolor: black;\n}\n\ni[_ngcontent-%COMP%]{\n\tcolor: #0A939D;\n}\n\n.citiusDivs[_ngcontent-%COMP%]{\n\tbackground-color: #0A939D;\n\tfont-weight: bold;\n\tfont-size: larger;\n\tcolor: black;\n}\n\n.kaizerDivs[_ngcontent-%COMP%]{\n\tbackground-color: #0A939D;\n\tfont-weight: bold;\n\tfont-size: larger;\n\tcolor: black;\n}\n\ntd[_ngcontent-%COMP%]:hover{\ncursor: pointer\n}\n\n\n\n.bk-btn[_ngcontent-%COMP%] {\n\theight: 52px;\n\twidth: 52px;\n\tbackground-color: #0B939D;\n\tborder-radius: 50%;\n  }\n\n.bk-btn[_ngcontent-%COMP%]   .bk-btn-triangle[_ngcontent-%COMP%] {\n\tposition: relative;\n\ttop: 13px;\n\tleft: 10.4px;\n\twidth: 0;\n\theight: 0;\n\tborder-top: 13px solid transparent;\n\tborder-bottom: 13px solid transparent;\n\tborder-right: 13px solid white;\n  }\n\n.bk-btn[_ngcontent-%COMP%]   .bk-btn-bar[_ngcontent-%COMP%] {\n\tposition: relative;\n\tbackground-color: white;\n\theight: 7.8px;\n\twidth: 13px;\n\ttop: -3.64px;\n\tleft: 22.88px;\n  }\n\nli[_ngcontent-%COMP%]{\n\t  position: relative;\n\t  line-height: 33PX;\n\t  border-bottom: #1C4D86 1px solid;\n\t  font-weight: 900;\n  }\n\nli[_ngcontent-%COMP%]:hover{\n\t  cursor: pointer;\n\t  color: blueviolet;\n\t  font-weight: bold;\n  }\n\n.nav[_ngcontent-%COMP%]{\n\tpadding-left: 0;\n    margin-bottom: 0;\n    list-style: none;\n  }\n\n.nav-list[_ngcontent-%COMP%]{\n\tmargin: 0;\n    padding: 0;\n    display: block;\n  }\n\n\n\n.heroBreadcrumb[_ngcontent-%COMP%] {\n    height: 40vh !important;\n}\n\n*[_ngcontent-%COMP%] {\n    font-family: 'Montserrat', sans-serif;\n  }\n\n.card[_ngcontent-%COMP%] {\n    \n    \n    \n    box-shadow: 0 0 10px #000;\n    \n  }\n\nlabel[_ngcontent-%COMP%], a[_ngcontent-%COMP%] {\n    cursor: pointer;\n    -webkit-user-select: none;\n            user-select: none;\n    text-decoration: none;\n    display: inline-block;\n    color: inherit;\n    transition: border 0.2s;\n    border-bottom: 5px solid rgba(142, 68, 173, 0.2);\n    padding: 3px 2px;\n  }\n\nlabel[_ngcontent-%COMP%]:hover, a[_ngcontent-%COMP%]:hover {\n    border-bottom-color: #9b59b6;\n  }\n\n.layout[_ngcontent-%COMP%] {\n    display: grid;\n    height: 100%;\n    width: 100%;\n    overflow: hidden;\n    grid-template-rows: 50px 1fr;\n    grid-template-columns: 1fr 1fr;\n  }\n\ninput[type=radio][_ngcontent-%COMP%] {\n    display: none;\n  }\n\nlabel.nav[_ngcontent-%COMP%] {\n    display: flex;\n    height: 116px;\n    align-items: center;\n    justify-content: center;\n    cursor: pointer;\n    border-bottom: 2px solid #d5a31b;\n    background: #ecf0f1;\n    -webkit-user-select: none;\n            user-select: none;\n    transition: background 0.4s, padding-left 0.2s;\n    padding-left: 0;\n  }\n\ninput[type=radio][_ngcontent-%COMP%]:checked + .page[_ngcontent-%COMP%] + label.nav[_ngcontent-%COMP%] {\n    background: #FEE4C3;\n    color: #ffffff;\n    padding-left: 20px;\n  }\n\ninput[type=radio][_ngcontent-%COMP%]:checked + .page[_ngcontent-%COMP%] + label.nav[_ngcontent-%COMP%]   span[_ngcontent-%COMP%] {\n    padding-left: 20px;\n  }\n\ninput[type=radio][_ngcontent-%COMP%]:checked + .page[_ngcontent-%COMP%] + label.nav[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%] {\n    opacity: 1;\n  }\n\nlabel.nav[_ngcontent-%COMP%]   span[_ngcontent-%COMP%] {\n    padding-left: 0px;\n    position: relative;\n  }\n\nlabel.nav[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%] {\n    left: 0;\n    top: -3px;\n    position: absolute;\n    width: 15px;\n    opacity: 0;\n    transition: opacity 0.2s;\n  }\n\n.page[_ngcontent-%COMP%] {\n    grid-column-start: 1;\n    grid-row-start: 2;\n    grid-column-end: span 3;\n    padding: 0px 20px;\n    \n    align-items: center;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%] {\n    opacity: 0;\n    transform: translateY(20px);\n    transition: opacity 0.2s, transform 0.2s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(1) {\n    transition-delay: 0.4s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(2) {\n    transition-delay: 0.6s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(3) {\n    transition-delay: 0.8s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(4) {\n    transition-delay: 1s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(5) {\n    transition-delay: 1.2s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(6) {\n    transition-delay: 1.4s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(7) {\n    transition-delay: 1.6s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(8) {\n    transition-delay: 1.8s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(9) {\n    transition-delay: 2s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(10) {\n    transition-delay: 2.2s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(11) {\n    transition-delay: 2.4s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(12) {\n    transition-delay: 2.6s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(13) {\n    transition-delay: 2.8s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(14) {\n    transition-delay: 3s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(15) {\n    transition-delay: 3.2s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(16) {\n    transition-delay: 3.4s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(17) {\n    transition-delay: 3.6s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(18) {\n    transition-delay: 3.8s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(19) {\n    transition-delay: 4s;\n  }\n\n.page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]:nth-child(20) {\n    transition-delay: 4.2s;\n  }\n\ninput[type=radio][_ngcontent-%COMP%] + .page[_ngcontent-%COMP%] {\n    transition: transform 0.2s;\n    transform: translateX(100%);\n  }\n\ninput[type=radio][_ngcontent-%COMP%]:checked + .page[_ngcontent-%COMP%] {\n    transform: translateX(0%);\n  }\n\ninput[type=radio][_ngcontent-%COMP%]:checked + .page[_ngcontent-%COMP%]   .page-contents[_ngcontent-%COMP%] > *[_ngcontent-%COMP%] {\n    opacity: 1;\n    transform: translateY(0px);\n  }\n\n.page-contents[_ngcontent-%COMP%] {\n    \n    \n    margin: 0 auto;\n  }\n\nli[_ngcontent-%COMP%]:active{\n\t  color: red;\n  }\n\n.active[_ngcontent-%COMP%]{\n\tcolor: red;\n\tfont-size: 18px;\n  }\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInByb2R1Y3QuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSw2QkFBNkI7O0FBRTdCO0lBQ0ksaUJBQWlCLEVBQUUsa0JBQWtCOztDQUV4QyxvQkFBb0I7Q0FDcEIsNEJBQTRCO0NBQzVCLHlCQUF5QjtBQUMxQjs7QUFFQTtDQUNDLFdBQVcsRUFBRSxrQkFBa0I7Q0FDL0IscUJBQXFCO0NBQ3JCLGtCQUFrQjtDQUNsQix1QkFBdUI7O0NBRXZCLG9CQUFvQjtDQUNwQiw0QkFBNEI7Q0FDNUIseUJBQXlCO0FBQzFCOztBQUVBLDBEQUEwRDs7QUFFMUQ7Q0FDQyxXQUFXO0NBQ1gsa0JBQWtCLEVBQUUsTUFBTSxFQUFFLFVBQVU7Q0FDdEMsNkJBQTZCO0NBQzdCLFVBQVUsRUFBRSxZQUFZO0FBQ3pCOztBQUNBO0NBQ0MsV0FBVyxFQUFFLFNBQVM7Q0FDdEIsOEJBQThCO0FBQy9COztBQUVBO2FBQ2E7O0FBQ2I7Q0FDQyxhQUFhO0FBQ2Q7O0FBRUEsK0NBQStDOztBQUMvQyxxQkFBcUIsY0FBYyxDQUFDOztBQUVwQztnQ0FDZ0M7O0FBQ2hDO0NBQ0MsY0FBYztBQUNmOztBQUNBLHVEQUF1RDs7QUFDdkQ7Q0FDQywrQkFBK0I7Q0FDL0Isd0JBQXdCO0NBQ3hCLGdDQUFnQztDQUNoQyw2QkFBNkI7QUFDOUI7O0FBQ0E7Q0FDQyx3QkFBd0I7Q0FDeEIsZ0NBQWdDO0NBQ2hDLDZCQUE2QjtBQUM5Qjs7QUFFQSwrQ0FBK0M7O0FBQy9DO0NBQ0MsV0FBVztDQUNYLGtCQUFrQixFQUFFLE1BQU0sRUFBRSxTQUFTO0NBQ3JDLDhCQUE4QjtDQUM5QixRQUFRLEVBQUUsWUFBWTtBQUN2Qjs7QUFFQTtDQUNDLHlCQUF5QjtDQUN6QixpQkFBaUI7Q0FDakIscUJBQXFCO0lBQ2xCLGNBQWM7SUFDZCxpQkFBaUI7Q0FDcEIseUNBQXlDO0NBQ3pDLGVBQWU7Q0FDZixxQkFBcUI7O0NBRXJCLGtCQUFrQjtDQUNsQiwwQkFBMEI7Q0FDMUIsdUJBQXVCOztDQUV2QixvQkFBb0I7Q0FDcEIsNEJBQTRCO0NBQzVCLHlCQUF5QjtBQUMxQjs7QUFFQSw4QkFBOEI7O0FBQzlCLHFFQUFxRTs7QUFDckU7Q0FDQyxtQkFBbUIsRUFBRSxXQUFXLEVBQUUseUJBQXlCO0FBQzVEOztBQUNBLDRCQUE0Qjs7QUFDNUI7Ozs7Q0FJQyxzQkFBc0I7QUFDdkI7O0FBRUE7VUFDVTs7QUFHVixjQUFjOztBQUVkO0NBQ0MsV0FBVztDQUNYLGdCQUFnQjtBQUNqQjs7QUFDQTtDQUNDLGdCQUFnQjtDQUNoQixZQUFZO0FBQ2I7O0FBQ0E7Q0FDQyxjQUFjO0FBQ2Y7O0FBQ0E7Q0FDQyx5QkFBeUI7Q0FDekIsaUJBQWlCO0NBQ2pCLGlCQUFpQjtDQUNqQixZQUFZO0FBQ2I7O0FBQ0E7Q0FDQyx5QkFBeUI7Q0FDekIsaUJBQWlCO0NBQ2pCLGlCQUFpQjtDQUNqQixZQUFZO0FBQ2I7O0FBRUE7QUFDQTtBQUNBOztBQUVBLGdCQUFnQjs7QUFDaEI7Q0FDQyxZQUFZO0NBQ1osV0FBVztDQUNYLHlCQUF5QjtDQUN6QixrQkFBa0I7RUFDakI7O0FBQ0E7Q0FDRCxrQkFBa0I7Q0FDbEIsU0FBUztDQUNULFlBQVk7Q0FDWixRQUFRO0NBQ1IsU0FBUztDQUNULGtDQUFrQztDQUNsQyxxQ0FBcUM7Q0FDckMsOEJBQThCO0VBQzdCOztBQUNBO0NBQ0Qsa0JBQWtCO0NBQ2xCLHVCQUF1QjtDQUN2QixhQUFhO0NBQ2IsV0FBVztDQUNYLFlBQVk7Q0FDWixhQUFhO0VBQ1o7O0FBRUE7R0FDQyxrQkFBa0I7R0FDbEIsaUJBQWlCO0dBQ2pCLGdDQUFnQztHQUNoQyxnQkFBZ0I7RUFDakI7O0FBQ0E7R0FDQyxlQUFlO0dBQ2YsaUJBQWlCO0dBQ2pCLGlCQUFpQjtFQUNsQjs7QUFFQTtDQUNELGVBQWU7SUFDWixnQkFBZ0I7SUFDaEIsZ0JBQWdCO0VBQ2xCOztBQUNBO0NBQ0QsU0FBUztJQUNOLFVBQVU7SUFDVixjQUFjO0VBQ2hCOztBQUNBOzs7Ozs7Ozs7S0FTRzs7QUFFSDtJQUNFLHVCQUF1QjtBQUMzQjs7QUFFRTtJQUNFLHFDQUFxQztFQUN2Qzs7QUFFQTtJQUNFLDhDQUE4QztJQUM5QyxrQ0FBa0M7SUFDbEMsMENBQTBDO0lBQzFDLHlCQUF5QjtJQUN6Qiw4Q0FBOEM7RUFDaEQ7O0FBRUE7O0lBRUUsZUFBZTtJQUNmLHlCQUFpQjtZQUFqQixpQkFBaUI7SUFDakIscUJBQXFCO0lBQ3JCLHFCQUFxQjtJQUNyQixjQUFjO0lBQ2QsdUJBQXVCO0lBQ3ZCLGdEQUFnRDtJQUNoRCxnQkFBZ0I7RUFDbEI7O0FBRUE7O0lBRUUsNEJBQTRCO0VBQzlCOztBQUVBO0lBQ0UsYUFBYTtJQUNiLFlBQVk7SUFDWixXQUFXO0lBQ1gsZ0JBQWdCO0lBQ2hCLDRCQUE0QjtJQUM1Qiw4QkFBOEI7RUFDaEM7O0FBRUE7SUFDRSxhQUFhO0VBQ2Y7O0FBRUE7SUFDRSxhQUFhO0lBQ2IsYUFBYTtJQUNiLG1CQUFtQjtJQUNuQix1QkFBdUI7SUFDdkIsZUFBZTtJQUNmLGdDQUFnQztJQUNoQyxtQkFBbUI7SUFDbkIseUJBQWlCO1lBQWpCLGlCQUFpQjtJQUNqQiw4Q0FBOEM7SUFDOUMsZUFBZTtFQUNqQjs7QUFFQTtJQUNFLG1CQUFtQjtJQUNuQixjQUFjO0lBQ2Qsa0JBQWtCO0VBQ3BCOztBQUVBO0lBQ0Usa0JBQWtCO0VBQ3BCOztBQUVBO0lBQ0UsVUFBVTtFQUNaOztBQUVBO0lBQ0UsaUJBQWlCO0lBQ2pCLGtCQUFrQjtFQUNwQjs7QUFFQTtJQUNFLE9BQU87SUFDUCxTQUFTO0lBQ1Qsa0JBQWtCO0lBQ2xCLFdBQVc7SUFDWCxVQUFVO0lBQ1Ysd0JBQXdCO0VBQzFCOztBQUVBO0lBQ0Usb0JBQW9CO0lBQ3BCLGlCQUFpQjtJQUNqQix1QkFBdUI7SUFDdkIsaUJBQWlCO0lBQ2pCLG1CQUFtQjtJQUNuQixtQkFBbUI7RUFDckI7O0FBRUE7SUFDRSxVQUFVO0lBQ1YsMkJBQTJCO0lBQzNCLHdDQUF3QztFQUMxQzs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLG9CQUFvQjtFQUN0Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLG9CQUFvQjtFQUN0Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLG9CQUFvQjtFQUN0Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLG9CQUFvQjtFQUN0Qjs7QUFFQTtJQUNFLHNCQUFzQjtFQUN4Qjs7QUFFQTtJQUNFLDBCQUEwQjtJQUMxQiwyQkFBMkI7RUFDN0I7O0FBRUE7SUFDRSx5QkFBeUI7RUFDM0I7O0FBRUE7SUFDRSxVQUFVO0lBQ1YsMEJBQTBCO0VBQzVCOztBQUVBO0lBQ0UscUJBQXFCO0lBQ3JCLGtCQUFrQjtJQUNsQixjQUFjO0VBQ2hCOztBQUNBO0dBQ0MsVUFBVTtFQUNYOztBQUNBO0NBQ0QsVUFBVTtDQUNWLGVBQWU7RUFDZCIsImZpbGUiOiJwcm9kdWN0LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIvKk5vdyB0aGUgQ1NTIENyZWF0ZWQgYnkgUi5TKi9cblxuLnRyZWUgdWwge1xuICAgIHBhZGRpbmctdG9wOiAyMHB4OyBwb3NpdGlvbjogcmVsYXRpdmU7XG5cdFxuXHR0cmFuc2l0aW9uOiBhbGwgMC41cztcblx0LXdlYmtpdC10cmFuc2l0aW9uOiBhbGwgMC41cztcblx0LW1vei10cmFuc2l0aW9uOiBhbGwgMC41cztcbn1cblxuLnRyZWUgbGkge1xuXHRmbG9hdDogbGVmdDsgdGV4dC1hbGlnbjogY2VudGVyO1xuXHRsaXN0LXN0eWxlLXR5cGU6IG5vbmU7XG5cdHBvc2l0aW9uOiByZWxhdGl2ZTtcblx0cGFkZGluZzogMjBweCA1cHggMCA1cHg7XG5cdFxuXHR0cmFuc2l0aW9uOiBhbGwgMC41cztcblx0LXdlYmtpdC10cmFuc2l0aW9uOiBhbGwgMC41cztcblx0LW1vei10cmFuc2l0aW9uOiBhbGwgMC41cztcbn1cblxuLypXZSB3aWxsIHVzZSA6OmJlZm9yZSBhbmQgOjphZnRlciB0byBkcmF3IHRoZSBjb25uZWN0b3JzKi9cblxuLnRyZWUgbGk6OmJlZm9yZSwgLnRyZWUgbGk6OmFmdGVye1xuXHRjb250ZW50OiAnJztcblx0cG9zaXRpb246IGFic29sdXRlOyB0b3A6IDA7IHJpZ2h0OiA1MCU7XG5cdGJvcmRlci10b3A6IDFweCBzb2xpZCAjMjk5YWRjO1xuXHR3aWR0aDogNTAlOyBoZWlnaHQ6IDIwcHg7XG59XG4udHJlZSBsaTo6YWZ0ZXJ7XG5cdHJpZ2h0OiBhdXRvOyBsZWZ0OiA1MCU7XG5cdGJvcmRlci1sZWZ0OiAxcHggc29saWQgIzI5OWFkYztcbn1cblxuLypXZSBuZWVkIHRvIHJlbW92ZSBsZWZ0LXJpZ2h0IGNvbm5lY3RvcnMgZnJvbSBlbGVtZW50cyB3aXRob3V0IFxuYW55IHNpYmxpbmdzKi9cbi50cmVlIGxpOm9ubHktY2hpbGQ6OmFmdGVyLCAudHJlZSBsaTpvbmx5LWNoaWxkOjpiZWZvcmUge1xuXHRkaXNwbGF5OiBub25lO1xufVxuXG4vKlJlbW92ZSBzcGFjZSBmcm9tIHRoZSB0b3Agb2Ygc2luZ2xlIGNoaWxkcmVuKi9cbi50cmVlIGxpOm9ubHktY2hpbGR7IHBhZGRpbmctdG9wOiAwO31cblxuLypSZW1vdmUgbGVmdCBjb25uZWN0b3IgZnJvbSBmaXJzdCBjaGlsZCBhbmQgXG5yaWdodCBjb25uZWN0b3IgZnJvbSBsYXN0IGNoaWxkKi9cbi50cmVlIGxpOmZpcnN0LWNoaWxkOjpiZWZvcmUsIC50cmVlIGxpOmxhc3QtY2hpbGQ6OmFmdGVye1xuXHRib3JkZXI6IDAgbm9uZTtcbn1cbi8qQWRkaW5nIGJhY2sgdGhlIHZlcnRpY2FsIGNvbm5lY3RvciB0byB0aGUgbGFzdCBub2RlcyovXG4udHJlZSBsaTpsYXN0LWNoaWxkOjpiZWZvcmV7XG5cdGJvcmRlci1yaWdodDogMXB4IHNvbGlkICMyOTlhZGM7XG5cdGJvcmRlci1yYWRpdXM6IDAgNXB4IDAgMDtcblx0LXdlYmtpdC1ib3JkZXItcmFkaXVzOiAwIDVweCAwIDA7XG5cdC1tb3otYm9yZGVyLXJhZGl1czogMCA1cHggMCAwO1xufVxuLnRyZWUgbGk6Zmlyc3QtY2hpbGQ6OmFmdGVye1xuXHRib3JkZXItcmFkaXVzOiA1cHggMCAwIDA7XG5cdC13ZWJraXQtYm9yZGVyLXJhZGl1czogNXB4IDAgMCAwO1xuXHQtbW96LWJvcmRlci1yYWRpdXM6IDVweCAwIDAgMDtcbn1cblxuLypUaW1lIHRvIGFkZCBkb3dud2FyZCBjb25uZWN0b3JzIGZyb20gcGFyZW50cyovXG4udHJlZSB1bCB1bDo6YmVmb3Jle1xuXHRjb250ZW50OiAnJztcblx0cG9zaXRpb246IGFic29sdXRlOyB0b3A6IDA7IGxlZnQ6IDUwJTtcblx0Ym9yZGVyLWxlZnQ6IDFweCBzb2xpZCAjMjk5YWRjO1xuXHR3aWR0aDogMDsgaGVpZ2h0OiAyMHB4O1xufVxuXG4udHJlZSBsaSBhe1xuXHRib3JkZXI6IDFweCBzb2xpZCAjNzI5ZmEzO1xuXHRwYWRkaW5nOiA1cHggMTBweDtcblx0dGV4dC1kZWNvcmF0aW9uOiBub25lO1xuICAgIGNvbG9yOiAjMDAwMDAwO1xuICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xuXHQvKiBmb250LWZhbWlseTogYXJpYWwsIHZlcmRhbmEsIHRhaG9tYTsgKi9cblx0Zm9udC1zaXplOiAxMnB4O1xuXHRkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG5cdFxuXHRib3JkZXItcmFkaXVzOiA1cHg7XG5cdC13ZWJraXQtYm9yZGVyLXJhZGl1czogNXB4O1xuXHQtbW96LWJvcmRlci1yYWRpdXM6IDVweDtcblx0XG5cdHRyYW5zaXRpb246IGFsbCAwLjVzO1xuXHQtd2Via2l0LXRyYW5zaXRpb246IGFsbCAwLjVzO1xuXHQtbW96LXRyYW5zaXRpb246IGFsbCAwLjVzO1xufVxuXG4vKlRpbWUgZm9yIHNvbWUgaG92ZXIgZWZmZWN0cyovXG4vKldlIHdpbGwgYXBwbHkgdGhlIGhvdmVyIGVmZmVjdCB0aGUgdGhlIGxpbmVhZ2Ugb2YgdGhlIGVsZW1lbnQgYWxzbyovXG4udHJlZSBsaSBhOmhvdmVyLCAudHJlZSBsaSBhOmhvdmVyK3VsIGxpIGEge1xuXHRiYWNrZ3JvdW5kOiAjYzhlNGY4OyBjb2xvcjogIzAwMDsgYm9yZGVyOiAxcHggc29saWQgIzk0YTBiNDtcbn1cbi8qQ29ubmVjdG9yIHN0eWxlcyBvbiBob3ZlciovXG4udHJlZSBsaSBhOmhvdmVyK3VsIGxpOjphZnRlciwgXG4udHJlZSBsaSBhOmhvdmVyK3VsIGxpOjpiZWZvcmUsIFxuLnRyZWUgbGkgYTpob3Zlcit1bDo6YmVmb3JlLCBcbi50cmVlIGxpIGE6aG92ZXIrdWwgdWw6OmJlZm9yZXtcblx0Ym9yZGVyLWNvbG9yOiAgIzk0YTBiNDtcbn1cblxuLypUaGF0cyBhbGwuIEkgaG9wZSB5b3UgZW5qb3llZCBpdC5cblRoYW5rcyA6KSovXG5cblxuLyogT3duIFN0eWxlICovXG5cbi50YWJsZVN0eSBhe1xuXHRjb2xvcjogdGVhbDtcblx0Zm9udC13ZWlnaHQ6IDcwMDtcbn1cbi5saXN0IGxpe1xuXHRsaXN0LXN0eWxlOiBub25lO1xuXHRjb2xvcjogYmxhY2s7XG59XG5pe1xuXHRjb2xvcjogIzBBOTM5RDtcbn1cbi5jaXRpdXNEaXZze1xuXHRiYWNrZ3JvdW5kLWNvbG9yOiAjMEE5MzlEO1xuXHRmb250LXdlaWdodDogYm9sZDtcblx0Zm9udC1zaXplOiBsYXJnZXI7XG5cdGNvbG9yOiBibGFjaztcbn1cbi5rYWl6ZXJEaXZze1xuXHRiYWNrZ3JvdW5kLWNvbG9yOiAjMEE5MzlEO1xuXHRmb250LXdlaWdodDogYm9sZDtcblx0Zm9udC1zaXplOiBsYXJnZXI7XG5cdGNvbG9yOiBibGFjaztcbn1cblxudGQ6aG92ZXJ7XG5jdXJzb3I6IHBvaW50ZXJcbn1cblxuLyogYmFjayBidXR0b24gKi9cbi5iay1idG4ge1xuXHRoZWlnaHQ6IDUycHg7XG5cdHdpZHRoOiA1MnB4O1xuXHRiYWNrZ3JvdW5kLWNvbG9yOiAjMEI5MzlEO1xuXHRib3JkZXItcmFkaXVzOiA1MCU7XG4gIH1cbiAgLmJrLWJ0biAuYmstYnRuLXRyaWFuZ2xlIHtcblx0cG9zaXRpb246IHJlbGF0aXZlO1xuXHR0b3A6IDEzcHg7XG5cdGxlZnQ6IDEwLjRweDtcblx0d2lkdGg6IDA7XG5cdGhlaWdodDogMDtcblx0Ym9yZGVyLXRvcDogMTNweCBzb2xpZCB0cmFuc3BhcmVudDtcblx0Ym9yZGVyLWJvdHRvbTogMTNweCBzb2xpZCB0cmFuc3BhcmVudDtcblx0Ym9yZGVyLXJpZ2h0OiAxM3B4IHNvbGlkIHdoaXRlO1xuICB9XG4gIC5iay1idG4gLmJrLWJ0bi1iYXIge1xuXHRwb3NpdGlvbjogcmVsYXRpdmU7XG5cdGJhY2tncm91bmQtY29sb3I6IHdoaXRlO1xuXHRoZWlnaHQ6IDcuOHB4O1xuXHR3aWR0aDogMTNweDtcblx0dG9wOiAtMy42NHB4O1xuXHRsZWZ0OiAyMi44OHB4O1xuICB9XG5cbiAgbGl7XG5cdCAgcG9zaXRpb246IHJlbGF0aXZlO1xuXHQgIGxpbmUtaGVpZ2h0OiAzM1BYO1xuXHQgIGJvcmRlci1ib3R0b206ICMxQzREODYgMXB4IHNvbGlkO1xuXHQgIGZvbnQtd2VpZ2h0OiA5MDA7XG4gIH1cbiAgbGk6aG92ZXJ7XG5cdCAgY3Vyc29yOiBwb2ludGVyO1xuXHQgIGNvbG9yOiBibHVldmlvbGV0O1xuXHQgIGZvbnQtd2VpZ2h0OiBib2xkO1xuICB9XG5cbiAgLm5hdntcblx0cGFkZGluZy1sZWZ0OiAwO1xuICAgIG1hcmdpbi1ib3R0b206IDA7XG4gICAgbGlzdC1zdHlsZTogbm9uZTtcbiAgfVxuICAubmF2LWxpc3R7XG5cdG1hcmdpbjogMDtcbiAgICBwYWRkaW5nOiAwO1xuICAgIGRpc3BsYXk6IGJsb2NrO1xuICB9XG4gIC8qIGFzaWRlIHVsLm5hdi1saXN0IGxpLmFjdGl2ZTpiZWZvcmUge1xuICAgIGNvbnRlbnQ6ICcnO1xuICAgIGJhY2tncm91bmQtY29sb3I6ICMyMTVjYTA7XG4gICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgIGxlZnQ6IDBweDtcbiAgICB0b3A6IDA7XG4gICAgaGVpZ2h0OiAxMDAlO1xuICAgIHdpZHRoOiA0cHg7XG5cdHotaW5kZXg6IDI7XG4gIH0gKi9cblxuICAuaGVyb0JyZWFkY3J1bWIge1xuICAgIGhlaWdodDogNDB2aCAhaW1wb3J0YW50O1xufVxuXG4gICoge1xuICAgIGZvbnQtZmFtaWx5OiAnTW9udHNlcnJhdCcsIHNhbnMtc2VyaWY7XG4gIH1cblxuICAuY2FyZCB7XG4gICAgLyogYm94LXNoYWRvdzogMHB4IDVweCAxMHB4IHJnYmEoMCwwLDAsMC4zKTsgKi9cbiAgICAvKiBib3gtc2hhZG93OiAwIDAgNXB4IDJweCAjMDAwOyAqL1xuICAgIC8qIGJveC1zaGFkb3c6IDAgMCAxMHB4IHJnYmEoMCwwLDAsMC42KTsgKi9cbiAgICBib3gtc2hhZG93OiAwIDAgMTBweCAjMDAwO1xuICAgIC8qIGJveC1zaGFkb3c6IDBweCA1cHggMTBweCByZ2JhKDAsMCwwLDAuMyk7ICovXG4gIH1cblxuICBsYWJlbCxcbiAgYSB7XG4gICAgY3Vyc29yOiBwb2ludGVyO1xuICAgIHVzZXItc2VsZWN0OiBub25lO1xuICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgY29sb3I6IGluaGVyaXQ7XG4gICAgdHJhbnNpdGlvbjogYm9yZGVyIDAuMnM7XG4gICAgYm9yZGVyLWJvdHRvbTogNXB4IHNvbGlkIHJnYmEoMTQyLCA2OCwgMTczLCAwLjIpO1xuICAgIHBhZGRpbmc6IDNweCAycHg7XG4gIH1cblxuICBsYWJlbDpob3ZlcixcbiAgYTpob3ZlciB7XG4gICAgYm9yZGVyLWJvdHRvbS1jb2xvcjogIzliNTliNjtcbiAgfVxuXG4gIC5sYXlvdXQge1xuICAgIGRpc3BsYXk6IGdyaWQ7XG4gICAgaGVpZ2h0OiAxMDAlO1xuICAgIHdpZHRoOiAxMDAlO1xuICAgIG92ZXJmbG93OiBoaWRkZW47XG4gICAgZ3JpZC10ZW1wbGF0ZS1yb3dzOiA1MHB4IDFmcjtcbiAgICBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IDFmciAxZnI7XG4gIH1cblxuICBpbnB1dFt0eXBlPXJhZGlvXSB7XG4gICAgZGlzcGxheTogbm9uZTtcbiAgfVxuXG4gIGxhYmVsLm5hdiB7XG4gICAgZGlzcGxheTogZmxleDtcbiAgICBoZWlnaHQ6IDExNnB4O1xuICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgY3Vyc29yOiBwb2ludGVyO1xuICAgIGJvcmRlci1ib3R0b206IDJweCBzb2xpZCAjZDVhMzFiO1xuICAgIGJhY2tncm91bmQ6ICNlY2YwZjE7XG4gICAgdXNlci1zZWxlY3Q6IG5vbmU7XG4gICAgdHJhbnNpdGlvbjogYmFja2dyb3VuZCAwLjRzLCBwYWRkaW5nLWxlZnQgMC4ycztcbiAgICBwYWRkaW5nLWxlZnQ6IDA7XG4gIH1cblxuICBpbnB1dFt0eXBlPXJhZGlvXTpjaGVja2VkKy5wYWdlK2xhYmVsLm5hdiB7XG4gICAgYmFja2dyb3VuZDogI0ZFRTRDMztcbiAgICBjb2xvcjogI2ZmZmZmZjtcbiAgICBwYWRkaW5nLWxlZnQ6IDIwcHg7XG4gIH1cblxuICBpbnB1dFt0eXBlPXJhZGlvXTpjaGVja2VkKy5wYWdlK2xhYmVsLm5hdiBzcGFuIHtcbiAgICBwYWRkaW5nLWxlZnQ6IDIwcHg7XG4gIH1cblxuICBpbnB1dFt0eXBlPXJhZGlvXTpjaGVja2VkKy5wYWdlK2xhYmVsLm5hdiBzdmcge1xuICAgIG9wYWNpdHk6IDE7XG4gIH1cblxuICBsYWJlbC5uYXYgc3BhbiB7XG4gICAgcGFkZGluZy1sZWZ0OiAwcHg7XG4gICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICB9XG5cbiAgbGFiZWwubmF2IHN2ZyB7XG4gICAgbGVmdDogMDtcbiAgICB0b3A6IC0zcHg7XG4gICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgIHdpZHRoOiAxNXB4O1xuICAgIG9wYWNpdHk6IDA7XG4gICAgdHJhbnNpdGlvbjogb3BhY2l0eSAwLjJzO1xuICB9XG5cbiAgLnBhZ2Uge1xuICAgIGdyaWQtY29sdW1uLXN0YXJ0OiAxO1xuICAgIGdyaWQtcm93LXN0YXJ0OiAyO1xuICAgIGdyaWQtY29sdW1uLWVuZDogc3BhbiAzO1xuICAgIHBhZGRpbmc6IDBweCAyMHB4O1xuICAgIC8qIGRpc3BsYXk6IGZsZXg7ICovXG4gICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgfVxuXG4gIC5wYWdlLWNvbnRlbnRzPioge1xuICAgIG9wYWNpdHk6IDA7XG4gICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDIwcHgpO1xuICAgIHRyYW5zaXRpb246IG9wYWNpdHkgMC4ycywgdHJhbnNmb3JtIDAuMnM7XG4gIH1cblxuICAucGFnZS1jb250ZW50cz4qOm50aC1jaGlsZCgxKSB7XG4gICAgdHJhbnNpdGlvbi1kZWxheTogMC40cztcbiAgfVxuXG4gIC5wYWdlLWNvbnRlbnRzPio6bnRoLWNoaWxkKDIpIHtcbiAgICB0cmFuc2l0aW9uLWRlbGF5OiAwLjZzO1xuICB9XG5cbiAgLnBhZ2UtY29udGVudHM+KjpudGgtY2hpbGQoMykge1xuICAgIHRyYW5zaXRpb24tZGVsYXk6IDAuOHM7XG4gIH1cblxuICAucGFnZS1jb250ZW50cz4qOm50aC1jaGlsZCg0KSB7XG4gICAgdHJhbnNpdGlvbi1kZWxheTogMXM7XG4gIH1cblxuICAucGFnZS1jb250ZW50cz4qOm50aC1jaGlsZCg1KSB7XG4gICAgdHJhbnNpdGlvbi1kZWxheTogMS4ycztcbiAgfVxuXG4gIC5wYWdlLWNvbnRlbnRzPio6bnRoLWNoaWxkKDYpIHtcbiAgICB0cmFuc2l0aW9uLWRlbGF5OiAxLjRzO1xuICB9XG5cbiAgLnBhZ2UtY29udGVudHM+KjpudGgtY2hpbGQoNykge1xuICAgIHRyYW5zaXRpb24tZGVsYXk6IDEuNnM7XG4gIH1cblxuICAucGFnZS1jb250ZW50cz4qOm50aC1jaGlsZCg4KSB7XG4gICAgdHJhbnNpdGlvbi1kZWxheTogMS44cztcbiAgfVxuXG4gIC5wYWdlLWNvbnRlbnRzPio6bnRoLWNoaWxkKDkpIHtcbiAgICB0cmFuc2l0aW9uLWRlbGF5OiAycztcbiAgfVxuXG4gIC5wYWdlLWNvbnRlbnRzPio6bnRoLWNoaWxkKDEwKSB7XG4gICAgdHJhbnNpdGlvbi1kZWxheTogMi4ycztcbiAgfVxuXG4gIC5wYWdlLWNvbnRlbnRzPio6bnRoLWNoaWxkKDExKSB7XG4gICAgdHJhbnNpdGlvbi1kZWxheTogMi40cztcbiAgfVxuXG4gIC5wYWdlLWNvbnRlbnRzPio6bnRoLWNoaWxkKDEyKSB7XG4gICAgdHJhbnNpdGlvbi1kZWxheTogMi42cztcbiAgfVxuXG4gIC5wYWdlLWNvbnRlbnRzPio6bnRoLWNoaWxkKDEzKSB7XG4gICAgdHJhbnNpdGlvbi1kZWxheTogMi44cztcbiAgfVxuXG4gIC5wYWdlLWNvbnRlbnRzPio6bnRoLWNoaWxkKDE0KSB7XG4gICAgdHJhbnNpdGlvbi1kZWxheTogM3M7XG4gIH1cblxuICAucGFnZS1jb250ZW50cz4qOm50aC1jaGlsZCgxNSkge1xuICAgIHRyYW5zaXRpb24tZGVsYXk6IDMuMnM7XG4gIH1cblxuICAucGFnZS1jb250ZW50cz4qOm50aC1jaGlsZCgxNikge1xuICAgIHRyYW5zaXRpb24tZGVsYXk6IDMuNHM7XG4gIH1cblxuICAucGFnZS1jb250ZW50cz4qOm50aC1jaGlsZCgxNykge1xuICAgIHRyYW5zaXRpb24tZGVsYXk6IDMuNnM7XG4gIH1cblxuICAucGFnZS1jb250ZW50cz4qOm50aC1jaGlsZCgxOCkge1xuICAgIHRyYW5zaXRpb24tZGVsYXk6IDMuOHM7XG4gIH1cblxuICAucGFnZS1jb250ZW50cz4qOm50aC1jaGlsZCgxOSkge1xuICAgIHRyYW5zaXRpb24tZGVsYXk6IDRzO1xuICB9XG5cbiAgLnBhZ2UtY29udGVudHM+KjpudGgtY2hpbGQoMjApIHtcbiAgICB0cmFuc2l0aW9uLWRlbGF5OiA0LjJzO1xuICB9XG5cbiAgaW5wdXRbdHlwZT1yYWRpb10rLnBhZ2Uge1xuICAgIHRyYW5zaXRpb246IHRyYW5zZm9ybSAwLjJzO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWCgxMDAlKTtcbiAgfVxuXG4gIGlucHV0W3R5cGU9cmFkaW9dOmNoZWNrZWQrLnBhZ2Uge1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWCgwJSk7XG4gIH1cblxuICBpbnB1dFt0eXBlPXJhZGlvXTpjaGVja2VkKy5wYWdlIC5wYWdlLWNvbnRlbnRzPioge1xuICAgIG9wYWNpdHk6IDE7XG4gICAgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDBweCk7XG4gIH1cblxuICAucGFnZS1jb250ZW50cyB7XG4gICAgLyogbWF4LXdpZHRoOiAxMDAlOyAqL1xuICAgIC8qIHdpZHRoOiA1MDBweDsgKi9cbiAgICBtYXJnaW46IDAgYXV0bztcbiAgfVxuICBsaTphY3RpdmV7XG5cdCAgY29sb3I6IHJlZDtcbiAgfVxuICAuYWN0aXZle1xuXHRjb2xvcjogcmVkO1xuXHRmb250LXNpemU6IDE4cHg7XG4gIH0iXX0= */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](ProductComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -4396,7 +4492,7 @@ BlogComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, styles: [".heroBreadcrumb[_ngcontent-%COMP%] {\r\n    height: 40vh !important;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImJsb2cuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLHVCQUF1QjtBQUMzQiIsImZpbGUiOiJibG9nLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaGVyb0JyZWFkY3J1bWIge1xyXG4gICAgaGVpZ2h0OiA0MHZoICFpbXBvcnRhbnQ7XHJcbn0iXX0= */"] });
+    } }, styles: [".heroBreadcrumb[_ngcontent-%COMP%] {\n    height: 40vh !important;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImJsb2cuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLHVCQUF1QjtBQUMzQiIsImZpbGUiOiJibG9nLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaGVyb0JyZWFkY3J1bWIge1xuICAgIGhlaWdodDogNDB2aCAhaW1wb3J0YW50O1xufSJdfQ== */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](BlogComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -4779,7 +4875,7 @@ ContactComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, styles: [".heroBreadcrumb[_ngcontent-%COMP%] {\r\n    height: 40vh !important;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbnRhY3QuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLHVCQUF1QjtBQUMzQiIsImZpbGUiOiJjb250YWN0LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaGVyb0JyZWFkY3J1bWIge1xyXG4gICAgaGVpZ2h0OiA0MHZoICFpbXBvcnRhbnQ7XHJcbn0iXX0= */"] });
+    } }, styles: [".heroBreadcrumb[_ngcontent-%COMP%] {\n    height: 40vh !important;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbnRhY3QuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLHVCQUF1QjtBQUMzQiIsImZpbGUiOiJjb250YWN0LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaGVyb0JyZWFkY3J1bWIge1xuICAgIGhlaWdodDogNDB2aCAhaW1wb3J0YW50O1xufSJdfQ== */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](ContactComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -4807,6 +4903,55 @@ const arr = [
     {
         "companyName": "KAIZER",
         "department": "Anti-Diabetic",
+        "productName": "GLIMFIRST M1/M2",
+        "composition": "Each uncoated bilayered tablet contains Glimipiride I.P. 1/2 mg  +Metformin HCL I.P. 500/1000 mg",
+        "indication": "In T2DM when Monotherapy fails",
+        "packing": "10*15 Blister",
+    },
+    {
+        "companyName": "KAIZER",
+        "department": "Anti-Diabetic",
+        "productName": "GLIMFIRST MV1/MV2",
+        "composition": "Each uncoated bilayered tablet contains, Glimepiride I.P 1mg/2mg. +Metformin HCl I.P 500 mg.(In Sustained release form)+ Voglibose I.P  0.2 mg.",
+        "indication": "In uncontrolled diabetes with high PPHG",
+        "packing": "10*15 Blister",
+    },
+    {
+        "companyName": "KAIZER",
+        "department": "Anti-Diabetic",
+        "productName": "GLIMFIRST MP1/MP2",
+        "composition": "Each uncoated bilayered tablet contains Glimipiride I.P. 1mg/2mg + Metformin HCL 500 mg (in sustained release form) +  Pioglitazone hydrochloride I.P.  Equivalent to Pioglitazone 15mg",
+        "indication": "In T2DM uncontrolled on Dual Therapy",
+        "packing": "10*15 Blister",
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Anti-Diabetic",
+        "productName": "VILSURE M",
+        "composition": "Each uncoated white coloured plain round convex tablet contains Vildagliptin 50 mg+ Metformin 500mg",
+        "indication": "For Durable Glycemic Control ",
+        "packing": "10*15 Alu-Alu",
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Anti-Diabetic",
+        "productName": "Vilsure D",
+        "composition": "Each  uncoated white coloured  plain round convex tablet contains Vildagliptin(SR) 100 mg+ Dapagliflozin 5mg/10mg",
+        "indication": "In Uncontrolled T2DM patients with CVD",
+        "packing": "10*10 Strips",
+        "dose": "Once Daily"
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Anti-Diabetic",
+        "productName": "VILSURE 100 SR",
+        "composition": "Each white coloured, round , biconvex ,film coated plain on both sides  tablet contains Vildagliptin Sustained Release 100 mg",
+        "indication": "For Durable Glycemic Control",
+        "packing": "10*15 Alu-Alu",
+    },
+    {
+        "companyName": "KAIZER",
+        "department": "Anti-Diabetic",
         "productName": "TENLIP 20",
         "composition": "Each uncoated bilayered tablet contains Teneligliptin Hydrobromide Hydrate eq. to tenegliptin 20 mg",
         "indication": "In uncontrolled T2DM",
@@ -4821,28 +4966,50 @@ const arr = [
         "packing": "10*15 Alu-Alu",
     },
     {
-        "companyName": "KAIZER",
+        "companyName": "CITIUS",
         "department": "Anti-Diabetic",
-        "productName": "GLIMFIRST M1/M2 FORTE TAB",
-        "composition": "Each uncoated bilayered tablet contains Glimipiride I.P. 1/2 mg  +Metformin HCL I.P. 500/1000 mg",
-        "indication": "In T2DM when Monotherapy fails",
-        "packing": "10*15 Blister",
+        "productName": "ZICLA M",
+        "composition": "Each uncoated tablet contains, Gliclazide I.P. 80 mg + Metfomin Hydrochloride I.P. 500 mg.",
+        "indication": "In T2DM patients with High HbA1c & Vascular Complications",
+        "packing": "10*15s Blister",
+        "dose": "Once Daily",
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Anti-Diabetic",
+        "productName": "D- Bose M 0.2/0.3",
+        "composition": "Each uncoated bilayered tablet contains  Voglibose I.P. 0.2mg/0.3 mg  + Metformin Hydrochloride I.P. 500mg (in sustained release form)",
+        "indication": "In T2DM with Uncontrolled PPHG",
+        "packing": "10*10 Alu-Alu",
+        "dose": "Once Daily"
+        //"alsoAvaliable1": "D- Bose M",
     },
     {
         "companyName": "KAIZER",
         "department": "Anti-Diabetic",
-        "productName": "GLIMFIRST MP1 TAB",
-        "composition": "Each uncoated bilayered tablet contains Glimipiride I.P. 1mg/2mg + Metformin HCL 500 mg (in sustained release form) +  Pioglitazone hydrochloride I.P.  Equivalent to Pioglitazone 15mg",
-        "indication": "In T2DM uncontrolled on Dual Therapy",
-        "packing": "10*15 Blister",
+        "productName": "HOMO 16 D",
+        "composition": "Each film coated tablet contains Alpha Lipoic Acid U.S.P 100 mg, Pyridoxine Hydrochloride I.P 3 mg, Methylcobalamin 1500 mcg, Folic Acid I.P 1.5 mg,Vitamin D3 I.P 1000 I.U.",
+        "indication": "In Diabetic Neuropathy & Vitamin D Deficiency",
+        "packing": "10*15 Alu-Alu",
+        "dose": "Once Daily"
     },
     {
-        "companyName": "KAIZER",
+        "companyName": "CITIUS",
         "department": "Anti-Diabetic",
-        "productName": "GLIMFIRST MV1",
-        "composition": "Each uncoated bilayered tablet contains, Glimepiride I.P 1mg/2mg. +Metformin HCl I.P 500 mg.(In Sustained release form)+ Voglibose I.P  0.2 mg.",
-        "indication": "In uncontrolled diabetes with high PPHG",
-        "packing": "10*15 Blister",
+        "productName": "Homo 16 PG",
+        "composition": "Each Film Coated tablet contains Pregabalin 75(SR) mg+ Nortryptyline Hydrochloride 10mg+ Methylcobalamin 1500 mcg",
+        "indication": "In Painful Diabetic Peripheral Neuropathy",
+        "packing": "10*10 Alu-Alu",
+        "dose": "Once Daily"
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Anti-Diabetic",
+        "productName": "Homo 16 N",
+        "composition": "Each film coated tablet contains Alpha Lipoic Acid U.S.P 100 mg, Pyridoxine Hydrochloride I.P 3 mg, Methylcobalamin 1500 mcg, Folic Acid I.P 1.5 mg",
+        "indication": "To Delay Onset of Diabetic Peripheral Neuropath & Coronary Artery Diseases",
+        "packing": "10*15 Alu-Alu",
+        "dose": "Once Daily"
     },
     //  {
     //      "companyName": "KAIZER",
@@ -4866,8 +5033,8 @@ const arr = [
     {
         "companyName": "KAIZER",
         "department": "Cardiac",
-        "productName": "TELFIRST 20/40/80MG TAB",
-        "composition": "Each uncoated tablet contains, Telmisartan I.P. 20mg/40mg/80mg",
+        "productName": "TELFIRST 20/40 MG",
+        "composition": "Each uncoated tablet contains, Telmisartan I.P.  20/40 mg.",
         "indication": "In Uncontrolled Hypertension",
         "packing": "10*15 Alu-Alu",
     },
@@ -4882,7 +5049,7 @@ const arr = [
     {
         "companyName": "KAIZER",
         "department": "Cardiac",
-        "productName": "TELFIRST CT 40/6.25 TAB",
+        "productName": "TELFIRST CT 40 +6.25/12.5 MG",
         "composition": "Each uncoated bilayered tablet contains Telmisartan I.P. 40mg + Chlorthalidone I.P 6.25mg/12.5mg .",
         "indication": "In Uncontrolled Hypertensives with High CV Risk ",
         "packing": "10*15 Alu-Alu",
@@ -4890,12 +5057,32 @@ const arr = [
     {
         "companyName": "KAIZER",
         "department": "Cardiac",
-        "productName": "TELFIRST M 25/50MG",
-        "composition": "Each uncoated bilayered tablet contains Telmisartan I.P. 40 mg.  + Metoprolol Succinate B.P.  23.75 mg  eq. to Metoprolol Tartrate (Extended Release) 25 mg.",
-        "indication": "In Uncontrolled Hypertensives with CAD & CHF",
-        "packing": "10*10 Blister Pack",
+        "productName": "Telfirst H 40 +12.5 MG",
+        "composition": "Each uncoated bilayered tablet contains Telmisartan I.P. 40mg + Chlorthalidone I.P 6.25mg/12.5mg .",
+        "indication": "In Uncontrolled Hypertensives with High CV Risk ",
+        "packing": "10*15 Alu-Alu",
     },
-    //  {
+    {
+        "companyName": "CITIUS",
+        "department": "Cardiac",
+        "productName": "ROZFIRST 5/10/20",
+        "composition": "Each film coated tablet contains Rosuvastatin Calcium I.P. eq. to Rosuvastatin 5mg/10mg/20mg",
+        "indication": "In Dyslipidemia",
+        "packing": "10*15 Alu-Alu",
+    },
+    // {
+    //"companyName": "KAIZER",
+    //"department": "Cardiac",
+    //"productName": "TELFIRST M 25/50MG",
+    //"composition": "Each uncoated bilayered tablet contains Telmisartan I.P. 40 mg.  + Metoprolol Succinate B.P.  23.75 mg  eq. to Metoprolol Tartrate (Extended Release) 25 mg.",
+    //"indication": "In Uncontrolled Hypertensives with CAD & CHF",
+    //"packing": "10*10 Blister Pack",
+    //  "dose": "Once Daily",
+    //  "alsoAvaliable1": "Telfirst AM",
+    //  "alsoAvaliable2": "Telfirst CT",
+    //  "alsoAvaliable3": "Telfirst H" , 
+    //  },
+    ////         //  {
     //      "companyName": "KAIZER",
     //      "department": "Cardiac",
     //      "productName": "DYLOOP",
@@ -4905,14 +5092,15 @@ const arr = [
     //      "dose": "Once Daily",
     //      "alsoAvaliable1": "Dyloop Plus"
     //  },
-    {
-        "companyName": "KAIZER",
-        "department": "Obesity",
-        "productName": "BELYTRIM",
-        "composition": "Each one sided scored tablet contains Alpha Cyclo Dextrine 1 gm",
-        "indication": "In Overweight or Obese individual with/without T2DM/ Dyslipidemia",
-        "packing": "Strip of 10's",
-    },
+    //    {
+    //"companyName": "KAIZER",
+    // "department": "Obesity",
+    //"productName": "BELYTRIM",
+    //"composition": "Each one sided scored tablet contains Alpha Cyclo Dextrine 1 gm",
+    // "indication": "In Overweight or Obese individual with/without T2DM/ Dyslipidemia",
+    // "packing": "Strip of 10's",
+    //  "dose": "Twice Daily"
+    //        },
     //  {
     //     "companyName": "KAIZER",
     //     "department": "Cardiac",
@@ -4969,20 +5157,64 @@ const arr = [
     //  },
     {
         "companyName": "KAIZER",
-        "department": "Anti-Diabetic",
-        "productName": "HOMO 16 D",
-        "composition": "Each film coated tablet contains Alpha Lipoic Acid U.S.P 100 mg, Pyridoxine Hydrochloride I.P 3 mg, Methylcobalamin 1500 mcg, Folic Acid I.P 1.5 mg,Vitamin D3 I.P 1000 I.U.",
-        "indication": "In Diabetic Neuropathy & Vitamin D Deficiency",
-        "packing": "10*15 Alu-Alu",
-        "dose": "Once Daily"
-    },
-    {
-        "companyName": "KAIZER",
         "department": "Others",
         "productName": "BENTOZ",
         "composition": "Multivitamin Multimineral Tablet",
         "indication": "In Nutrition Depletion",
         "packing": "15 tab*02 Blister ",
+        "dose": "Once Daily"
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Others",
+        "productName": "ALPHA SINCAL",
+        "composition": "Each film coated Tablet contains, Calcitriol 0.25 mcg + Calcium Carbonate I.P 1250 mg eqv.to Elemental Calcium 500 mg + zinc sulphate Monohydrate eqv.to Elemental Zinc 7.5 mg",
+        "indication": "In Osteoporosis",
+        "packing": "10*15 Alu-Alu",
+        "dose": "Once Daily"
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Others",
+        "productName": "SINCAL-TAB",
+        "composition": "Each film coated tablet contains 1250mg. of  Calcium Carbonate from  an organic source (Oyster Shell) equivalent to Elemental Calcium 500 mg+ Vitamin D3 I.P.  250 I.U  ",
+        "indication": "In Calcium Deficiency",
+        "packing": "15 tab*10's Blister ",
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Others",
+        "productName": "DFRIZ",
+        "composition": "Each film coated Tablet contains Diacerin I.P. 50mg+ Glucosamine Sulphate pottasium chloride USP 750 mg+ Methyl Sulphonyl Methane U.S.P. 250mg",
+        "indication": "In Osteoarthritis",
+        "packing": "10 tab*6'S Alu-Alu",
+        "dose": "Once Daily"
+    },
+    {
+        "companyName": "KAIZER",
+        "department": "Others",
+        "productName": "GOXOI",
+        "composition": "Each film coated tablet contains Febuxostat 40/80 mg",
+        "indication": "In management of Hyperuricemia with Gout",
+        "packing": "10*15 Alu-Alu/ 10*10 Alu-Alu",
+        "dose": "Once Daily"
+    },
+    {
+        "companyName": "KAIZER",
+        "department": "Others",
+        "productName": "CAMDEM",
+        "composition": "Each film coated tablet contain  Escitalopram oxalate 5/10 mg+ ClonazepamI.P. 0.5mg",
+        "indication": "In patients of Depression / Anxiety / Panic Disorder",
+        "packing": "10*15 Aluminium Foil",
+        "dose": "Once Daily"
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Others",
+        "productName": "CORBET XT",
+        "composition": "Each film coated Tablet contains Ferrous Ascorbate equivalet to elemental Iron 100 mg + Folic acid I.P.1.5 mg",
+        "indication": "In Iron Deficiency Anaemia",
+        "packing": "10*10 Alu-Alu",
         "dose": "Once Daily"
     },
     //  {
@@ -4995,15 +5227,7 @@ const arr = [
     //      "dose": "Once Daily",
     //      "alsoAvaliable1": "Bipra 20"
     //  },
-    //  {
-    //      "companyName": "KAIZER",
-    //      "department": "Others",
-    //      "productName": "GOXOI",
-    //      "composition": "Each film coated tablet contains Febuxostat 40/80 mg",
-    //      "indication": "In Management of Hyperuricemia & Gout",
-    //      "packing": "10*10 Alu-Alu",
-    //      "dose": "Once Daily"
-    //  },
+    //  
     //  {
     //      "companyName": "KAIZER",
     //      "department": "Others",
@@ -5022,22 +5246,6 @@ const arr = [
     //      "packing": "10*10 Alu-Alu",
     //      "dose": "Once Daily"
     //  },
-    {
-        "companyName": "CITIUS",
-        "department": "Anti-Diabetic",
-        "productName": "VILSURE 100 SR",
-        "composition": "Each white coloured, round , biconvex ,film coated plain on both sides  tablet contains Vildagliptin Sustained Release 100 mg",
-        "indication": "For Durable Glycemic Control",
-        "packing": "10*15 Alu-Alu",
-    },
-    {
-        "companyName": "CITIUS",
-        "department": "Anti-Diabetic",
-        "productName": "VILSURE M",
-        "composition": "Each uncoated white coloured plain round convex tablet contains Vildagliptin 50 mg+ Metformin 500mg",
-        "indication": "For Durable Glycemic Control ",
-        "packing": "10*15 Alu-Alu",
-    },
     //  {
     //      "companyName": "CITIUS",
     //      "department": "Anti-Diabetic",
@@ -5057,16 +5265,16 @@ const arr = [
     //      "dose": "Once Daily",
     //      "alsoAvaliable1": "D-Bose"
     //  },
-    {
-        "companyName": "CITIUS",
-        "department": "Anti-Diabetic",
-        "productName": "ZICLA 60 SR/60SRM",
-        "composition": "Each Film coated Tablet contains Gliclazide (SR) 60 mg+ Metformin 500mg(SR)",
-        "indication": "In T2DM patients with High HbA1c & Vascular Complications",
-        "packing": "Blisters 10*10",
-        "dose": "Once Daily",
-        "alsoAvaliable1": "Zicla M"
-    },
+    //   {
+    //"companyName": "CITIUS",
+    //"department": "Anti-Diabetic",
+    // "productName": "ZICLA 60 SR/60SRM",
+    // "composition": "Each Film coated Tablet contains Gliclazide (SR) 60 mg+ Metformin 500mg(SR)",
+    // "indication": "In T2DM patients with High HbA1c & Vascular Complications",
+    // "packing": "Blisters 10*10",
+    // "dose": "Once Daily",
+    // "alsoAvaliable1": "Zicla M"
+    //            },
     //  {
     //      "companyName": "CITIUS",
     //      "department": "Anti-Diabetic",
@@ -5090,35 +5298,69 @@ const arr = [
     {
         "companyName": "CITIUS",
         "department": "Cardiac",
-        "productName": "ROZFIRST-10 MG TAB",
-        "composition": "Each film coated tablet contains Rosuvastatin Calcium I.P. eq. to Rosuvastatin 5mg/10mg/20mg",
-        "indication": "In Dyslipidemia",
-        "packing": "10*15 Alu-Alu",
-    },
-    {
-        "companyName": "CITIUS",
-        "department": "Cardiac",
-        "productName": "ROZFIRST GOLD 10",
-        "composition": "Each Hard Gelatin capsule contains Rosuvastatin Calcium eq. to 10 mg+ Clopidogrel Bisulphate eq, to Clopidogrel 75mg+ Aspirin as enteric coated tablets.",
+        "productName": "ROZFIRST GOLD 10/20",
+        "composition": "Each Hard Gelatin capsule contains Rosuvastatin Calcium eq. to 10 mg/20 mg + Clopidogrel Bisulphate eq, to Clopidogrel 75mg+ Aspirin as enteric coated tablets.",
         "indication": "In Angina, MI, Stroke and Post Coronary Intervention",
         "packing": "10*10 Alu-Alu",
     },
     {
         "companyName": "CITIUS",
         "department": "Cardiac",
-        "productName": "METFIRST XL 25MG TAB",
-        "composition": "Each uncoated sustained release tablet contains, Metoprolol Tartrate I.P. 25mg/50mg",
-        "indication": "In Angina Pectoris, MI and CHD",
-        "packing": "10*10 Blister Pack",
+        "productName": "Atorfirst 10/20/40",
+        "composition": "Each film coated Tablet contains, Atorvastatin Calcium I.P.  equivalent to Atorvastatin 10/20/40 mg",
+        "indication": "In Dyslipidemia with or without Risk Factors",
+        "packing": "10*15 Alu-Alu",
     },
     {
         "companyName": "CITIUS",
         "department": "Cardiac",
-        "productName": "METFIRST T-25",
-        "composition": "Each uncoated bilayered tablet contains Telmisartan I.P. 40 mg.  + Metoprolol Succinate B.P.  23.75mg/47.5mg  eq. to Metoprolol Tartrate (Extended Release) 25mg/50mg.",
-        "indication": "In Hypertension Management",
+        "productName": "Atorfirst F",
+        "composition": "Each film coated Tablet contains, Atorvastatin Calcium I.P.  equivalent to Atorvastatin 10 mg + Fenofibrate I.P. 160 mg",
+        "indication": "In Dyslipidemia with or without Risk Factors",
+        "packing": "10*10 Alu-Alu",
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Cardiac",
+        "productName": "Dyloop 5/10/20",
+        "composition": "Each Uncoated tablet contains Torsemide U.S.P 10/20 mg tablets",
+        "indication": "In Hypertension with Edema",
+        "packing": "10*15 Alu-Alu",
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Cardiac",
+        "productName": "Dyloop Plus",
+        "composition": "Each uncoated tablet contains Torsemide U.S.P. 10 mg/20 mg + Spironolactone I.P. 50mg tablets",
+        "indication": "In Hypertension with Edema",
+        "packing": "10*15 Alu-Alu",
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Cardiac",
+        "productName": "Homo 16 LC",
+        "composition": "Each film coated tablet contains - L-Carnitine-500 mg + Folic Acid 1.5 mg + Vitamin B12-1500 mcg. ",
+        "indication": "In Carnitine Deficiency Induced Complications",
+        "packing": "10*10 Alu-Alu",
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Cardiac",
+        "productName": "METFIRST XL 25MG",
+        "composition": "Each uncoated sustained release tablet contains, Metoprolol Tartrate I.P. 25mg/50mg",
+        "indication": "In Angina Pectoris, MI and CHD",
         "packing": "10*10 Blister Pack",
     },
+    //   {
+    //"companyName": "CITIUS",
+    //"department": "Cardiac",
+    //"productName": "METFIRST T 25/50",
+    //"composition": "Each uncoated bilayered tablet contains Telmisartan I.P. 40 mg.  + Metoprolol Succinate B.P.  23.75mg/47.5mg  eq. to Metoprolol Tartrate (Extended Release) 25mg/50mg.",
+    //"indication": "In Hypertension Management",
+    //"packing": "10*10 Blister Pack",
+    //  "dose": "Once Daily",
+    //  "alsoAvaliable1": "Metfirst T"
+    //        },
     //  {
     //      "companyName": "CITIUS",
     //      "department": "Cardiac",
@@ -5164,40 +5406,31 @@ const arr = [
     //      "packing": "10*10 Alu-Alu",
     //      "dose": "Once Daily"
     //  },
-    {
-        "companyName": "CITIUS",
-        "department": "Others",
-        "productName": "SINCAL-TAB",
-        "composition": "Each film coated tablet contains 1250mg. of  Calcium Carbonate from  an organic source (Oyster Shell) equivalent to Elemental Calcium 500 mg+ Vitamin D3 I.P.  250 I.U  ",
-        "indication": "In Calcium Deficiency",
-        "packing": "15 tab*10's Blister ",
-    },
     //  {
-    //      "companyName": "CITIUS",
-    //      "department": "Others",
-    //      "productName": "ALPHA SINCAL",
-    //      "composition": "Each film coated Tablet contains, Calcitriol 0.25 mcg + Calcium Carbonate I.P 1250 mg eqv.to Elemental Calcium 500 mg + zinc sulphate Monohydrate eqv.to Elemental Zinc 7.5 mg",
-    //      "indication": "In Osteoporosis",
-    //      "packing": "10*15 Alu-Alu",
-    //      "dose": "Once Daily"
-    //  },
-    //  {
-    //      "companyName": "CITIUS",
-    //      "department": "Others",
-    //      "productName": "DFRIZ",
-    //      "composition": "Each film coated Tablet contains Diacerin I.P. 50mg+ Glucosamine Sulphate pottasium chloride USP 750 mg+ Methyl Sulphonyl Methane U.S.P. 250mg",
-    //      "indication": "For pain free movement in Osteoarthritis",
-    //      "packing": "10 tab*6'S Alu-Alu",
-    //      "dose": "Once Daily"
-    //  },
-    {
-        "companyName": "CITIUS",
-        "department": "Others",
-        "productName": "SAN-D 60k",
-        "composition": "Each uncoated chewable tablet  contains Cholecalciferol I.P. (as stabilized ) 60000 IU ",
-        "indication": "In Vit D deficiency/insufficiency",
-        "packing": "04 tab*10's Blister",
-    },
+    //"companyName": "CITIUS",
+    //"department": "Others",
+    //"productName": "CAMDEM-5/10",
+    //"composition": "Each film coated tablet contain  Escitalopram oxalate 5mg/10mg+ ClonazepamI.P. 0.5mg",
+    //"indication": "In anxiety/depression and panic disorders",
+    //"packing": "10*15 Aluminium Foil",
+    //         },
+    // {
+    //"companyName": "CITIUS",
+    //"department": "Others",
+    //"productName": "CORBET XT TAB",
+    //"composition": "Each film coated Tablet contains Ferrous Ascorbate equivalet to elemental Iron 100 mg + Folic acid I.P.1.5 mg",
+    //"indication": "In iron deficiency anemia",
+    //"packing": "10*10 Alu-Alu",
+    //    },
+    //        {
+    //"companyName": "CITIUS",
+    // "department": "Others",
+    //"productName": "SAN-D 60k",
+    // "composition": "Each uncoated chewable tablet  contains Cholecalciferol I.P. (as stabilized ) 60000 IU ",
+    // "indication": "In Vit D deficiency/insufficiency",
+    // "packing": "04 tab*10's Blister",
+    //  "dose": "As directed by Physician"
+    //       },
     //  {
     //      "companyName": "CITIUS",
     //      "department": "Others",
@@ -5218,15 +5451,7 @@ const arr = [
     //      "packing": "10*10 Alu-Alu",
     //      "dose": "Once Daily"
     //  },
-    //  {
-    //      "companyName": "CITIUS",
-    //      "department": "Others",
-    //      "productName": "CAMDEM",
-    //      "composition": "Each film coated tablet contain  Escitalopram oxalate 5/10 mg+ ClonazepamI.P. 0.5mg",
-    //      "indication": "In patients of Depression / Anxiety / Panic Disorder",
-    //      "packing": "10*15 Aluminium Foil",
-    //      "dose": "Once Daily"
-    //  },
+    //  
     {
         "companyName": "CITIUS",
         "department": "Obesity",
@@ -5235,14 +5460,15 @@ const arr = [
         "indication": "In obesity > 30 with/without Risk factors",
         "packing": "10*10 Alu-Alu",
     },
-    {
-        "companyName": "CITIUS",
-        "department": "Obesity",
-        "productName": "SINTRIM",
-        "composition": "Each veg Capsule contains Merastin 400 mg",
-        "indication": "In Visceral Obesity and Associated Metabolic Complications",
-        "packing": "10S Strip",
-    },
+    //          {
+    //"companyName": "CITIUS",
+    //"department": "Obesity",
+    //"productName": "SINTRIM",
+    //"composition": "Each veg Capsule contains Merastin 400 mg",
+    //"indication": "In Visceral Obesity and Associated Metabolic Complications",
+    //"packing": "10S Strip",
+    // "dose": "Twice daily",
+    //         },
     // {
     //     "companyName": "CITIUS",
     //     "department": "Others",
@@ -5274,7 +5500,15 @@ const arr = [
         "department": "Gastro",
         "productName": "XIFARIX 400/550",
         "composition": "Each film coated tablet contains Rifaximin BP 400mg/550mg",
-        "indication": "In acute diarrhea/IBS-D/MHE",
+        "indication": "In IBS-D/HE",
+        "packing": "10*10 Strips",
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Gastro",
+        "productName": "MEBGREAT",
+        "composition": "Each hard Gelatin capsule contains Mebeverine. Hydrochloride I.P 200 mg",
+        "indication": "In IBS",
         "packing": "10*10 Strips",
     },
     {
@@ -5282,41 +5516,41 @@ const arr = [
         "department": "Gastro",
         "productName": "BRAVASA",
         "composition": "Each gastro-resistant prolonged release tablet contains Mesalamine I.P 1.2gm",
-        "indication": "In ulcerative colitis (IBD)",
+        "indication": "In ulcerative colitis",
         "packing": "10*10 Strips",
-    },
-    {
-        "companyName": "CITIUS",
-        "department": "Gastro",
-        "productName": "MEBGREAT",
-        "composition": "10*10 Strips",
-        "indication": "Each hard Gelatin capsule contains Mebeverine. Hydrochloride I.P 200 mg",
-        "packing": "In IBS",
     },
     {
         "companyName": "CITIUS",
         "department": "Gastro",
         "productName": "FIBTIUS",
         "composition": "Each 15 gm granules contains; lactitiol Monohydrate BP 10gm and  Isapghula Husk 3.5gm.",
-        "indication": "In cosntipation, IBS-C",
+        "indication": "In Severe Constipation, IBS-C",
         "packing": "180gm jar",
     },
     {
         "companyName": "CITIUS",
         "department": "Gastro",
-        "productName": "CAMDEM-5/10",
-        "composition": "Each film coated tablet contain  Escitalopram oxalate 5mg/10mg+ ClonazepamI.P. 0.5mg",
-        "indication": "In anxiety/depression and panic disorders",
-        "packing": "10*15 Aluminium Foil",
+        "productName": "FernPro",
+        "composition": "Protein Supplement",
+        "indication": "As a supplement in liver cirrhosis, in post-surgical cases for faster recovery, in conditions of impaired protein absorption in geriatric patients, in GI conditions like IBD, IBS",
+        "packing": "1 Box contains 15 sachets (20gm each)",
     },
-    {
-        "companyName": "CITIUS",
-        "department": "Gastro",
-        "productName": "CORBET XT TAB",
-        "composition": "Each film coated Tablet contains Ferrous Ascorbate equivalet to elemental Iron 100 mg + Folic acid I.P.1.5 mg",
-        "indication": "In iron deficiency anemia",
-        "packing": "10*10 Alu-Alu",
-    },
+    //   {
+    //"companyName": "CITIUS",
+    //"department": "Gastro",
+    //"productName": "CAMDEM-5/10",
+    //"composition": "Each film coated tablet contain  Escitalopram oxalate 5mg/10mg+ ClonazepamI.P. 0.5mg",
+    //"indication": "In anxiety/depression and panic disorders",
+    //"packing": "10*15 Aluminium Foil",
+    //          },
+    //          {
+    //"companyName": "CITIUS",
+    //"department": "Gastro",
+    //"productName": "CORBET XT TAB",
+    //"composition": "Each film coated Tablet contains Ferrous Ascorbate equivalet to elemental Iron 100 mg + Folic acid I.P.1.5 mg",
+    //"indication": "In iron deficiency anemia",
+    //"packing": "10*10 Alu-Alu",
+    //          },
     // {
     //     "companyName": "CITIUS",
     //     "department": "Gastro",
@@ -5328,10 +5562,38 @@ const arr = [
     {
         "companyName": "CITIUS",
         "department": "Gastro",
-        "productName": "FernPro",
-        "composition": "Protein Supplement",
-        "indication": "As a supplement in liver cirrhosis, in post-surgical cases for faster recovery, in conditions of impaired protein absorption in geriatric patients, in GI conditions like IBD, IBS",
-        "packing": "1 Box contains 15 sachets (20gm each)",
+        "productName": "Bipra 20",
+        "composition": "Each Tablet contains,Rabeprazole 20 mg",
+        "indication": "In Gastroesophageal Reflux Disease",
+        "packing": "10*15 Alu-Alu",
+    },
+    {
+        "companyName": "KAIZER",
+        "department": "Gastro",
+        "productName": "BIPRA D",
+        "composition": "Each hard gelatin capsule contains, Rabeprazole Sodium I.P.20 mg (as enteric coated pellets)+ Domperidome I.P. 30 mg (As sustained release pellets)",
+        "indication": "In Gastroesophageal Reflux Disease",
+        "packing": "10*15 Alu-Alu",
+        "dose": "Once Daily",
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Gastro",
+        "productName": "Panfirst 40",
+        "composition": "Each enteric coated tablet contains, Pantoprazole Sodium I.P.  eq. to Pantoprazole 40mg.",
+        "indication": "In Gastroesophageal Reflux Disease",
+        "packing": "10*15 Alu-Alu",
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Gastro",
+        "productName": "PANFIRST D",
+        "composition": "Each hard gelatin capsule contains  Pantoprazole Sodium I.P.  eq. to Pantoprazole 40mg. (as enteric coated pellets ), Domperidone I.P. 30 mg. (As sustained release pellets)",
+        "indication": "In Gastroesophageal Reflux Disease",
+        "packing": "10*15 Alu-Alu",
+        "dose": "Once Daily",
+        "alsoAvaliable1": "Panfirst 40",
+        "alsoAvaliable2": "Panfirst 40 Inj"
     },
 ];
 const updatesArr = [
@@ -5370,7 +5632,7 @@ class AboutusComponent {
     }
 }
 AboutusComponent.ɵfac = function AboutusComponent_Factory(t) { return new (t || AboutusComponent)(); };
-AboutusComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutusComponent, selectors: [["app-aboutus"]], decls: 151, vars: 0, consts: [["data-stellar-background-ratio", "0.5", 1, "hero-wrap", "hero-wrap-2", "heroBreadcrumb", 2, "background-image", "url('assets/images/breadcums/about.jpg')", "background-position", "50% -66px"], [1, "overlay"], [1, "container"], [1, "row", "no-gutters", "slider-text", "align-items-end", "justify-content-start"], [1, "col-md-9", "ftco-animate", "pb-5", "fadeInUp", "ftco-animated"], [1, "mb-3", "bread", 2, "color", "#ffffff"], ["id", "about-section", 1, "ftco-counter", "img", "ftco-section", "ftco-no-pt", "ftco-no-pb"], [1, "row", "d-flex"], [1, "col-md-12", "col-lg-12", "pl-lg-12"], [1, ""], [1, "row", "justify-content-start"], [1, "col-md-12", "heading-section", "ftco-animate", "p-4", "p-lg-5", "fadeInUp", "ftco-animated", "text-justify"], [1, "mb-4"], [1, "ftco-section", "bg-light", 2, "padding", "0 !important"], [1, "container-fluid", "px-5"], [1, "row", "justify-content-center"], [1, "col-md-8", "text-center", "heading-section", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "row"], [1, "col-md-12", "col-lg-12", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "row", "d-none"], [1, "col-md-3", "col-lg-3"], [1, "col-md-6", "col-lg-6"], [1, "staff"], [1, "img-wrap", "d-flex", "align-items-stretch"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/directornew.jpeg)", "z-index", "99"], [1, "text", "text-center"], [1, "mb-2", 2, "color", "#fff !important"], [1, "faded"], [2, "color", "#fff!important"], [1, "ftco-social", "text-center"], [1, "ftco-animate", "fadeInUp", "ftco-animated"], [1, "d-flex", "align-items-center", "justify-content-center"], [1, "fa", "fa-envelope"], [1, "col-md-12", "col-lg-12"], [1, "text-justify"], ["href", "mailto:roshanjain@sinsanpharma.com", 1, "maila", 2, "color", "white"], [1, "ftco-section", "bg-light", 2, "padding", "2em !important"], [1, "col-md-8", "text-center", "heading-section"], [1, "staff", 2, "border", "solid 1px #0B939D"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/leadership/Prasant_Mohanty.jpg)"], [1, "text", "text-justify", 2, "background", "none !important", "padding-bottom", "0 !important"], [1, "mb-2", "text-center", 2, "color", "black !important", "text-transform", "uppercase"], [1, "position", "mb-2", "text-center", 2, "text-transform", "uppercase"], [2, "color", "black", "font-size", "12px", "font-family", "'Montserrat', sans-serif"], [1, "col-md-6", "col-lg-6", "hoverSty"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/leadership/Sunil_Bhutani.png)"], [2, "color", "black", "font-size", "12px"], [1, "col-md-6", "col-lg-6", "d-none"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/leadership/Mahesh_Dabeer.jpeg)"], [1, "mb-2", "text-center", 2, "color", "black !important"], [1, "position", "mb-2", "text-center"], [1, "faded", 2, "padding", "0!important"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/leadership/Sudam_Rane.jpeg)"], [1, "col-md-12", "col-lg-6", "hoverSty"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/leadership/Rajendra_Padalkar.jpeg)"]], template: function AboutusComponent_Template(rf, ctx) { if (rf & 1) {
+AboutusComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutusComponent, selectors: [["app-aboutus"]], decls: 137, vars: 0, consts: [["data-stellar-background-ratio", "0.5", 1, "hero-wrap", "hero-wrap-2", "heroBreadcrumb", 2, "background-image", "url('assets/images/breadcums/about.jpg')", "background-position", "50% -66px"], [1, "overlay"], [1, "container"], [1, "row", "no-gutters", "slider-text", "align-items-end", "justify-content-start"], [1, "col-md-9", "ftco-animate", "pb-5", "fadeInUp", "ftco-animated"], [1, "mb-3", "bread", 2, "color", "#ffffff"], ["id", "about-section", 1, "ftco-counter", "img", "ftco-section", "ftco-no-pt", "ftco-no-pb"], [1, "row", "d-flex"], [1, "col-md-12", "col-lg-12", "pl-lg-12"], [1, ""], [1, "row", "justify-content-start"], [1, "col-md-12", "heading-section", "ftco-animate", "p-4", "p-lg-5", "fadeInUp", "ftco-animated", "text-justify"], [1, "mb-4"], [1, "ftco-section", "bg-light", 2, "padding", "0 !important"], [1, "container-fluid", "px-5"], [1, "row", "justify-content-center"], [1, "col-md-8", "text-center", "heading-section", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "row"], [1, "col-md-12", "col-lg-12", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "row", "d-none"], [1, "col-md-3", "col-lg-3"], [1, "col-md-6", "col-lg-6"], [1, "staff"], [1, "img-wrap", "d-flex", "align-items-stretch"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/directornew.jpeg)", "z-index", "99"], [1, "text", "text-center"], [1, "mb-2", 2, "color", "#fff !important"], [1, "faded"], [2, "color", "#fff!important"], [1, "ftco-social", "text-center"], [1, "ftco-animate", "fadeInUp", "ftco-animated"], [1, "d-flex", "align-items-center", "justify-content-center"], [1, "fa", "fa-envelope"], [1, "col-md-12", "col-lg-12"], [1, "text-justify"], ["href", "mailto:roshanjain@sinsanpharma.com", 1, "maila", 2, "color", "white"], [1, "ftco-section", "bg-light", 2, "padding", "2em !important"], [1, "col-md-8", "text-center", "heading-section"], [1, "staff", 2, "border", "solid 1px #0B939D"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/leadership/Sunil_Bhutani.png)"], [1, "text", "text-justify", 2, "background", "none !important", "padding-bottom", "0 !important"], [1, "mb-2", "text-center", 2, "color", "black !important", "text-transform", "uppercase"], [1, "position", "mb-2", "text-center", 2, "text-transform", "uppercase"], [2, "color", "black", "font-size", "12px"], [1, "col-md-6", "col-lg-6", "hoverSty"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/leadership/Kuldeep_Tyagi.png)"], [1, "col-md-6", "col-lg-6", "d-none"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/leadership/Mahesh_Dabeer.jpeg)"], [1, "mb-2", "text-center", 2, "color", "black !important"], [1, "position", "mb-2", "text-center"], [1, "faded", 2, "padding", "0!important"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/leadership/Satwant_singh_bagga.png)"]], template: function AboutusComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -5520,98 +5782,76 @@ AboutusComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](91, "div", 40);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](92, "h3", 41);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](93, "Prasant Mohanty");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](93, "Sunil Bhutani");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](94, "span", 42);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](95, "GM Sales and Marketing");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](95, "President Operations");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](96, "div", 27);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](97, "p", 43);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](98, "Mr. Prasant Mohanty is a quintessential Sales and Marketing Proffesional with a rich experience of more than 25 years in pharma industry. He has worked with the leading pharma companies like Fulford, Novartis, Emcure, Dr. Reddy and Cipla. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](99, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](100, " Sinsan is highly honored to have him as a General Manager- Sales and Marketing. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](98, "With an impressive track record of 35+ years of experience in leadership strategies, tactical decision making, and forward-looking approaches, Mr. Sunil Bhutani leads as the President(Operations) for Sinsan Pharmaceuticals. Mr. Sunil is associated with a proven track record of enhancing operational and quality performance that have improved the performance of the organization. Mr. Sunil Bhutani has been an integral part of Sinsan Management team for last 1.5yrs and has done major transformation in the strategic approaches for business and growth in Sinsan. Mr. Sunil\u2019s career has seen him in key roles at renowned companies like Cipla Pharmaceuticals, Crossland (Ranbaxy) and Eli Lily. His last assignment was with USV Pharmaceuticals. Mr.Sunil\u2019s three-decade journey is a testament to his effective leadership, innovative thinking, and a proven track record of success in the ever-changing pharmaceutical industry. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](101, "div", 44);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](102, "div", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](103, "div", 23);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](104, "div", 45);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](99, "div", 44);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](100, "div", 38);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](101, "div", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](102, "div", 45);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](105, "div", 40);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](106, "h3", 41);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](107, "Sunil Bhutani");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](103, "div", 40);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](104, "h3", 41);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](105, "KULDEEP TYAGI");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](108, "span", 42);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](109, "President Operations");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](106, "span", 42);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](107, "VICE PRESIDENT - SALES & MARKETING");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](110, "div", 27);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](111, "p", 46);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](112, "Mr. Bhutani is having extensive experinece in the pharmaceutical industry. He has worked with various pharma giants like Cipla, Crossland (Ranbaxy), Eli Lilly at higher positions. His last assignment before joining Sinsan was with USV as a President. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](113, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](114, " Sinsan is highly honored to have him as a President Operations. With his rich experience and able leadership, Sinsan will take a rapid stride. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](115, "div", 47);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](116, "div", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](117, "div", 23);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](118, "div", 48);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](119, "div", 40);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](120, "h3", 49);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](121, "MAHESH DABEER");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](122, "span", 50);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](123, "AGM SALES - WEST ZONE");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](124, "div", 51);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](125, "p", 46);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](126, "Mr. Mahesh Dabeer has been with Sinsan Pharma since 2012. He has a rich experience of over 3 decades in esteemed organizations like Torrent & Sun Pharmaceuticals. He has worked in chronic Cardio-Diabetic segment throughout his career. In Sinsan Pharma, he has led from front & build the scientific image by organizing various academic programs like Endocrine Update & Obesity Update.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](108, "div", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](109, "p", 43);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](110, "With an impressive 3 decades career in the pharmaceutical industry, currently Mr. Kuldeep Tyagi leads as the Vice President of Sales & Marketing for Sinsan Pharmaceuticals. Principally Mr. Kuldeep Tyagi is involved in Business Functions like Sales, Marketing, Strategic Management, Training, Distribution, HR etc. He has been instrumental in transforming the India business division, drawing from his wealth of experience and a proven history of success. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](111, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](112, " Mr. Kuldeep\u2019s career has seen him in key roles at renowned companies like Cipla Ltd, IPCA Labs, Ajanta Pharma. His last assignment before joining Sinsan Pharmaceuticals was as Vice President with Raptakos, Bret & Company Ltd . His strategic foresight and operational acumen have consistently fueled business growth and success, setting him apart as a visionary leader. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](127, "div", 21);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](128, "div", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](129, "div", 23);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](130, "div", 52);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](113, "div", 46);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](114, "div", 38);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](115, "div", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](116, "div", 47);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](131, "div", 40);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](132, "h3", 49);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](133, "SUDAM RANE");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](117, "div", 40);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](118, "h3", 48);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](119, "MAHESH DABEER");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](134, "span", 50);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](135, "AGM SALES - SOUTH & MP");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](120, "span", 49);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](121, "AGM SALES - WEST ZONE");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](136, "div", 27);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](137, "p", 46);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](138, "Mr. Sudam Rane is top pharma sales & marketing professional with a rich experience of over 34 years. During this journey from JB Chemicals, USV Ltd, Panacea Biotec & Centaur Pharma , he has held various Managerial decision taking positions. He has a sound knowledge of West zone which is currently getting stretched to south Zone in Sinsan Pharma.");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](122, "div", 50);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](123, "p", 43);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](124, "Mr. Mahesh Dabeer has been with Sinsan Pharma since 2012. He has a rich experience of over 3 decades in esteemed organizations like Torrent & Sun Pharmaceuticals. He has worked in chronic Cardio-Diabetic segment throughout his career. In Sinsan Pharma, he has led from front & build the scientific image by organizing various academic programs like Endocrine Update & Obesity Update.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](139, "div", 53);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](140, "div", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](141, "div", 23);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](142, "div", 54);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](143, "div", 40);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](144, "h3", 49);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](145, "RAJENDRA PADALKAR");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](146, "span", 50);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](147, "HR HEAD");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](125, "div", 21);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](126, "div", 38);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](127, "div", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](128, "div", 51);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](148, "div", 27);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](149, "p", 46);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](150, "Mr. Rajendra Padalkar is management graduate from Prestigious Symbiosis College, Pune. He has rich experience of over 25 years, starting as a Medical Representative followed by important Managerial/ Strategic positions in Ranbaxy, Biological E. Ltd & Uniesearch. Currently handling dual portfolio of Sales Management in West Region & HR Head.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](129, "div", 40);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](130, "h3", 48);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](131, "Satwant Singh Bagga");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](132, "span", 49);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](133, " NBM \u2013Sales ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](134, "div", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](135, "p", 43);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](136, "With more than 29 years of experience in Pharmaceuticals sales and business , Mr. Satwant Singh Bagga, currently leads the Citius Division (Cardio Diabetic) as the National Business manager (NBM-India) in Sinsan Pharmaceuticals. Mr. Bagga\u2019s journey started as Medical Representative in USV and further to holding higher managerial positions in Otsira Genetica & Ozone Pharma. He has effectively developed good customer relationships and market understanding due to his diligent dedication through his entire pharma journey. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -5620,7 +5860,7 @@ AboutusComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, styles: [".heroBreadcrumb[_ngcontent-%COMP%] {\r\n    height: 40vh !important;\r\n}\r\n.maila[_ngcontent-%COMP%]{\r\n    color: white !important;\r\n\r\n}\r\n.maila[_ngcontent-%COMP%]:hover{\r\n    color: purple !important;\r\n    \r\n}\r\n.ftco-section[_ngcontent-%COMP%] {\r\n    padding: 7em 0;\r\n    position: relative;\r\n}\r\n.bg-light[_ngcontent-%COMP%] {\r\n    background: #f8f9fa !important;\r\n}\r\n\r\n.staff[_ngcontent-%COMP%]   .text[_ngcontent-%COMP%]   .position[_ngcontent-%COMP%] {\r\n    color: #299adc;\r\n    display: block;\r\n    font-weight: 500;\r\n    text-transform: uppercase;\r\n    letter-spacing: 2px;\r\n    font-size: 14px;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFib3V0dXMuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLHVCQUF1QjtBQUMzQjtBQUNBO0lBQ0ksdUJBQXVCOztBQUUzQjtBQUVBO0lBQ0ksd0JBQXdCOztBQUU1QjtBQUNBO0lBQ0ksY0FBYztJQUNkLGtCQUFrQjtBQUN0QjtBQUNBO0lBQ0ksOEJBQThCO0FBQ2xDO0FBRUE7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Q0E4RkM7QUFFRDtJQUNJLGNBQWM7SUFDZCxjQUFjO0lBQ2QsZ0JBQWdCO0lBQ2hCLHlCQUF5QjtJQUN6QixtQkFBbUI7SUFDbkIsZUFBZTtBQUNuQjtBQUVBOzs7Ozs7Ozs7OztHQVdHO0FBRUg7Ozs7Ozs7R0FPRztBQUdIOzs7O0dBSUc7QUFFSDs7R0FFRyIsImZpbGUiOiJhYm91dHVzLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaGVyb0JyZWFkY3J1bWIge1xyXG4gICAgaGVpZ2h0OiA0MHZoICFpbXBvcnRhbnQ7XHJcbn1cclxuLm1haWxhe1xyXG4gICAgY29sb3I6IHdoaXRlICFpbXBvcnRhbnQ7XHJcblxyXG59XHJcblxyXG4ubWFpbGE6aG92ZXJ7XHJcbiAgICBjb2xvcjogcHVycGxlICFpbXBvcnRhbnQ7XHJcbiAgICBcclxufVxyXG4uZnRjby1zZWN0aW9uIHtcclxuICAgIHBhZGRpbmc6IDdlbSAwO1xyXG4gICAgcG9zaXRpb246IHJlbGF0aXZlO1xyXG59XHJcbi5iZy1saWdodCB7XHJcbiAgICBiYWNrZ3JvdW5kOiAjZjhmOWZhICFpbXBvcnRhbnQ7XHJcbn1cclxuXHJcbi8qIC5mdGNvLWFuaW1hdGUge1xyXG4gICAgb3BhY2l0eTogMDtcclxuICAgIHZpc2liaWxpdHk6IGhpZGRlbjtcclxufSBcclxuXHJcbi5oZWFkaW5nLXNlY3Rpb24gaDIge1xyXG4gICAgbGluZS1oZWlnaHQ6IDEuMjtcclxuICAgIGZvbnQtc2l6ZTogNDBweDtcclxuICAgIGZvbnQtd2VpZ2h0OiA3MDA7XHJcbn1cclxuXHJcbi5zdGFmZiB7XHJcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xyXG4gICAgbWFyZ2luLWJvdHRvbTogMzBweDtcclxuICAgIC1tb3otdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcclxuICAgIC1vLXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XHJcbiAgICAtd2Via2l0LXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XHJcbiAgICAtbXMtdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcclxuICAgIHRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XHJcbn1cclxuLmFsaWduLWl0ZW1zLXN0cmV0Y2gge1xyXG4gICAgLXdlYmtpdC1ib3gtYWxpZ246IHN0cmV0Y2ggIWltcG9ydGFudDtcclxuICAgIC1tcy1mbGV4LWFsaWduOiBzdHJldGNoICFpbXBvcnRhbnQ7XHJcbiAgICBhbGlnbi1pdGVtczogc3RyZXRjaCAhaW1wb3J0YW50O1xyXG59XHJcblxyXG5cclxuXHJcbi5zdGFmZiAuaW1nIHtcclxuICAgIGhlaWdodDogMjAwcHg7XHJcbiAgICB3aWR0aDogMjAwcHg7XHJcbiAgICBkaXNwbGF5OiBibG9jaztcclxuICAgIGJhY2tncm91bmQtcG9zaXRpb246IHRvcCBjZW50ZXI7XHJcbiAgICAtbW96LXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XHJcbiAgICAtby10cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xyXG4gICAgLXdlYmtpdC10cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xyXG4gICAgLW1zLXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XHJcbiAgICB0cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xyXG4gICAgcG9zaXRpb246IHJlbGF0aXZlO1xyXG4gICAgYm9yZGVyLXJhZGl1czogNTAlO1xyXG4gICAgbWFyZ2luOiAwIGF1dG87XHJcbiAgICBib3JkZXI6IDEwcHggc29saWQgI2Y4ZjlmYTtcclxufVxyXG4uc3RhZmYgLmltZzphZnRlciB7XHJcbiAgICBwb3NpdGlvbjogYWJzb2x1dGU7XHJcbiAgICB0b3A6IDA7XHJcbiAgICBsZWZ0OiAwO1xyXG4gICAgcmlnaHQ6IDA7XHJcbiAgICBib3R0b206IDA7XHJcbiAgICBiYWNrZ3JvdW5kOiAjZmZmO1xyXG4gICAgY29udGVudDogJyc7XHJcbiAgICBvcGFjaXR5OiAwO1xyXG4gICAgLW1vei10cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xyXG4gICAgLW8tdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcclxuICAgIC13ZWJraXQtdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcclxuICAgIC1tcy10cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xyXG4gICAgdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcclxufVxyXG5cclxuXHJcblxyXG4uc3RhZmYgLnRleHQgaDMge1xyXG4gICAgZm9udC1zaXplOiAyMHB4O1xyXG4gICAgZm9udC13ZWlnaHQ6IDYwMDtcclxuICAgIG1hcmdpbi1ib3R0b206IDA7XHJcbiAgICAtbW96LXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XHJcbiAgICAtby10cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xyXG4gICAgLXdlYmtpdC10cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xyXG4gICAgLW1zLXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XHJcbiAgICB0cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xyXG59XHJcblxyXG5cclxuXHJcbi5zdGFmZiAudGV4dCAuZmFkZWQge1xyXG4gICAgb3BhY2l0eTogMTtcclxufVxyXG5cclxucCB7XHJcbiAgICBtYXJnaW4tdG9wOiAwO1xyXG4gICAgbWFyZ2luLWJvdHRvbTogMXJlbTtcclxufVxyXG4uc3RhZmYgLmZ0Y28tc29jaWFsIHtcclxuICAgIC1tb3otdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcclxuICAgIC1vLXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XHJcbiAgICAtd2Via2l0LXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XHJcbiAgICAtbXMtdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcclxuICAgIHRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XHJcbn1cclxuLmZ0Y28tc29jaWFsIGxpIHtcclxuICAgIGxpc3Qtc3R5bGU6IG5vbmU7XHJcbiAgICBtYXJnaW4tcmlnaHQ6IDEwcHg7XHJcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XHJcbn1cclxuKi9cclxuXHJcbi5zdGFmZiAudGV4dCAucG9zaXRpb24ge1xyXG4gICAgY29sb3I6ICMyOTlhZGM7XHJcbiAgICBkaXNwbGF5OiBibG9jaztcclxuICAgIGZvbnQtd2VpZ2h0OiA1MDA7XHJcbiAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xyXG4gICAgbGV0dGVyLXNwYWNpbmc6IDJweDtcclxuICAgIGZvbnQtc2l6ZTogMTRweDtcclxufVxyXG5cclxuLyogLnN0YWZmIC50ZXh0IHtcclxuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuICAgIGJhY2tncm91bmQ6ICNmZmY7XHJcbiAgICBwYWRkaW5nOiAxMTBweCAzMHB4IDMwcHggMzBweDtcclxuICAgIC1tb3otdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcclxuICAgIC1vLXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XHJcbiAgICAtd2Via2l0LXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XHJcbiAgICAtbXMtdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcclxuICAgIHRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XHJcbiAgICBtYXJnaW4tdG9wOiAtMTAwcHg7XHJcbiAgICB6LWluZGV4OiAtMTtcclxufSAqL1xyXG5cclxuLyogLnN0YWZmIC50ZXh0IHtcclxuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuICAgIGJhY2tncm91bmQ6ICNmZmY7XHJcbiAgICBwYWRkaW5nOiAxMTBweCAzMHB4IDMwcHggMzBweDtcclxuICAgIHRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XHJcbiAgICBtYXJnaW4tdG9wOiAtMTAwcHg7XHJcbiAgICB6LWluZGV4OiAtMTtcclxufSAqL1xyXG5cclxuXHJcbi8qIC5zdGFmZjpob3ZlciB7XHJcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xyXG4gICAgbWFyZ2luLWJvdHRvbTogMzBweDtcclxuICAgIHRyYW5zaXRpb246IG5vbmUgIWltcG9ydGFudDtcclxufSAqL1xyXG5cclxuLyogLmhvdmVyU3R5IC5zdGFmZjpob3ZlcntcclxuICAgIGNvbG9yOiByZWQgIWltcG9ydGFudDtcclxufSAqLyJdfQ== */"] });
+    } }, styles: [".heroBreadcrumb[_ngcontent-%COMP%] {\n    height: 40vh !important;\n}\n.maila[_ngcontent-%COMP%]{\n    color: white !important;\n\n}\n.maila[_ngcontent-%COMP%]:hover{\n    color: purple !important;\n    \n}\n.ftco-section[_ngcontent-%COMP%] {\n    padding: 7em 0;\n    position: relative;\n}\n.bg-light[_ngcontent-%COMP%] {\n    background: #f8f9fa !important;\n}\n\n.staff[_ngcontent-%COMP%]   .text[_ngcontent-%COMP%]   .position[_ngcontent-%COMP%] {\n    color: #299adc;\n    display: block;\n    font-weight: 500;\n    text-transform: uppercase;\n    letter-spacing: 2px;\n    font-size: 14px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFib3V0dXMuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLHVCQUF1QjtBQUMzQjtBQUNBO0lBQ0ksdUJBQXVCOztBQUUzQjtBQUVBO0lBQ0ksd0JBQXdCOztBQUU1QjtBQUNBO0lBQ0ksY0FBYztJQUNkLGtCQUFrQjtBQUN0QjtBQUNBO0lBQ0ksOEJBQThCO0FBQ2xDO0FBRUE7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Q0E4RkM7QUFFRDtJQUNJLGNBQWM7SUFDZCxjQUFjO0lBQ2QsZ0JBQWdCO0lBQ2hCLHlCQUF5QjtJQUN6QixtQkFBbUI7SUFDbkIsZUFBZTtBQUNuQjtBQUVBOzs7Ozs7Ozs7OztHQVdHO0FBRUg7Ozs7Ozs7R0FPRztBQUdIOzs7O0dBSUc7QUFFSDs7R0FFRyIsImZpbGUiOiJhYm91dHVzLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaGVyb0JyZWFkY3J1bWIge1xuICAgIGhlaWdodDogNDB2aCAhaW1wb3J0YW50O1xufVxuLm1haWxhe1xuICAgIGNvbG9yOiB3aGl0ZSAhaW1wb3J0YW50O1xuXG59XG5cbi5tYWlsYTpob3ZlcntcbiAgICBjb2xvcjogcHVycGxlICFpbXBvcnRhbnQ7XG4gICAgXG59XG4uZnRjby1zZWN0aW9uIHtcbiAgICBwYWRkaW5nOiA3ZW0gMDtcbiAgICBwb3NpdGlvbjogcmVsYXRpdmU7XG59XG4uYmctbGlnaHQge1xuICAgIGJhY2tncm91bmQ6ICNmOGY5ZmEgIWltcG9ydGFudDtcbn1cblxuLyogLmZ0Y28tYW5pbWF0ZSB7XG4gICAgb3BhY2l0eTogMDtcbiAgICB2aXNpYmlsaXR5OiBoaWRkZW47XG59IFxuXG4uaGVhZGluZy1zZWN0aW9uIGgyIHtcbiAgICBsaW5lLWhlaWdodDogMS4yO1xuICAgIGZvbnQtc2l6ZTogNDBweDtcbiAgICBmb250LXdlaWdodDogNzAwO1xufVxuXG4uc3RhZmYge1xuICAgIG92ZXJmbG93OiBoaWRkZW47XG4gICAgbWFyZ2luLWJvdHRvbTogMzBweDtcbiAgICAtbW96LXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XG4gICAgLW8tdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcbiAgICAtd2Via2l0LXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XG4gICAgLW1zLXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XG4gICAgdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcbn1cbi5hbGlnbi1pdGVtcy1zdHJldGNoIHtcbiAgICAtd2Via2l0LWJveC1hbGlnbjogc3RyZXRjaCAhaW1wb3J0YW50O1xuICAgIC1tcy1mbGV4LWFsaWduOiBzdHJldGNoICFpbXBvcnRhbnQ7XG4gICAgYWxpZ24taXRlbXM6IHN0cmV0Y2ggIWltcG9ydGFudDtcbn1cblxuXG5cbi5zdGFmZiAuaW1nIHtcbiAgICBoZWlnaHQ6IDIwMHB4O1xuICAgIHdpZHRoOiAyMDBweDtcbiAgICBkaXNwbGF5OiBibG9jaztcbiAgICBiYWNrZ3JvdW5kLXBvc2l0aW9uOiB0b3AgY2VudGVyO1xuICAgIC1tb3otdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcbiAgICAtby10cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xuICAgIC13ZWJraXQtdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcbiAgICAtbXMtdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcbiAgICB0cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICBib3JkZXItcmFkaXVzOiA1MCU7XG4gICAgbWFyZ2luOiAwIGF1dG87XG4gICAgYm9yZGVyOiAxMHB4IHNvbGlkICNmOGY5ZmE7XG59XG4uc3RhZmYgLmltZzphZnRlciB7XG4gICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgIHRvcDogMDtcbiAgICBsZWZ0OiAwO1xuICAgIHJpZ2h0OiAwO1xuICAgIGJvdHRvbTogMDtcbiAgICBiYWNrZ3JvdW5kOiAjZmZmO1xuICAgIGNvbnRlbnQ6ICcnO1xuICAgIG9wYWNpdHk6IDA7XG4gICAgLW1vei10cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xuICAgIC1vLXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XG4gICAgLXdlYmtpdC10cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xuICAgIC1tcy10cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xuICAgIHRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XG59XG5cblxuXG4uc3RhZmYgLnRleHQgaDMge1xuICAgIGZvbnQtc2l6ZTogMjBweDtcbiAgICBmb250LXdlaWdodDogNjAwO1xuICAgIG1hcmdpbi1ib3R0b206IDA7XG4gICAgLW1vei10cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xuICAgIC1vLXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XG4gICAgLXdlYmtpdC10cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xuICAgIC1tcy10cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xuICAgIHRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XG59XG5cblxuXG4uc3RhZmYgLnRleHQgLmZhZGVkIHtcbiAgICBvcGFjaXR5OiAxO1xufVxuXG5wIHtcbiAgICBtYXJnaW4tdG9wOiAwO1xuICAgIG1hcmdpbi1ib3R0b206IDFyZW07XG59XG4uc3RhZmYgLmZ0Y28tc29jaWFsIHtcbiAgICAtbW96LXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XG4gICAgLW8tdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcbiAgICAtd2Via2l0LXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XG4gICAgLW1zLXRyYW5zaXRpb246IGFsbCAwLjNzIGVhc2U7XG4gICAgdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcbn1cbi5mdGNvLXNvY2lhbCBsaSB7XG4gICAgbGlzdC1zdHlsZTogbm9uZTtcbiAgICBtYXJnaW4tcmlnaHQ6IDEwcHg7XG4gICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xufVxuKi9cblxuLnN0YWZmIC50ZXh0IC5wb3NpdGlvbiB7XG4gICAgY29sb3I6ICMyOTlhZGM7XG4gICAgZGlzcGxheTogYmxvY2s7XG4gICAgZm9udC13ZWlnaHQ6IDUwMDtcbiAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xuICAgIGxldHRlci1zcGFjaW5nOiAycHg7XG4gICAgZm9udC1zaXplOiAxNHB4O1xufVxuXG4vKiAuc3RhZmYgLnRleHQge1xuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICBiYWNrZ3JvdW5kOiAjZmZmO1xuICAgIHBhZGRpbmc6IDExMHB4IDMwcHggMzBweCAzMHB4O1xuICAgIC1tb3otdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcbiAgICAtby10cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xuICAgIC13ZWJraXQtdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcbiAgICAtbXMtdHJhbnNpdGlvbjogYWxsIDAuM3MgZWFzZTtcbiAgICB0cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xuICAgIG1hcmdpbi10b3A6IC0xMDBweDtcbiAgICB6LWluZGV4OiAtMTtcbn0gKi9cblxuLyogLnN0YWZmIC50ZXh0IHtcbiAgICBwb3NpdGlvbjogcmVsYXRpdmU7XG4gICAgYmFja2dyb3VuZDogI2ZmZjtcbiAgICBwYWRkaW5nOiAxMTBweCAzMHB4IDMwcHggMzBweDtcbiAgICB0cmFuc2l0aW9uOiBhbGwgMC4zcyBlYXNlO1xuICAgIG1hcmdpbi10b3A6IC0xMDBweDtcbiAgICB6LWluZGV4OiAtMTtcbn0gKi9cblxuXG4vKiAuc3RhZmY6aG92ZXIge1xuICAgIG92ZXJmbG93OiBoaWRkZW47XG4gICAgbWFyZ2luLWJvdHRvbTogMzBweDtcbiAgICB0cmFuc2l0aW9uOiBub25lICFpbXBvcnRhbnQ7XG59ICovXG5cbi8qIC5ob3ZlclN0eSAuc3RhZmY6aG92ZXJ7XG4gICAgY29sb3I6IHJlZCAhaW1wb3J0YW50O1xufSAqLyJdfQ== */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](AboutusComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
