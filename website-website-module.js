@@ -185,8 +185,8 @@ class HomeComponent {
     constructor() { }
     ngOnInit() {
         window.scroll(0, 0);
-        var popupElement = document.getElementById('popupOpen');
-        popupElement.click();
+        // var popupElement = document.getElementById('popupOpen') as HTMLElement
+        // popupElement.click()
     }
     register() {
         window.open("https://rxeventslive.in/sinsanglad/", "_blank");
@@ -499,7 +499,7 @@ HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](185, "div", 86);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](186, "div", 87);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](187, "strong", 88);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](188, "14+");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](188, "16+");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](189, "span");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](190, "Years of rich experience");
@@ -3782,6 +3782,9 @@ class ProductComponent {
         else if (this.productName === "BIPRA D") {
             this.productNameImg = "Bipra D";
         }
+        else if (this.productName === "ALFA SINCAL") {
+            this.productNameImg = "ALPHA SINCAL";
+        }
         else { }
         if (this.productAlsoAvaliable1 === undefined) {
             this.alsoImg1 = false;
@@ -4905,7 +4908,7 @@ const arr = [
         "department": "Anti-Diabetic",
         "productName": "GLIMFIRST M1/M2",
         "composition": "Each uncoated bilayered tablet contains Glimipiride I.P. 1/2 mg  +Metformin HCL I.P. 500/1000 mg",
-        "indication": "In T2DM when Monotherapy fails",
+        "indication": "In T2DM patient",
         "packing": "10*15 Blister",
     },
     {
@@ -4929,7 +4932,7 @@ const arr = [
         "department": "Anti-Diabetic",
         "productName": "VILSURE M",
         "composition": "Each uncoated white coloured plain round convex tablet contains Vildagliptin 50 mg+ Metformin 500mg",
-        "indication": "For Durable Glycemic Control ",
+        "indication": "In Uncontrolled T2DM",
         "packing": "10*15 Alu-Alu",
     },
     {
@@ -4937,7 +4940,7 @@ const arr = [
         "department": "Anti-Diabetic",
         "productName": "Vilsure D",
         "composition": "Each  uncoated white coloured  plain round convex tablet contains Vildagliptin(SR) 100 mg+ Dapagliflozin 5mg/10mg",
-        "indication": "In Uncontrolled T2DM patients with CVD",
+        "indication": "In T2DM patients with co-morbidities",
         "packing": "10*10 Strips",
         "dose": "Once Daily"
     },
@@ -5058,7 +5061,7 @@ const arr = [
         "companyName": "KAIZER",
         "department": "Cardiac",
         "productName": "Telfirst H 40 +12.5 MG",
-        "composition": "Each uncoated bilayered tablet contains Telmisartan I.P. 40mg + Chlorthalidone I.P 6.25mg/12.5mg .",
+        "composition": "Each film-coated tablet contains Telmisartan I.P. 40mg.+Hydrochlorothiazide I.P. 12.5 mg .",
         "indication": "In Uncontrolled Hypertensives with High CV Risk ",
         "packing": "10*15 Alu-Alu",
     },
@@ -5167,7 +5170,7 @@ const arr = [
     {
         "companyName": "CITIUS",
         "department": "Others",
-        "productName": "ALPHA SINCAL",
+        "productName": "ALFA SINCAL",
         "composition": "Each film coated Tablet contains, Calcitriol 0.25 mcg + Calcium Carbonate I.P 1250 mg eqv.to Elemental Calcium 500 mg + zinc sulphate Monohydrate eqv.to Elemental Zinc 7.5 mg",
         "indication": "In Osteoporosis",
         "packing": "10*15 Alu-Alu",
@@ -5195,7 +5198,7 @@ const arr = [
         "department": "Others",
         "productName": "GOXOI",
         "composition": "Each film coated tablet contains Febuxostat 40/80 mg",
-        "indication": "In management of Hyperuricemia with Gout",
+        "indication": "In management of Hyperuricemia",
         "packing": "10*15 Alu-Alu/ 10*10 Alu-Alu",
         "dose": "Once Daily"
     },
@@ -5457,7 +5460,7 @@ const arr = [
         "department": "Obesity",
         "productName": "OBEZITA 60/120 CAP",
         "composition": "Each hard gelatin capsule contains Orlistat U.S.P. 60mg/120mg (as pellets)",
-        "indication": "In obesity > 30 with/without Risk factors",
+        "indication": "In Obesity and BMI>=30",
         "packing": "10*10 Alu-Alu",
     },
     //          {
@@ -5491,7 +5494,7 @@ const arr = [
         "companyName": "CITIUS",
         "department": "Gastro",
         "productName": "ESONTIA/ESONTIA D",
-        "composition": "Each tablet contains Esomeprazole Trihydrate IP 40mg. Esomeprazole Trihydrate IP 40mg & Domperidone IP as SR pellets.",
+        "composition": "Each tablet contains Esomeprazole Trihydrate IP 40mg.",
         "indication": "In GERD",
         "packing": "10*10 Alu-Alu",
     },
@@ -5507,7 +5510,7 @@ const arr = [
         "companyName": "CITIUS",
         "department": "Gastro",
         "productName": "MEBGREAT",
-        "composition": "Each hard Gelatin capsule contains Mebeverine. Hydrochloride I.P 200 mg",
+        "composition": "Each hard Gelatin capsule contains Mebeverine I.P 200 mg",
         "indication": "In IBS",
         "packing": "10*10 Strips",
     },
@@ -5532,7 +5535,7 @@ const arr = [
         "department": "Gastro",
         "productName": "FernPro",
         "composition": "Protein Supplement",
-        "indication": "As a supplement in liver cirrhosis, in post-surgical cases for faster recovery, in conditions of impaired protein absorption in geriatric patients, in GI conditions like IBD, IBS",
+        "indication": "In patients with nutritional insufficiency.",
         "packing": "1 Box contains 15 sachets (20gm each)",
     },
     //   {
