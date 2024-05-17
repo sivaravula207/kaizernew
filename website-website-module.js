@@ -193,7 +193,7 @@ class HomeComponent {
     }
 }
 HomeComponent.ɵfac = function HomeComponent_Factory(t) { return new (t || HomeComponent)(); };
-HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HomeComponent, selectors: [["app-home"]], decls: 451, vars: 0, consts: [[1, "slider-section"], ["id", "carousel", "data-ride", "carousel", "data-interval", "2500", 1, "carousel", "slide", 2, "margin-top", "0px"], [1, "carousel-indicators"], ["data-target", "#carousel", "data-slide-to", "0", 1, "active"], ["data-target", "#carousel", "data-slide-to", "1"], ["data-target", "#carousel", "data-slide-to", "2"], ["role", "listbox", 1, "carousel-inner"], [1, "carousel-item", "active", 2, "background-image", "url('assets/images/banner/sinan-1.jpg')", "background-position", "center", "background-repeat", "no-repeat"], [1, "carousel-item", 2, "background-image", "url('assets/images/banner/sinan-2.jpg')", "background-position", "center", "background-repeat", "no-repeat"], [1, "carousel-item", 2, "background-image", "url('assets/images/banner/crop.jpg')", "background-position", "center", "background-repeat", "no-repeat"], ["href", "#carousel", "role", "button", "data-slide", "prev", 1, "carousel-control-prev"], ["aria-hidden", "true", 1, "carousel-control-prev-icon"], [1, "sr-only"], ["href", "#carousel", "role", "button", "data-slide", "next", 1, "carousel-control-next"], ["aria-hidden", "true", 1, "carousel-control-next-icon"], ["data-stellar-background-ratio", "0.5", 1, "hero-wrap", "js-fullheight", "d-none", 2, "background-image", "url('assets/images/bg_2.jpg')", "height", "374px", "background-position", "0% -141px"], [1, "overlay"], [1, "container-fluid", "d-none"], [1, "row"], [1, "col-md-12", "p-0"], ["id", "external-controls", "role", "group", "aria-label", "External carousel buttons", 1, "col-auto", "btn-group-vertical", 2, "position", "absolute", "z-index", "99", "right", "0px", "top", "10%"], ["data-target", "#main-carousel", "data-slide-to", "0", "type", "button", 1, "btn", 2, "border-bottom", "1px solid #10bfc1", "text-align", "left", "font-size", "28px", "width", "100px", "color", "#10bfc1"], ["data-target", "#main-carousel", "data-slide-to", "1", "type", "button", 1, "btn", "mt-2", 2, "border-bottom", "1px solid #10bfc1", "text-align", "left", "font-size", "28px", "width", "100px", "color", "#10bfc1"], ["data-target", "#main-carousel", "data-slide-to", "2", "type", "button", 1, "btn", "mt-2", 2, "border-bottom", "1px solid #10bfc1", "text-align", "left", "font-size", "28px", "width", "100px", "color", "#10bfc1"], ["id", "main-carousel", "data-ride", "carousel", "data-interval", "false", 1, "carousel", "slide", 2, "width", "auto", "height", "auto", "max-width", "100%", "max-height", "100%"], [1, "carousel-inner"], [1, "carousel-item", "active", "carousel-item-left"], ["src", "assets/images/banner/sinan-1.jpg", "alt", "First Slide", 1, "d-block", "img-fluid"], [1, "carousel-item", "carousel-item-next", "carousel-item-left"], ["src", "assets/images/banner/sinan-2.jpg", "alt", "Second Slide", 1, "d-block", "img-fluid"], [1, "carousel-item"], ["src", "assets/images/banner/sinan-3.jpg", "alt", "Third Slide", 1, "d-block", "img-fluid"], ["data-scrollax-parent", "true", 1, "row", "d-none", "no-gutters", "slider-text", "js-fullheight", "align-items-center", "justify-content-end", 2, "height", "374px"], [1, "col-lg-6", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "mt-5"], [1, "mb-4"], [1, "col-md-7", "col-lg-10"], ["action", "#", 1, "appointment-form-intro", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "d-flex"], [1, "form-group"], [1, "form-field"], [1, "select-wrap"], [1, "icon"], [1, "fa", "fa-chevron-down"], ["name", "", "id", "", 1, "form-control"], ["value", ""], ["type", "submit", "value", "Book Appointment", 1, "btn-custom", "form-control", "py-3", "px-4"], [1, "ftco-section", "ftco-no-pt", "ftco-no-pb", "ftco-services-2", "bg-light"], [1, "container"], [1, "row", "d-flex"], [1, "col-md-12"], [1, "py-lg-4"], [1, "row", "justify-content-center", "pb-3"], [1, "col-md-12", "heading-section", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "mb-3"], [1, "col-md-12", "col-lg-6", "d-flex", "align-self-stretch", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "media", "block-6", "services", "d-flex"], [1, "icon", "justify-content-center", "align-items-center", "d-flex"], [1, "fa", "fa-bullseye"], [1, "media-body", "pl-md-4"], [1, "heading", "mb-3"], [1, "fa", "fa-eye"], [1, "fa", "fa-flag"], [1, "fa", "fa-stethoscope"], [1, "col-md-5", "d-none"], [1, "appointment-wrap", "p-4", "p-lg-5", "d-flex", "align-items-center"], ["action", "#", 1, "appointment-form", "ftco-animate", "fadeInUp", "ftco-animated"], [1, ""], ["type", "text", "placeholder", "First Name", 1, "form-control"], ["type", "text", "placeholder", "Last Name", 1, "form-control"], ["type", "text", "placeholder", "State", 1, "form-control"], [1, "input-wrap"], ["type", "text", "placeholder", "City", 1, "form-control", "appointment_date"], ["type", "text", "placeholder", "Phone", "autocomplete", "off", 1, "form-control", "appointment_time", "ui-timepicker-input"], ["type", "text", "placeholder", "E-mail", "autocomplete", "off", 1, "form-control", "appointment_time", "ui-timepicker-input"], ["name", "", "id", "", "cols", "30", "rows", "2", "placeholder", "Message", 1, "form-control"], ["type", "submit", "value", "Submit", 1, "btn", "btn-secondary", "py-3", "px-4"], ["id", "about-section", 1, "ftco-counter", "img", "ftco-section", "ftco-no-pt", "ftco-no-pb"], [1, "col-md-6", "col-lg-5", "d-flex"], [1, "img", "w-100", "d-flex", "align-self-stretch", "align-items-center", 2, "background-image", "url(assets/images/homeabout2.jpg)", "height", "100%"], [1, "col-md-6", "col-lg-7"], [1, "row", "justify-content-start", "pb-3"], [1, "col-md-12", "heading-section", "ftco-animate", "p-4", "p-lg-5", "fadeInUp", "ftco-animated"], ["routerLink", "/aboutus", 1, "btn", "btn-secondary", "py-2", "px-2"], [1, "ftco-facts", "img", "ftco-counter", 2, "background-image", "url(assets/images/bg_3.jpg)"], [1, "col-md-3", "d-flex", "justify-content-center", "counter-wrap", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "block-18", "p-4"], [1, "text"], ["data-number", "10", 1, "number"], ["data-number", "4500", 1, "number"], ["data-number", "84", 1, "number"], ["data-number", "300", 1, "number"], [1, "ftco-section", "bg-light"], [1, "container-fluid", "px-md-5"], [1, "row", "justify-content-center"], [1, "col-md-10", "heading-section", "text-center", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "mb-1"], [1, "row", "d-flex", "pt-3"], [1, "col-lg-4", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "blog-entry"], ["routerLink", "/updates", 1, "block-20", 2, "background-image", "url('assets/images/updates/4.jpg')"], [1, "meta", "pt-3", "text-right", "pr-2"], [1, "fa", "fa-calendar", "mr-2"], [1, "text", "d-block"], [1, "heading"], ["routerLink", "/updates"], ["routerLink", "/updates", 1, "btn", "btn-secondary", "btn-outline-secondary", "py-2", "px-3"], ["routerLink", "/updates", 1, "block-20", 2, "background-image", "url('assets/images/updates/5.jpg')"], ["routerLink", "/updates", 1, "block-20", 2, "background-image", "url('assets/images/updates/6.jpg')"], [1, "ftco-section", "testimony-section", "img", 2, "background-image", "url(assets/images/bg_4.jpg)"], [1, "col-md-7", "text-center", "heading-section", "heading-section-white", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "subheading"], [1, "row", "ftco-animate", "justify-content-center", "fadeInUp", "ftco-animated"], [1, "carousel-testimony", "owl-carousel", "ftco-owl", "owl-loaded", "owl-drag"], [1, "owl-stage-outer", "owl-height", 2, "height", "360px"], [1, "owl-stage", 2, "transition", "all 0.25s ease 0s", "width", "4180px", "transform", "translate3d(-760px, 0px, 0px)"], [1, "owl-item", "cloned", 2, "width", "350px", "margin-right", "30px"], [1, "item"], [1, "testimony-wrap", "py-4", "pb-5", "d-flex", "justify-content-between"], [1, "user-img", 2, "background-image", "url(assets/images/person_3.jpg)"], [1, "quote", "d-flex", "align-items-center", "justify-content-center"], [1, "fa", "fa-quote-left"], [1, "mb-4", 2, "color", "#000000"], [1, "name"], [1, "user-img", 2, "background-image", "url(assets/images/person_1.jpg)"], [1, "owl-item", "cloned", "active", 2, "width", "350px", "margin-right", "30px"], [1, "user-img", 2, "background-image", "url(assets/images/doctors/Vinay_Shelar.jpeg)"], [1, "mb-4", "text-justify", 2, "font-size", "14px", "color", "#000000"], [1, "owl-item", "active", "center", 2, "width", "350px", "margin-right", "30px"], [1, "user-img", 2, "background-image", "url(assets/images/doctors/Unnikrishnan.jpeg)"], [1, "owl-item", "active", 2, "width", "350px", "margin-right", "30px"], [1, "user-img", 2, "background-image", "url(assets/images/doctors/Amit_Saraf.jpeg)"], [1, "mb-4", "text-justify", 2, "font-size", "14px"], [1, "owl-item", 2, "width", "350px", "margin-right", "30px"], [1, "position"], [1, "user-img", 2, "background-image", "url(assets/images/person_2.jpg)"], [1, "owl-nav", "disabled"], ["role", "presentation", 1, "owl-prev"], [1, "ion-ios-arrow-back"], ["role", "presentation", 1, "owl-next"], [1, "ion-ios-arrow-forward"], ["id", "popupOpen", "data-toggle", "modal", "data-target", "#exampleModal"], ["id", "exampleModal", "tabindex", "-1", "role", "dialog", "aria-labelledby", "exampleModalLabel", "aria-hidden", "true", 1, "modal", "fade"], ["role", "document", 1, "modal-dialog", "modal-lg"], [1, "modal-content"], [1, "modal-body"], [1, "text-right"], ["type", "button", "data-dismiss", "modal", "aria-label", "Close", 1, "close"], ["aria-hidden", "true", 2, "color", "#299adc", "font-size", "30px", "font-weight", "bolder"], ["href", "https://rxeventslive.in/sinsanglad/", "target", "_blank", "alt", "Register Now", "title", "Register Now"], ["src", "assets/images/GLAD.png", "alt", "", "width", "auto", "height", "auto", 1, "img-fluid"], [1, "modal-footer"], ["type", "button", "data-dismiss", "modal", 1, "btn", "btn-info", "registerBtn", 3, "click"], ["type", "button", "data-dismiss", "modal", 1, "btn", "btn-warning"]], template: function HomeComponent_Template(rf, ctx) { if (rf & 1) {
+HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HomeComponent, selectors: [["app-home"]], decls: 429, vars: 0, consts: [[1, "slider-section"], ["id", "carousel", "data-ride", "carousel", "data-interval", "2500", 1, "carousel", "slide", 2, "margin-top", "0px"], [1, "carousel-indicators"], ["data-target", "#carousel", "data-slide-to", "0", 1, "active"], ["data-target", "#carousel", "data-slide-to", "1"], ["data-target", "#carousel", "data-slide-to", "2"], ["role", "listbox", 1, "carousel-inner"], [1, "carousel-item", "active", 2, "background-image", "url('assets/images/banner/sinan-1.jpg')", "background-position", "center", "background-repeat", "no-repeat"], [1, "carousel-item", 2, "background-image", "url('assets/images/banner/sinan-2.jpg')", "background-position", "center", "background-repeat", "no-repeat"], [1, "carousel-item", 2, "background-image", "url('assets/images/banner/crop.jpg')", "background-position", "center", "background-repeat", "no-repeat"], ["href", "#carousel", "role", "button", "data-slide", "prev", 1, "carousel-control-prev"], ["aria-hidden", "true", 1, "carousel-control-prev-icon"], [1, "sr-only"], ["href", "#carousel", "role", "button", "data-slide", "next", 1, "carousel-control-next"], ["aria-hidden", "true", 1, "carousel-control-next-icon"], ["data-stellar-background-ratio", "0.5", 1, "hero-wrap", "js-fullheight", "d-none", 2, "background-image", "url('assets/images/bg_2.jpg')", "height", "374px", "background-position", "0% -141px"], [1, "overlay"], [1, "container-fluid", "d-none"], [1, "row"], [1, "col-md-12", "p-0"], ["id", "external-controls", "role", "group", "aria-label", "External carousel buttons", 1, "col-auto", "btn-group-vertical", 2, "position", "absolute", "z-index", "99", "right", "0px", "top", "10%"], ["data-target", "#main-carousel", "data-slide-to", "0", "type", "button", 1, "btn", 2, "border-bottom", "1px solid #10bfc1", "text-align", "left", "font-size", "28px", "width", "100px", "color", "#10bfc1"], ["data-target", "#main-carousel", "data-slide-to", "1", "type", "button", 1, "btn", "mt-2", 2, "border-bottom", "1px solid #10bfc1", "text-align", "left", "font-size", "28px", "width", "100px", "color", "#10bfc1"], ["data-target", "#main-carousel", "data-slide-to", "2", "type", "button", 1, "btn", "mt-2", 2, "border-bottom", "1px solid #10bfc1", "text-align", "left", "font-size", "28px", "width", "100px", "color", "#10bfc1"], ["id", "main-carousel", "data-ride", "carousel", "data-interval", "false", 1, "carousel", "slide", 2, "width", "auto", "height", "auto", "max-width", "100%", "max-height", "100%"], [1, "carousel-inner"], [1, "carousel-item", "active", "carousel-item-left"], ["src", "assets/images/banner/sinan-1.jpg", "alt", "First Slide", 1, "d-block", "img-fluid"], [1, "carousel-item", "carousel-item-next", "carousel-item-left"], ["src", "assets/images/banner/sinan-2.jpg", "alt", "Second Slide", 1, "d-block", "img-fluid"], [1, "carousel-item"], ["src", "assets/images/banner/sinan-3.jpg", "alt", "Third Slide", 1, "d-block", "img-fluid"], ["data-scrollax-parent", "true", 1, "row", "d-none", "no-gutters", "slider-text", "js-fullheight", "align-items-center", "justify-content-end", 2, "height", "374px"], [1, "col-lg-6", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "mt-5"], [1, "mb-4"], [1, "col-md-7", "col-lg-10"], ["action", "#", 1, "appointment-form-intro", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "d-flex"], [1, "form-group"], [1, "form-field"], [1, "select-wrap"], [1, "icon"], [1, "fa", "fa-chevron-down"], ["name", "", "id", "", 1, "form-control"], ["value", ""], ["type", "submit", "value", "Book Appointment", 1, "btn-custom", "form-control", "py-3", "px-4"], [1, "ftco-section", "ftco-no-pt", "ftco-no-pb", "ftco-services-2", "bg-light"], [1, "container"], [1, "row", "d-flex"], [1, "col-md-12"], [1, "py-lg-4"], [1, "row", "justify-content-center", "pb-3"], [1, "col-md-12", "heading-section", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "mb-3"], [1, "col-md-12", "col-lg-6", "d-flex", "align-self-stretch", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "media", "block-6", "services", "d-flex"], [1, "icon", "justify-content-center", "align-items-center", "d-flex"], [1, "fa", "fa-bullseye"], [1, "media-body", "pl-md-4"], [1, "heading", "mb-3"], [1, "fa", "fa-eye"], [1, "fa", "fa-flag"], [1, "fa", "fa-stethoscope"], [1, "col-md-5", "d-none"], [1, "appointment-wrap", "p-4", "p-lg-5", "d-flex", "align-items-center"], ["action", "#", 1, "appointment-form", "ftco-animate", "fadeInUp", "ftco-animated"], [1, ""], ["type", "text", "placeholder", "First Name", 1, "form-control"], ["type", "text", "placeholder", "Last Name", 1, "form-control"], ["type", "text", "placeholder", "State", 1, "form-control"], [1, "input-wrap"], ["type", "text", "placeholder", "City", 1, "form-control", "appointment_date"], ["type", "text", "placeholder", "Phone", "autocomplete", "off", 1, "form-control", "appointment_time", "ui-timepicker-input"], ["type", "text", "placeholder", "E-mail", "autocomplete", "off", 1, "form-control", "appointment_time", "ui-timepicker-input"], ["name", "", "id", "", "cols", "30", "rows", "2", "placeholder", "Message", 1, "form-control"], ["type", "submit", "value", "Submit", 1, "btn", "btn-secondary", "py-3", "px-4"], ["id", "about-section", 1, "ftco-counter", "img", "ftco-section", "ftco-no-pt", "ftco-no-pb"], [1, "col-md-6", "col-lg-5", "d-flex"], [1, "img", "w-100", "d-flex", "align-self-stretch", "align-items-center", 2, "background-image", "url(assets/images/homeabout2.jpg)", "height", "100%"], [1, "col-md-6", "col-lg-7"], [1, "row", "justify-content-start", "pb-3"], [1, "col-md-12", "heading-section", "ftco-animate", "p-4", "p-lg-5", "fadeInUp", "ftco-animated"], ["routerLink", "/aboutus", 1, "btn", "btn-secondary", "py-2", "px-2"], [1, "ftco-facts", "img", "ftco-counter", 2, "background-image", "url(assets/images/bg_3.jpg)"], [1, "col-md-3", "d-flex", "justify-content-center", "counter-wrap", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "block-18", "p-4"], [1, "text"], ["data-number", "10", 1, "number"], ["data-number", "4500", 1, "number"], ["data-number", "84", 1, "number"], ["data-number", "300", 1, "number"], [1, "ftco-section", "bg-light"], [1, "container-fluid", "px-md-5"], [1, "row", "justify-content-center"], [1, "col-md-10", "heading-section", "text-center", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "mb-1"], [1, "row", "d-flex", "pt-3"], [1, "col-lg-4", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "blog-entry"], ["routerLink", "/updates", 1, "block-20", 2, "background-image", "url('assets/images/updates/hold-bulletin-1.png')"], [1, "meta", "pt-3", "text-right", "pr-2"], [1, "fa", "fa-calendar", "mr-2"], [1, "text", "d-block"], [1, "heading"], ["routerLink", "/updates"], ["routerLink", "/updates", 1, "btn", "btn-secondary", "btn-outline-secondary", "py-2", "px-3"], ["routerLink", "/updates", 1, "block-20", 2, "background-image", "url('assets/images/updates/hold-bulletin-2.png')"], [1, "ftco-section", "testimony-section", "img", 2, "background-image", "url(assets/images/bg_4.jpg)"], [1, "col-md-7", "text-center", "heading-section", "heading-section-white", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "subheading"], [1, "row", "ftco-animate", "justify-content-center", "fadeInUp", "ftco-animated"], [1, "carousel-testimony", "owl-carousel", "ftco-owl", "owl-loaded", "owl-drag"], [1, "owl-stage-outer", "owl-height", 2, "height", "360px"], [1, "owl-stage", 2, "transition", "all 0.25s ease 0s", "width", "4180px", "transform", "translate3d(-760px, 0px, 0px)"], [1, "owl-item", "cloned", 2, "width", "350px", "margin-right", "30px"], [1, "item"], [1, "testimony-wrap", "py-4", "pb-5", "d-flex", "justify-content-between"], [1, "user-img", 2, "background-image", "url(assets/images/person_3.jpg)"], [1, "quote", "d-flex", "align-items-center", "justify-content-center"], [1, "fa", "fa-quote-left"], [1, "mb-4", 2, "color", "#000000"], [1, "name"], [1, "user-img", 2, "background-image", "url(assets/images/person_1.jpg)"], [1, "owl-item", "cloned", "active", 2, "width", "350px", "margin-right", "30px"], [1, "user-img", 2, "background-image", "url(assets/images/doctors/Vinay_Shelar.jpeg)"], [1, "mb-4", "text-justify", 2, "font-size", "14px", "color", "#000000"], [1, "owl-item", "active", "center", 2, "width", "350px", "margin-right", "30px"], [1, "user-img", 2, "background-image", "url(assets/images/doctors/Unnikrishnan.jpeg)"], [1, "owl-item", "active", 2, "width", "350px", "margin-right", "30px"], [1, "user-img", 2, "background-image", "url(assets/images/doctors/Amit_Saraf.jpeg)"], [1, "mb-4", "text-justify", 2, "font-size", "14px"], [1, "owl-item", 2, "width", "350px", "margin-right", "30px"], [1, "position"], [1, "user-img", 2, "background-image", "url(assets/images/person_2.jpg)"], [1, "owl-nav", "disabled"], ["role", "presentation", 1, "owl-prev"], [1, "ion-ios-arrow-back"], ["role", "presentation", 1, "owl-next"], [1, "ion-ios-arrow-forward"], ["id", "popupOpen", "data-toggle", "modal", "data-target", "#exampleModal"], ["id", "exampleModal", "tabindex", "-1", "role", "dialog", "aria-labelledby", "exampleModalLabel", "aria-hidden", "true", 1, "modal", "fade"], ["role", "document", 1, "modal-dialog", "modal-lg"], [1, "modal-content"], [1, "modal-body"], [1, "text-right"], ["type", "button", "data-dismiss", "modal", "aria-label", "Close", 1, "close"], ["aria-hidden", "true", 2, "color", "#299adc", "font-size", "30px", "font-weight", "bolder"], ["href", "https://rxeventslive.in/sinsanglad/", "target", "_blank", "alt", "Register Now", "title", "Register Now"], ["src", "assets/images/GLAD.png", "alt", "", "width", "auto", "height", "auto", 1, "img-fluid"], [1, "modal-footer"], ["type", "button", "data-dismiss", "modal", 1, "btn", "btn-info", "registerBtn", 3, "click"], ["type", "button", "data-dismiss", "modal", 1, "btn", "btn-warning"]], template: function HomeComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "ol", 2);
@@ -564,82 +564,46 @@ HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](224, "div");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](225, "a");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](226, "span", 102);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](227, "Jan 05, 2021");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](227, "May 05, 2024");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](228, "div", 103);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](229, "h3", 104);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](230, "a", 105);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](231, "Need to control blood sugar? There's a drink for that ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](231, "HOLD Bulletin 1 ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](232, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](233, "Engineered prepared an ingestible molecular traps from Mesoporous silica ...");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](234, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](235, "a", 106);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](236, "Read more");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](233, "a", 106);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](234, "Read more");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](237, "div", 98);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](238, "div", 99);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](239, "a", 107);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](240, "div", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](241, "div", 101);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](242, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](243, "a");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](244, "span", 102);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](245, "Jan 05, 2021");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](235, "div", 98);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](236, "div", 99);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](237, "a", 107);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](238, "div", 38);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](239, "div", 101);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](240, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](241, "a");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](242, "span", 102);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](243, "May 05, 2024");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](246, "div", 103);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](247, "h3", 104);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](248, "a", 105);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](249, "Specific gut bacteria may be a associated with pulmonary arterial hypertension");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](244, "div", 103);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](245, "h3", 104);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](246, "a", 105);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](247, "HOLD Bulletin 2");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](250, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](251, "Researchers have identified a distinct collection of bacteria found in the gut that may ...");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](252, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](253, "a", 106);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](254, "Read more");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](255, "div", 98);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](256, "div", 99);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](257, "a", 108);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](258, "div", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](259, "div", 101);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](260, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](261, "a");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](262, "span", 102);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](263, "Jan 05, 2021");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](264, "div", 103);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](265, "h3", 104);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](266, "a", 105);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](267, "Women's blood vessels age faster than men's");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](268, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](269, "New research from the Smidt Heart Institute at Cedars-Sinai showed for the first ...");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](270, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](271, "a", 106);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](272, "Read more");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](248, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](249, "a", 106);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](250, "Read more");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -649,300 +613,300 @@ HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](273, "section", 109);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](274, "div", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](275, "div", 48);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](276, "div", 52);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](277, "div", 110);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](278, "span", 111);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](279, "Read testimonials");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](251, "section", 108);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](252, "div", 16);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](253, "div", 48);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](254, "div", 52);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](255, "div", 109);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](256, "span", 110);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](257, "Read testimonials");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](280, "h2", 35);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](281, "Our Doctor Says");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](258, "h2", 35);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](259, "Our Doctor Says");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](282, "div", 112);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](283, "div", 50);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](284, "div", 113);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](285, "div", 114);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](286, "div", 115);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](287, "div", 116);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](288, "div", 117);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](289, "div", 118);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](290, "div", 119);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](291, "span", 120);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](292, "i", 121);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](260, "div", 111);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](261, "div", 50);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](262, "div", 112);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](263, "div", 113);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](264, "div", 114);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](265, "div", 115);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](266, "div", 116);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](267, "div", 117);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](268, "div", 118);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](269, "span", 119);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](270, "i", 120);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](271, "div", 87);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](272, "p", 121);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](273, "Sinsan is great. All the officers are like family members. All the best for Sinsan team.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](274, "p", 122);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](275, "Dr. Vinay Shelar, MD (Med), Mumbai");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](276, "div", 115);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](277, "div", 116);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](278, "div", 117);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](279, "div", 123);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](280, "span", 119);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](281, "i", 120);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](282, "div", 87);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](283, "p", 121);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](284, "I have been pleased to observe the growth of Sinsan Pharmaceuticals. Sinsan is a pharmaceutical company with a strong focus on quality and science. The company is also noted for its commitment to transforming health care through dissemination of evidence-based medicine in their educational endeavours. My best wishes to Sinsan Pharmaceuticals as they continue to focus on improving health and wellness among people.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](285, "p", 122);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](286, "Dr. A G Unnikrishnan, DM (Endo), Mumbai");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](287, "div", 124);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](288, "div", 116);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](289, "div", 117);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](290, "div", 125);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](291, "span", 119);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](292, "i", 120);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](293, "div", 87);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](294, "p", 122);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](295, "Sinsan is great. All the officers are like family members. All the best for Sinsan team.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](294, "p", 126);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](295, "Sinsan is great. All the officers are like family members. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](296, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](297, " All the best for Sinsan team.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](296, "p", 123);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](297, "Dr. Vinay Shelar, MD (Med), Mumbai");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](298, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](299, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](300, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](301, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](302, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](303, "p", 122);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](304, "Dr. Vinay Shelar, MD (Med), Mumbai");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](305, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](298, "div", 116);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](299, "div", 117);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](300, "div", 118);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](301, "div", 124);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](302, "span", 120);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](303, "i", 121);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](306, "div", 127);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](307, "div", 116);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](308, "div", 117);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](309, "div", 128);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](310, "span", 119);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](311, "i", 120);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](304, "div", 87);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](305, "p", 122);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](306, "I have been pleased to observe the growth of Sinsan Pharmaceuticals. Sinsan is a pharmaceutical company with a strong focus on quality and science. The company is also noted for its commitment to transforming health care through dissemination of evidence-based medicine in their educational endeavours. My best wishes to Sinsan Pharmaceuticals as they continue to focus on improving health and wellness among people.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](312, "div", 87);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](313, "p", 126);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](314, "I have been pleased to observe the growth of Sinsan Pharmaceuticals. Sinsan is a pharmaceutical company with a strong focus on quality and science. My best wishes to Sinsan Pharmaceuticals as they continue to focus on improving health and wellness among people.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](307, "p", 123);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](308, "Dr. A G Unnikrishnan, DM (Endo), Mumbai");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](315, "p", 122);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](316, "Dr. A G Unnikrishnan, DM (Endo), Mumbai");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](309, "div", 125);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](310, "div", 117);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](311, "div", 118);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](312, "div", 126);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](313, "span", 120);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](314, "i", 121);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](317, "div", 129);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](318, "div", 116);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](319, "div", 117);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](320, "div", 130);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](321, "span", 119);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](322, "i", 120);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](315, "div", 87);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](316, "p", 127);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](317, "Sinsan is great. All the officers are like family members. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](318, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](319, " All the best for Sinsan team.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](323, "div", 87);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](324, "p", 131);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](325, "Sinsan Pharma has been an epitome of credibility, prestige and patient centric operations. This company has always been at the forefront of academics and patient beneficial activities such as camps, workshop and CMEs. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](320, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](321, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](322, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](323, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](324, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](325, "p", 123);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](326, "Dr. Vinay Shelar, MD (Med), Mumbai");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](326, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](327, "p", 122);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](328, "Dr. Amit Saraf, MD (Med), Thane");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](327, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](328, "div", 128);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](329, "div", 117);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](330, "div", 118);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](331, "div", 129);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](332, "span", 120);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](333, "i", 121);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](329, "div", 132);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](330, "div", 116);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](331, "div", 117);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](332, "div", 118);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](333, "span", 119);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](334, "i", 120);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](334, "div", 87);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](335, "p", 127);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](336, "I have been pleased to observe the growth of Sinsan Pharmaceuticals. Sinsan is a pharmaceutical company with a strong focus on quality and science. My best wishes to Sinsan Pharmaceuticals as they continue to focus on improving health and wellness among people.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](335, "div", 87);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](336, "p", 35);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](337, "Far far away, behind the word mountains, far from the countries Vokalia");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](337, "p", 123);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](338, "Dr. A G Unnikrishnan, DM (Endo), Mumbai");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](338, "p", 122);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](339, "Jeff Freshman wwwwwwwwwwww");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](340, "span", 133);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](341, "Patients");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](339, "div", 130);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](340, "div", 117);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](341, "div", 118);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](342, "div", 131);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](343, "span", 120);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](344, "i", 121);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](342, "div", 132);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](343, "div", 116);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](344, "div", 117);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](345, "div", 123);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](346, "span", 119);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](347, "i", 120);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](345, "div", 87);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](346, "p", 132);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](347, "Sinsan Pharma has been an epitome of credibility, prestige and patient centric operations. This company has always been at the forefront of academics and patient beneficial activities such as camps, workshop and CMEs. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](348, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](349, "p", 123);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](350, "Dr. Amit Saraf, MD (Med), Thane");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](348, "div", 87);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](349, "p", 35);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](350, "Far far away, behind the word mountains, far from the countries Vokalia");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](351, "p", 122);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](352, "Jeff Freshman");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](353, "span", 133);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](354, "Patients");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](351, "div", 133);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](352, "div", 117);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](353, "div", 118);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](354, "div", 119);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](355, "span", 120);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](356, "i", 121);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](357, "div", 87);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](358, "p", 35);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](359, "Far far away, behind the word mountains, far from the countries Vokalia");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](355, "div", 132);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](356, "div", 116);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](357, "div", 117);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](358, "div", 118);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](359, "span", 119);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](360, "i", 120);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](360, "p", 123);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](361, "Jeff Freshman wwwwwwwwwwww");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](362, "span", 134);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](363, "Patients");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](361, "div", 87);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](362, "p", 35);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](363, "Far far away, behind the word mountains, far from the countries Vokalia");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](364, "p", 122);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](365, "Jeff Freshman");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](366, "span", 133);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](367, "Patients");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](364, "div", 133);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](365, "div", 117);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](366, "div", 118);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](367, "div", 124);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](368, "span", 120);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](369, "i", 121);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](370, "div", 87);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](371, "p", 35);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](372, "Far far away, behind the word mountains, far from the countries Vokalia");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](368, "div", 115);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](369, "div", 116);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](370, "div", 117);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](371, "div", 123);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](372, "span", 119);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](373, "i", 120);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](373, "p", 123);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](374, "Jeff Freshman");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](375, "span", 134);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](376, "Patients");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](374, "div", 87);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](375, "p", 35);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](376, "Far far away, behind the word mountains, far from the countries Vokalia");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](377, "p", 122);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](378, "Jeff Freshman");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](379, "span", 133);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](380, "Patients");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](377, "div", 133);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](378, "div", 117);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](379, "div", 118);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](380, "div", 119);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](381, "span", 120);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](382, "i", 121);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](383, "div", 87);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](384, "p", 35);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](385, "Far far away, behind the word mountains, far from the countries Vokalia");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](381, "div", 115);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](382, "div", 116);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](383, "div", 117);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](384, "div", 134);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](385, "span", 119);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](386, "i", 120);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](386, "p", 123);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](387, "Jeff Freshman");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](388, "span", 134);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](389, "Patients");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](387, "div", 87);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](388, "p", 35);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](389, "Far far away, behind the word mountains, far from the countries Vokalia");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](390, "p", 122);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](391, "Jeff Freshman");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](392, "span", 133);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](393, "Patients");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](390, "div", 116);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](391, "div", 117);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](392, "div", 118);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](393, "div", 124);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](394, "span", 120);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](395, "i", 121);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](396, "div", 87);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](397, "p", 35);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](398, "Far far away, behind the word mountains, far from the countries Vokalia");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](394, "div", 115);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](395, "div", 116);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](396, "div", 117);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](397, "div", 118);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](398, "span", 119);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](399, "i", 120);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](399, "p", 123);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](400, "Jeff Freshman");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](401, "span", 134);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](402, "Patients");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](400, "div", 87);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](401, "p", 35);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](402, "Far far away, behind the word mountains, far from the countries Vokalia");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](403, "p", 122);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](404, "Jeff Freshman");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](405, "span", 133);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](406, "Patients");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](403, "div", 116);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](404, "div", 117);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](405, "div", 118);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](406, "div", 135);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](407, "span", 120);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](408, "i", 121);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](409, "div", 87);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](410, "p", 35);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](411, "Far far away, behind the word mountains, far from the countries Vokalia");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](412, "p", 123);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](413, "Jeff Freshman");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](414, "span", 134);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](415, "Patients");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](407, "div", 135);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](408, "button", 136);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](409, "span", 137);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](410, "button", 138);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](411, "span", 139);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](416, "div", 116);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](417, "div", 117);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](418, "div", 118);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](419, "div", 119);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](420, "span", 120);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](421, "i", 121);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](422, "div", 87);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](423, "p", 35);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](424, "Far far away, behind the word mountains, far from the countries Vokalia");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](425, "p", 123);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](426, "Jeff Freshman");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](412, "a", 140);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](413, "div", 141);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](414, "div", 142);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](415, "div", 143);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](416, "div", 144);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](417, "div", 145);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](418, "button", 146);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](419, "span", 147);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](420, "\u00D7");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](427, "span", 134);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](428, "Patients");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](421, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](422, "a", 148);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](423, "img", 149);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](424, "div", 150);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](425, "button", 151);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function HomeComponent_Template_button_click_425_listener() { return ctx.register(); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](426, " Register Now ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](429, "div", 136);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](430, "button", 137);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](431, "span", 138);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](432, "button", 139);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](433, "span", 140);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](434, "a", 141);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](435, "div", 142);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](436, "div", 143);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](437, "div", 144);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](438, "div", 145);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](439, "div", 146);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](440, "button", 147);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](441, "span", 148);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](442, "\u00D7");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](443, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](444, "a", 149);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](445, "img", 150);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](446, "div", 151);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](447, "button", 152);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function HomeComponent_Template_button_click_447_listener() { return ctx.register(); });
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](448, " Register Now ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](449, "button", 153);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](450, "Close");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](427, "button", 152);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](428, "Close");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1077,7 +1041,7 @@ class HeaderComponent {
     }
 }
 HeaderComponent.ɵfac = function HeaderComponent_Factory(t) { return new (t || HeaderComponent)(); };
-HeaderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HeaderComponent, selectors: [["app-header"]], decls: 99, vars: 0, consts: [[1, "py-1", "top", "d-none"], [1, "container"], [1, "row"], [1, "col-sm", "text-center", "text-md-left", "mb-md-0", "mb-2", "pr-md-4", "d-flex", "topper", "align-items-center"], [1, "mb-0", "w-100"], [1, "fa", "fa-paper-plane"], [1, "text"], [1, "col-sm", "justify-content-center", "d-flex", "mb-md-0", "mb-2"], [1, "social-media"], [1, "mb-0", "d-flex"], ["href", "#", 1, "d-flex", "align-items-center", "justify-content-center"], [1, "fa", "fa-facebook"], [1, "sr-only"], [1, "fa", "fa-twitter"], [1, "fa", "fa-instagram"], [1, "fa", "fa-dribbble"], [1, "col-sm-12", "col-md-6", "col-lg-7", "d-flex", "topper", "align-items-center", "text-lg-right", "justify-content-end"], [1, "py-3"], [1, "row", "d-flex", "align-items-start", "align-items-center", "px-3", "px-md-0"], [1, "col-md-4", "d-flex", "mb-2", "mb-md-0"], ["routerLink", "home", 1, "navbar-brand", "d-flex", "align-items-center"], [1, ""], ["src", "../../../assets/images/Sinsan.jpg", "width", "300px", "height", "auto", "alt", "", 1, "img-fluid"], [1, "col-md-4", "d-flex", "topper", "mb-md-0", "mb-2", "align-items-center"], [1, "icon", "d-flex", "justify-content-center", "align-items-center"], [1, "fa", "fa-phone"], [1, "pr-md-4", "pl-md-3", "pl-3", "text"], [1, "con"], [1, "col-md-4", "d-flex", "topper", "mb-md-0", "align-items-center"], [1, "fa", "fa-map-marker"], [1, "text", "pl-3", "pl-md-3"], [1, "hr"], ["id", "ftco-navbar", 1, "navbar", "navbar-expand-lg", "ftco-navbar-light"], [1, "container", "d-flex", "align-items-center"], ["type", "button", "data-toggle", "collapse", "data-target", "#exCollapsingNavbar2", "aria-expanded", "false", "aria-label", "Toggle navigation", 1, "navbar-toggler"], [1, "fa", "fa-bars"], ["id", "exCollapsingNavbar2", 1, "collapse", "navbar-collapse"], [1, "nav", "navbar-nav", "ml-auto", "leftNav", "pt-2"], [1, "nav-item"], ["routerLink", "/home", "routerLinkActive", "actives", 1, "nav-link"], [1, "nav-item", "dropdown"], ["data-toggle", "dropdown", "aria-haspopup", "true", "aria-expanded", "false", "id", "navbarDropdownMenuLink2", "routerLinkActive", "actives", 1, "nav-link", "dropdown-toggle"], ["aria-labelledby", "navbarDropdownMenuLink2", 1, "dropdown-menu"], ["routerLink", "/aboutus", 1, "dropdown-item"], [1, "dropdown-divider"], ["routerLink", "/milestone", 1, "dropdown-item", 2, "cursor", "pointer"], ["routerLink", "/therapy-areas", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/product-portfolio", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/updates", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/gallery", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/careers", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/contactus", "routerLinkActive", "actives", 1, "nav-link"]], template: function HeaderComponent_Template(rf, ctx) { if (rf & 1) {
+HeaderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HeaderComponent, selectors: [["app-header"]], decls: 119, vars: 0, consts: [[1, "py-1", "top", "d-none"], [1, "container"], [1, "row"], [1, "col-sm", "text-center", "text-md-left", "mb-md-0", "mb-2", "pr-md-4", "d-flex", "topper", "align-items-center"], [1, "mb-0", "w-100"], [1, "fa", "fa-paper-plane"], [1, "text"], [1, "col-sm", "justify-content-center", "d-flex", "mb-md-0", "mb-2"], [1, "social-media"], [1, "mb-0", "d-flex"], ["href", "#", 1, "d-flex", "align-items-center", "justify-content-center"], [1, "fa", "fa-facebook"], [1, "sr-only"], [1, "fa", "fa-twitter"], [1, "fa", "fa-instagram"], [1, "fa", "fa-dribbble"], [1, "py-3"], [1, "container-flux"], [1, "row", "d-flex", "align-items-start", "align-items-center", "px-3", "px-md-0"], [1, "col-md-2", "d-flex", "mb-2", "mb-md-0"], ["routerLink", "home", 1, "navbar-brand", "d-flex", "align-items-start"], [1, ""], ["src", "../../../assets/images/Sinsan.jpg", "width", "250px", "height", "auto", "alt", ""], [1, "col-md-2", "d-flex", "topper", "mb-md-0", "mb-2", "align-items-center"], [1, "icon", "d-flex", "justify-content-center", "align-items-center"], [1, "fa", "fa-phone"], [1, "pr-md-2", "pl-md-3", "pl-3", "text"], [1, "con"], [1, "col-md-2", "d-flex", "topper", "mb-md-0", "align-items-center", "address"], [1, "fa", "fa-map-marker"], [1, "text", "pl-3", "pl-md-3"], [1, "hr"], [1, "text", "pl-2", "pl-md-2"], [1, "col-md-2", "d-flex", "topper", "mb-md-0", "align-items-center", "justify-content-center"], ["routerLink", "home", 1, "navbar-brand"], ["src", "../../../assets/images/qr-code.png", "width", "130px", "height", "auto", "alt", ""], [2, "font-size", "18px", "text-transform", "capitalize"], ["id", "ftco-navbar", 1, "navbar", "navbar-expand-lg", "ftco-navbar-light"], [1, "container", "d-flex", "align-items-center"], ["type", "button", "data-toggle", "collapse", "data-target", "#exCollapsingNavbar2", "aria-expanded", "false", "aria-label", "Toggle navigation", 1, "navbar-toggler"], [1, "fa", "fa-bars"], ["id", "exCollapsingNavbar2", 1, "collapse", "navbar-collapse"], [1, "nav", "navbar-nav", "ml-auto", "leftNav", "pt-2"], [1, "nav-item"], ["routerLink", "/home", "routerLinkActive", "actives", 1, "nav-link"], [1, "nav-item", "dropdown"], ["data-toggle", "dropdown", "aria-haspopup", "true", "aria-expanded", "false", "id", "navbarDropdownMenuLink2", "routerLinkActive", "actives", 1, "nav-link", "dropdown-toggle"], ["aria-labelledby", "navbarDropdownMenuLink2", 1, "dropdown-menu"], ["routerLink", "/aboutus", 1, "dropdown-item"], [1, "dropdown-divider"], ["routerLink", "/milestone", 1, "dropdown-item", 2, "cursor", "pointer"], ["routerLink", "/therapy-areas", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/product-portfolio", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/updates", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/gallery", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/careers", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/contactus", "routerLinkActive", "actives", 1, "nav-link"]], template: function HeaderComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -1123,128 +1087,163 @@ HeaderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](27, "div", 16);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](27, "div", 16);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "div", 17);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "div", 1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "div", 18);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "div", 19);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "a", 20);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](33, "span", 21);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](34, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](35, "img", 22);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "div", 18);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "div", 19);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "a", 20);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](32, "span", 21);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](34, "img", 22);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](36, "div", 23);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "div", 24);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](38, "span", 25);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "div", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](36, "div", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](37, "span", 25);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "div", 26);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "p", 27);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](42, " Call");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](38, "div", 26);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "p", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](41, " Call");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, " 020-25665800");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "div", 28);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](46, "div", 24);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](47, "span", 29);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](48, "div", 30);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "p", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](50, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](51, "Our Location");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "p", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](53, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](54, "Sinsan Pharmaceuticals Pvt Ltd.");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](55, "p", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](56, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](57, "Sales & Marketing Office");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](58, "p", 27);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](59, "B/1107,\u00A0The\u00A0Western\u00A0Edge\u00A0II\u00A0Premises\u00A0 ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](60, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](61, "Co-Op\u00A0Soc.\u00A0Ltd., off W E Highway, Behind Metro, Borivali (East), Mumbai \u2013 400 066 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](43, " 020-25665800");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](44, "div", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "div", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](46, "span", 29);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "div", 30);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](48, "p", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](50, "Registered Office Address: ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](62, "nav", 32);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](63, "div", 33);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](64, "button", 34);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](65, "span", 35);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](66, " Menu ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "div", 36);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](68, "ul", 37);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](69, "li", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "a", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](71, "Home");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](51, "p", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](53, "Sinsan Pharmaceuticals Pvt Ltd.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](72, "li", 40);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](73, "a", 41);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](74, "About");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](54, "p", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](55, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](56, "Sales & Marketing Office");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](75, "div", 42);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](76, "a", 43);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](77, "About Us");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](78, "div", 44);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](79, "a", 45);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](80, "Milestone");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](57, "p", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](58, "Godown # 01, Ground Floor, S. No. 44, \u00A0 H. No. 3/7/3/3, Near Matoshree Garden, Pisoli, Pune 411-028 ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](81, "li", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "a", 46);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](83, "Therapy Areas");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](59, "div", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](60, "div", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](61, "span", 29);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](62, "div", 32);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](63, "p", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](64, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](65, "Our Location");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](84, "li", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](85, "a", 47);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](86, "Product Portfolio");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](66, "p", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](68, "Sinsan Pharmaceuticals Pvt Ltd.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](87, "li", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](88, "a", 48);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](89, "Updates");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](69, "p", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](71, "Sales & Marketing Office");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](90, "li", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](91, "a", 49);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](92, "Gallery");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](72, "p", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](73, "B 1004 Western Express Highway, Magathane, Food Corporation of India Warehouse, Borivali East, Mumbai, Maharashtra 400066 ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](93, "li", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](94, "a", 50);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](95, "Careers");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "div", 33);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](75, "a", 34);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](76, "span", 21);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](78, "img", 35);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](96, "li", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](97, "a", 51);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](98, "Contact");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](79, "p", 36);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](80, "small");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](81, " Patient Education Site");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    } }, directives: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterLinkWithHref"], _angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterLinkActive"]], styles: [".actives[_ngcontent-%COMP%]{\n    background-color: white;\n    color: #0A939D !important;\n    border-top: 2px solid #0A939D !important;\n    font-weight: bold !important;\n    \n}\na[_ngcontent-%COMP%] {\n    cursor: pointer;\n}\n.text[_ngcontent-%COMP%]   p.con[_ngcontent-%COMP%], .text[_ngcontent-%COMP%]   p.hr[_ngcontent-%COMP%] {\n        color: black;\n    }\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhlYWRlci5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0lBQ0ksdUJBQXVCO0lBQ3ZCLHlCQUF5QjtJQUN6Qix3Q0FBd0M7SUFDeEMsNEJBQTRCOztBQUVoQztBQUNBO0lBQ0ksZUFBZTtBQUNuQjtBQUdBOztRQUVRLFlBQVk7SUFDaEIiLCJmaWxlIjoiaGVhZGVyLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYWN0aXZlc3tcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTtcbiAgICBjb2xvcjogIzBBOTM5RCAhaW1wb3J0YW50O1xuICAgIGJvcmRlci10b3A6IDJweCBzb2xpZCAjMEE5MzlEICFpbXBvcnRhbnQ7XG4gICAgZm9udC13ZWlnaHQ6IGJvbGQgIWltcG9ydGFudDtcbiAgICBcbn1cbmEge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbn1cblxuXG4udGV4dCBwLmNvbixcbiAgICAudGV4dCBwLmhyIHtcbiAgICAgICAgY29sb3I6IGJsYWNrO1xuICAgIH0iXX0= */"] });
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "nav", 37);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](83, "div", 38);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](84, "button", 39);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](85, "span", 40);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](86, " Menu ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](87, "div", 41);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](88, "ul", 42);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](89, "li", 43);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](90, "a", 44);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](91, "Home");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](92, "li", 45);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](93, "a", 46);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](94, "About");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](95, "div", 47);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](96, "a", 48);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](97, "About Us");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](98, "div", 49);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](99, "a", 50);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](100, "Milestone");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](101, "li", 43);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](102, "a", 51);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](103, "Therapy Areas");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](104, "li", 43);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](105, "a", 52);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](106, "Product Portfolio");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](107, "li", 43);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](108, "a", 53);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](109, "Updates");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](110, "li", 43);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](111, "a", 54);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](112, "Gallery");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](113, "li", 43);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](114, "a", 55);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](115, "Careers");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](116, "li", 43);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](117, "a", 56);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](118, "Contact");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    } }, directives: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterLinkWithHref"], _angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterLinkActive"]], styles: [".actives[_ngcontent-%COMP%]{\n    background-color: white;\n    color: #0A939D !important;\n    border-top: 2px solid #0A939D !important;\n    font-weight: bold !important;\n    \n}\na[_ngcontent-%COMP%] {\n    cursor: pointer;\n}\n.text[_ngcontent-%COMP%]   p.con[_ngcontent-%COMP%], .text[_ngcontent-%COMP%]   p.hr[_ngcontent-%COMP%] {\n        color: black;\n    }\n.row[_ngcontent-%COMP%] {\n        display: flex;\n        flex-wrap: wrap;\n        align-items: center;\n        justify-content: space-between; \n    }\n.address[_ngcontent-%COMP%] {\n    flex: 0 0 auto; \n    max-width: 22%; \n    padding: 0 10px; \n}\n.icon[_ngcontent-%COMP%] {\n        display: flex;\n        justify-content: center;\n        align-items: center;\n    }\n.qr-code-img[_ngcontent-%COMP%] {\n        width: 100%; \n        height: auto;\n        max-width: 100px; \n    }\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhlYWRlci5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0lBQ0ksdUJBQXVCO0lBQ3ZCLHlCQUF5QjtJQUN6Qix3Q0FBd0M7SUFDeEMsNEJBQTRCOztBQUVoQztBQUNBO0lBQ0ksZUFBZTtBQUNuQjtBQUdBOztRQUVRLFlBQVk7SUFDaEI7QUFFQTtRQUNJLGFBQWE7UUFDYixlQUFlO1FBQ2YsbUJBQW1CO1FBQ25CLDhCQUE4QixFQUFFLHNDQUFzQztJQUMxRTtBQUNBO0lBQ0EsY0FBYyxFQUFFLCtDQUErQztJQUMvRCxjQUFjLEVBQUUsa0RBQWtEO0lBQ2xFLGVBQWUsRUFBRSw2Q0FBNkM7QUFDbEU7QUFFSTtRQUNJLGFBQWE7UUFDYix1QkFBdUI7UUFDdkIsbUJBQW1CO0lBQ3ZCO0FBRUE7UUFDSSxXQUFXLEVBQUUsaURBQWlEO1FBQzlELFlBQVk7UUFDWixnQkFBZ0IsRUFBRSw4Q0FBOEM7SUFDcEUiLCJmaWxlIjoiaGVhZGVyLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYWN0aXZlc3tcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTtcbiAgICBjb2xvcjogIzBBOTM5RCAhaW1wb3J0YW50O1xuICAgIGJvcmRlci10b3A6IDJweCBzb2xpZCAjMEE5MzlEICFpbXBvcnRhbnQ7XG4gICAgZm9udC13ZWlnaHQ6IGJvbGQgIWltcG9ydGFudDtcbiAgICBcbn1cbmEge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbn1cblxuXG4udGV4dCBwLmNvbixcbiAgICAudGV4dCBwLmhyIHtcbiAgICAgICAgY29sb3I6IGJsYWNrO1xuICAgIH1cblxuICAgIC5yb3cge1xuICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICBmbGV4LXdyYXA6IHdyYXA7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjsgLyogRW5zdXJlIGVsZW1lbnRzIGFyZSBldmVubHkgc3BhY2VkICovXG4gICAgfVxuICAgIC5hZGRyZXNzIHtcbiAgICBmbGV4OiAwIDAgYXV0bzsgLyogQWxsb3cgdGhlc2UgY29sdW1ucyB0byBzaHJpbmsgaWYgbmVjZXNzYXJ5ICovXG4gICAgbWF4LXdpZHRoOiAyMiU7IC8qIEFkanVzdCB0aGUgbWF4LXdpZHRoIGFzIG5lZWRlZCB0byBmaXQgY29udGVudCAqL1xuICAgIHBhZGRpbmc6IDAgMTBweDsgLyogQWRkIHBhZGRpbmcgZm9yIHNwYWNpbmcgYmV0d2VlbiBlbGVtZW50cyAqL1xufVxuXG4gICAgLmljb24ge1xuICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICB9XG4gICAgXG4gICAgLnFyLWNvZGUtaW1nIHtcbiAgICAgICAgd2lkdGg6IDEwMCU7IC8qIEVuc3VyZSB0aGUgUVIgY29kZSBpbWFnZSBmaWxscyBpdHMgY29udGFpbmVyICovXG4gICAgICAgIGhlaWdodDogYXV0bztcbiAgICAgICAgbWF4LXdpZHRoOiAxMDBweDsgLyogQWRqdXN0IHRoZSBtYXgtd2lkdGggb2YgdGhlIFFSIGNvZGUgaW1hZ2UgKi9cbiAgICB9Il19 */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](HeaderComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
@@ -1272,13 +1271,19 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+const _c0 = function () { return ["/therapy-areas"]; };
 class FooterComponent {
-    constructor() { }
+    constructor(router) {
+        this.router = router;
+    }
     ngOnInit() {
     }
+    navigateToTab(tabId) {
+        this.router.navigate(['/therapy-areas'], { state: { tabId } });
+    }
 }
-FooterComponent.ɵfac = function FooterComponent_Factory(t) { return new (t || FooterComponent)(); };
-FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: FooterComponent, selectors: [["app-footer"]], decls: 110, vars: 0, consts: [[1, "ftco-footer"], [1, "container"], [1, "row"], [1, "col-lg-3", "col-md-3"], [1, "ftco-footer-widget"], [1, "ftco-heading-2", "logo", "d-flex", "align-items-center"], ["routerLink", "home"], [1, ""], ["routerLink", "aboutus"], [1, "ftco-footer-social", "list-unstyled", "mt-4"], ["href", "https://www.linkedin.com/company/sinsan-pharmaceuticals-private-limited", "target", "_blank"], [1, "fa", "fa-linkedin"], ["href", "https://twitter.com/PharmaSinsan", "target", "_blank"], [1, "fa", "fa-twitter"], ["href", "https://www.facebook.com/Sinsanpharmaceutical", "target", "_blank"], [1, "fa", "fa-facebook"], ["href", "https://www.instagram.com/sinsanpharma/?hl=en", "target", "_blank"], [1, "fa", "fa-instagram"], [1, "ftco-heading-2"], [1, "list-unstyled"], ["routerLink", "therapy-areas"], [1, "fa", "fa-chevron-right", "mr-2"], [1, "col-lg-2", "col-md-2"], ["routerLink", "product-portfolio"], ["routerLink", "updates"], ["routerLink", "gallery"], ["routerLink", "careers"], [1, "col-lg-4", "col-md-4"], [1, "block-23", "mb-3"], [1, "fa", "fa-map-marker", "mr-3", 2, "color", "#0A939D"], [1, "text", 2, "color", "#000"], [1, "fa", "fa-phone", "mr-3", 2, "color", "#0A939D"], [1, "fa", "fa-paper-plane", "mr-3", 2, "color", "#0A939D"], ["href", "mailto:sinsanpharma2007@gmail.com"]], template: function FooterComponent_Template(rf, ctx) { if (rf & 1) {
+FooterComponent.ɵfac = function FooterComponent_Factory(t) { return new (t || FooterComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"])); };
+FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: FooterComponent, selectors: [["app-footer"]], decls: 114, vars: 10, consts: [[1, "ftco-footer"], [1, "container"], [1, "row"], [1, "col-lg-3", "col-md-3"], [1, "ftco-footer-widget"], [1, "ftco-heading-2", "logo", "d-flex", "align-items-center"], ["routerLink", "home"], [1, ""], ["routerLink", "aboutus"], [1, "ftco-footer-social", "list-unstyled", "mt-4"], ["href", "https://www.linkedin.com/company/sinsan-pharmaceuticals-private-limited", "target", "_blank"], [1, "fa", "fa-linkedin"], ["href", "https://twitter.com/PharmaSinsan", "target", "_blank"], [1, "fa", "fa-twitter"], ["href", "https://www.facebook.com/Sinsanpharmaceutical", "target", "_blank"], [1, "fa", "fa-facebook"], ["href", "https://www.instagram.com/sinsanpharma/?hl=en", "target", "_blank"], [1, "fa", "fa-instagram"], [1, "ftco-heading-2"], [1, "list-unstyled"], ["fragment", "diabetology", 3, "routerLink"], [1, "fa", "fa-chevron-right", "mr-2"], ["fragment", "cardiology", 3, "routerLink"], ["fragment", "obesity", 3, "routerLink"], ["fragment", "gastroenterology", 3, "routerLink"], ["fragment", "others", 3, "routerLink"], [1, "col-lg-2", "col-md-2"], ["routerLink", "therapy-areas"], ["routerLink", "product-portfolio"], ["routerLink", "updates"], ["routerLink", "gallery"], ["routerLink", "careers"], [1, "col-lg-4", "col-md-4"], [1, "block-23", "mb-3"], [2, "color", "#000000"], [1, "fa", "fa-map-marker", "mr-3", 2, "color", "#0A939D"], [1, "text", 2, "color", "#000"], [1, "fa", "fa-phone", "mr-3", 2, "color", "#0A939D"], [1, "fa", "fa-paper-plane", "mr-3", 2, "color", "#0A939D"], ["href", "mailto:sinsanpharma2007@gmail.com"]], template: function FooterComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "footer", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -1335,25 +1340,25 @@ FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](36, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "a", 20);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "a", 22);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](38, "span", 21);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](39, "Cardiology");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "a", 20);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "a", 23);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](42, "span", 21);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](43, "Nutraceuticals");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](43, "Obesity");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](44, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "a", 20);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "a", 24);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](46, "span", 21);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](47, "Obesity");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](47, "Gastroenterology");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](48, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "a", 20);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "a", 25);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](50, "span", 21);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](51, "Others");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1361,7 +1366,7 @@ FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "div", 22);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "div", 26);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](53, "div", 4);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](54, "h2", 18);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](55, "Links");
@@ -1380,31 +1385,31 @@ FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](65, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](66, "a", 20);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](66, "a", 27);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](67, "span", 21);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](68, "Therapy Areas");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](69, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "a", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "a", 28);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](71, "span", 21);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](72, "Product Portfolio");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](73, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "a", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "a", 29);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](75, "span", 21);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](76, "Updates");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](78, "a", 25);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](78, "a", 30);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](79, "span", 21);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](80, "Gallery");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](81, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "a", 26);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "a", 31);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](83, "span", 21);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](84, "Careers");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1412,37 +1417,44 @@ FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](85, "div", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](85, "div", 32);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](86, "div", 4);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](87, "h2", 18);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](88, "Have a Question ?");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](89, "div", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](89, "div", 33);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](90, "ul");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](91, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](92, "span", 29);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](93, "span", 30);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](94, "B/1107,\u00A0The\u00A0Western\u00A0Edge\u00A0II\u00A0Premises ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](92, "span", 34);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](93, "strong");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](94, "Our Location Sinsan ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](95, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](96, "\u00A0Co-Op\u00A0Soc.\u00A0Ltd., off W E Highway, Behind Metro, Borivali (East),");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](96, " Pharmaceuticals Pvt Ltd. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](97, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](98, " Mumbai \u2013 400 066 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](98, " Sales & Marketing Office");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](99, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](100, "a");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](101, "span", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](102, "span", 30);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](103, "020-25665800");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](100, "span", 35);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](101, "span", 36);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](102, "B 1004 Western Express Highway, Magathane, Food Corporation of India Warehouse, Borivali East, Mumbai, Maharashtra 400066 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](103, "li");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](104, "a");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](105, "span", 37);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](106, "span", 36);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](107, "020-25665800");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](104, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](105, "a");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](106, "span", 32);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](107, "span", 30);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](108, "a", 33);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](109, "sinsanpharma2007@gmail.com");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](108, "li");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](109, "a");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](110, "span", 38);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](111, "span", 36);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](112, "a", 39);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](113, "sinsanpharma2007@gmail.com");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1454,6 +1466,17 @@ FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+    } if (rf & 2) {
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](33);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("routerLink", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction0"](5, _c0));
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("routerLink", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction0"](6, _c0));
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("routerLink", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction0"](7, _c0));
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("routerLink", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction0"](8, _c0));
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("routerLink", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction0"](9, _c0));
     } }, directives: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterLinkWithHref"]], styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJmb290ZXIuY29tcG9uZW50LmNzcyJ9 */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](FooterComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
@@ -1462,7 +1485,7 @@ FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
                 templateUrl: './footer.component.html',
                 styleUrls: ['./footer.component.css']
             }]
-    }], function () { return []; }, null); })();
+    }], function () { return [{ type: _angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"] }]; }, null); })();
 
 
 /***/ }),
@@ -1706,7 +1729,7 @@ class GalleryComponent {
     }
 }
 GalleryComponent.ɵfac = function GalleryComponent_Factory(t) { return new (t || GalleryComponent)(); };
-GalleryComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: GalleryComponent, selectors: [["app-gallery"]], decls: 133, vars: 1, consts: [["data-stellar-background-ratio", "0.5", 1, "hero-wrap", "hero-wrap-2", "heroBreadcrumb", 2, "background-image", "url('assets/images/breadcums/gallery.jpg')", "background-position", "50% -66px"], [1, "overlay"], [1, "container"], [1, "row", "no-gutters", "slider-text", "align-items-end", "justify-content-start"], [1, "col-md-9", "ftco-animate", "pb-5", "fadeInUp", "ftco-animated"], [1, "mb-3", "bread", 2, "color", "#fff"], [1, "ftco-section"], [1, "row"], [1, "col-md-3"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/3.jpg)"], ["id", "3", 1, "overlay", 3, "click"], [2, "color", "#0A939D"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/4.jpg)"], ["id", "4", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/5.jpg)"], ["id", "5", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/6.jpg)"], ["id", "6", 1, "overlay", 3, "click"], [1, "row", "pt-2"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/7.jpg)"], ["id", "7", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/8.jpg)"], ["id", "8", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/9.jpg)"], ["id", "9", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/10.jpg)"], ["id", "10", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/11.jpg)"], ["id", "11", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/12.jpg)"], ["id", "12", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/13.jpg)"], ["id", "13", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/14.jpg)"], ["id", "14", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/15.jpg)"], ["id", "15", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/16.jpg)"], ["id", "16", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/17.jpg)"], ["id", "17", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/18.jpg)"], ["id", "18", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/19.jpg)"], ["id", "19", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/20.jpg)"], ["id", "20", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/21.jpg)"], ["id", "21", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/22.jpg)"], ["id", "22", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/23.jpg)"], ["id", "23", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/24.jpg)"], ["id", "24", 1, "overlay", 3, "click"], ["id", "exampleModal", "tabindex", "-1", "role", "dialog", "aria-labelledby", "exampleModalLabel", "aria-hidden", "true", 1, "modal", "fade"], ["role", "document", 1, "modal-dialog", "modal-lg"], [1, "modal-content"], [1, "modal-body"], ["alt", "", "width", "auto", "height", "auto", 1, "img-fluid", 3, "src"], [1, "modal-footer"], ["type", "button", "data-dismiss", "modal", 1, "btn", "btn-secondary"]], template: function GalleryComponent_Template(rf, ctx) { if (rf & 1) {
+GalleryComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: GalleryComponent, selectors: [["app-gallery"]], decls: 138, vars: 1, consts: [["data-stellar-background-ratio", "0.5", 1, "hero-wrap", "hero-wrap-2", "heroBreadcrumb", 2, "background-image", "url('assets/images/breadcums/gallery.jpg')", "background-position", "50% -66px"], [1, "overlay"], [1, "container"], [1, "row", "no-gutters", "slider-text", "align-items-end", "justify-content-start"], [1, "col-md-9", "ftco-animate", "pb-5", "fadeInUp", "ftco-animated"], [1, "mb-3", "bread", 2, "color", "#fff"], [1, "ftco-section"], [1, "row"], [1, "col-md-3"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/3.jpg)"], ["id", "3", 1, "overlay", 3, "click"], [2, "color", "#0A939D"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/4.jpg)"], ["id", "4", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/5.jpg)"], ["id", "5", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/6.jpg)"], ["id", "6", 1, "overlay", 3, "click"], [1, "row", "pt-2"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/7.jpg)"], ["id", "7", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/8.jpg)"], ["id", "8", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/9.jpg)"], ["id", "9", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/10.jpg)"], ["id", "10", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/11.jpg)"], ["id", "11", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/12.jpg)"], ["id", "12", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/13.jpg)"], ["id", "13", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/14.jpg)"], ["id", "14", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/15.jpg)"], ["id", "15", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/16.jpg)"], ["id", "16", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/17.jpg)"], ["id", "17", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/18.jpg)"], ["id", "18", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/19.jpg)"], ["id", "19", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/20.jpg)"], ["id", "20", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/32.jpg)"], ["id", "21", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/21.jpg)"], ["id", "22", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/22.jpg)"], ["id", "23", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/23.jpg)"], ["id", "24", 1, "overlay", 3, "click"], ["data-toggle", "modal", "data-target", "#exampleModal", 1, "image-popup", "img", "gallery", "ftco-animate", "fadeInUp", "ftco-animated", 2, "background-image", "url(assets/images/gallery/24.jpg)"], ["id", "25", 1, "overlay", 3, "click"], ["id", "exampleModal", "tabindex", "-1", "role", "dialog", "aria-labelledby", "exampleModalLabel", "aria-hidden", "true", 1, "modal", "fade"], ["role", "document", 1, "modal-dialog", "modal-lg"], [1, "modal-content"], [1, "modal-body"], ["alt", "", "width", "auto", "height", "auto", 1, "img-fluid", 3, "src"], [1, "modal-footer"], ["type", "button", "data-dismiss", "modal", 1, "btn", "btn-secondary"]], template: function GalleryComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -1917,7 +1940,7 @@ GalleryComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](107, "span", 11);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](108, "Sinsan Family- North Zone\n");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](108, "Sinsan Family- West Zone ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](109, "div", 8);
@@ -1927,7 +1950,7 @@ GalleryComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](112, "span", 11);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](113, "Sinsan Family- East Zone\n");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](113, "Sinsan Family- North Zone\n");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1939,7 +1962,7 @@ GalleryComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](118, "span", 11);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](119, "Sinsan Family- South Zone ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](119, "Sinsan Family- East Zone ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](120, "div", 8);
@@ -1949,28 +1972,38 @@ GalleryComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](123, "span", 11);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](124, "Sinsan Family- Senior Managers ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](124, "Sinsan Family- South Zone ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](125, "div", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](126, "a", 55);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](127, "span", 56);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function GalleryComponent_Template_span_click_127_listener($event) { return ctx.openImgs($event); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](128, "span", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](129, "Sinsan Family- Senior Managers ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](125, "div", 55);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](126, "div", 56);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](127, "div", 57);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](128, "div", 58);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](129, "img", 59);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](130, "div", 57);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](131, "div", 58);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](132, "div", 59);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](133, "div", 60);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](134, "img", 61);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](130, "div", 60);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](131, "button", 61);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](132, "Close");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](135, "div", 62);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](136, "button", 63);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](137, "Close");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     } if (rf & 2) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](129);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](134);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx.imgSrc, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
     } }, styles: [".heroBreadcrumb[_ngcontent-%COMP%] {\n    height: 40vh !important;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImdhbGxlcnkuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLHVCQUF1QjtBQUMzQiIsImZpbGUiOiJnYWxsZXJ5LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaGVyb0JyZWFkY3J1bWIge1xuICAgIGhlaWdodDogNDB2aCAhaW1wb3J0YW50O1xufSJdfQ== */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](GalleryComponent, [{
@@ -2048,12 +2081,36 @@ __webpack_require__.r(__webpack_exports__);
 
 
 class TherapyComponent {
-    constructor() { }
-    ngOnInit() {
+    constructor(route, router) {
+        this.route = route;
+        this.router = router;
+    }
+    //  ngOnInit() {
+    //     const navigation = this.router.getCurrentNavigation();
+    //     const state = navigation?.extras.state as { tabId: string };
+    //     if (state && state.tabId) {
+    //       setTimeout(()=>{
+    //         const tabElement = document.querySelector(`#${state.tabId}`);
+    //       if (tabElement) {
+    //         const bootstrapTab = new (window as any).bootstrap.Tab(tabElement);
+    //         bootstrapTab.show();
+    //       }
+    //       },0);
+    //     }
+    //   }
+    ngAfterViewInit() {
+        this.route.fragment.subscribe(fragment => {
+            const element = document.getElementById(fragment);
+            if (element) {
+                // element.scrollIntoView({behavior:'smooth'});
+                const tab = new window.bootstrap.Tab(element);
+                tab.show();
+            }
+        });
     }
 }
-TherapyComponent.ɵfac = function TherapyComponent_Factory(t) { return new (t || TherapyComponent)(); };
-TherapyComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: TherapyComponent, selectors: [["app-therapy"]], decls: 293, vars: 0, consts: [["data-stellar-background-ratio", "0.5", 1, "hero-wrap", "hero-wrap-2", "heroBreadcrumb", 2, "background-image", "url('assets/images/breadcums/therapy.jpg')", "background-position", "50% -66px"], [1, "overlay"], [1, "container"], [1, "row", "no-gutters", "slider-text", "align-items-end", "justify-content-start"], [1, "col-md-9", "ftco-animate", "pb-5", "fadeInUp", "ftco-animated"], [1, "mb-3", "bread", 2, "color", "#ffffff"], [1, "ftco-section"], [1, "row", "justify-content-center", "mb-5", "pb-2"], [1, "col-md-8", "text-center", "heading-section", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "row", "tabulation", "mt-4", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "col-md-3"], [1, "nav", "nav-pills", "nav-fill", "d-block", "w-100"], [1, "nav-item", "text-left"], ["data-toggle", "tab", "href", "#services-1", 1, "nav-link", "active", "d-flex", "align-items-centere", "py-4"], ["src", "../../../assets/images/therapy/dia.jpeg", "width", "40px", "height", "auto", "alt", ""], ["data-toggle", "tab", "href", "#services-6", 1, "nav-link", "py-4", "d-flex", "align-items-center"], ["src", "../../../assets/images/therapy/car.jpeg", "width", "40px", "height", "auto", "alt", ""], ["data-toggle", "tab", "href", "#services-4", 1, "nav-link", "py-4", "d-flex", "align-items-center"], ["src", "../../../assets/images/therapy/Obesity.jpg", "width", "40px", "height", "auto", "alt", ""], ["data-toggle", "tab", "href", "#services-3", 1, "nav-link", "py-4", "d-flex", "align-items-center"], ["src", "../../../assets/images/therapy/nutra.jpeg", "width", "40px", "height", "auto", "alt", ""], ["data-toggle", "tab", "href", "#services-5", 1, "nav-link", "py-4", "d-flex", "align-items-center"], ["src", "../../../assets/images/therapy/others.jpeg", "width", "50px", "height", "auto", "alt", ""], [1, "col-md-9"], [1, "tab-content", "pt-4", "pt-md-0", "pl-md-3"], ["id", "services-1", 1, "tab-pane", "container", "p-0", "active"], [1, "row"], [1, "col-md-5", "img", 2, "background-image", "url(assets/images/therapy/diamain.jpeg)"], [1, "col-md-7", "text", "pl-md-4"], [1, "fa", "fa-check"], [2, "text-align", "right"], ["routerLink", "/product-portfolio", 1, "btn", "btn-info"], ["id", "services-2", 1, "tab-pane", "container", "p-0", "fade"], [1, "col-md-5", "img", 2, "background-image", "url(assets/images/dept-2.jpg)"], ["id", "services-3", 1, "tab-pane", "container", "p-0", "fade"], [1, "col-md-5", "img", 2, "background-image", "url(assets/images/therapy/gastro.jpg)"], ["id", "services-4", 1, "tab-pane", "container", "p-0", "fade"], [1, "col-md-5", "img", 2, "background-image", "url(assets/images/therapy/Obesitymain.jpg)"], [1, "text-justify"], [1, "table", "table-bordered", "text-center"], [1, "danger"], ["colspan", "2", 2, "background-color", "#D9EDF7"], ["rowspan", "2", 2, "background-color", "#D9EDF7"], [2, "background-color", "#DFF0D8"], ["id", "services-5", 1, "tab-pane", "container", "p-0", "fade"], [1, "col-md-5", "img", 2, "background-image", "url(assets/images/therapy/othersmain.jpg)"], [1, "col-md-5", "img", 2, "background-image", "url(assets/images/dept-5.jpg)"], ["id", "services-6", 1, "tab-pane", "container", "p-0", "fade"], [1, "col-md-5", "img", 2, "background-image", "url(assets/images/therapy/dept-6.jpg)"], ["id", "services-7", 1, "tab-pane", "container", "p-0", "fade"], [1, "col-md-5", "img", 2, "background-image", "url(assets/images/dept-7.jpg)"]], template: function TherapyComponent_Template(rf, ctx) { if (rf & 1) {
+TherapyComponent.ɵfac = function TherapyComponent_Factory(t) { return new (t || TherapyComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_1__["ActivatedRoute"]), _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"])); };
+TherapyComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: TherapyComponent, selectors: [["app-therapy"]], decls: 293, vars: 0, consts: [["data-stellar-background-ratio", "0.5", 1, "hero-wrap", "hero-wrap-2", "heroBreadcrumb", 2, "background-image", "url('assets/images/breadcums/therapy.jpg')", "background-position", "50% -66px"], [1, "overlay"], [1, "container"], [1, "row", "no-gutters", "slider-text", "align-items-end", "justify-content-start"], [1, "col-md-9", "ftco-animate", "pb-5", "fadeInUp", "ftco-animated"], [1, "mb-3", "bread", 2, "color", "#ffffff"], [1, "ftco-section"], [1, "row", "justify-content-center", "mb-5", "pb-2"], [1, "col-md-8", "text-center", "heading-section", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "row", "tabulation", "mt-4", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "col-md-3"], [1, "nav", "nav-pills", "nav-fill", "d-block", "w-100"], [1, "nav-item", "text-left"], ["id", "diabetology", "data-toggle", "tab", "href", "#services-1", 1, "nav-link", "active", "d-flex", "align-items-centere", "py-4"], ["src", "../../../assets/images/therapy/dia.jpeg", "width", "40px", "height", "auto", "alt", ""], ["id", "cardiology", "data-toggle", "tab", "href", "#services-6", 1, "nav-link", "py-4", "d-flex", "align-items-center"], ["src", "../../../assets/images/therapy/car.jpeg", "width", "40px", "height", "auto", "alt", ""], ["id", "obesity", "data-toggle", "tab", "href", "#services-4", 1, "nav-link", "py-4", "d-flex", "align-items-center"], ["src", "../../../assets/images/therapy/Obesity.jpg", "width", "40px", "height", "auto", "alt", ""], ["id", "gastroenterology", "data-toggle", "tab", "href", "#services-3", 1, "nav-link", "py-4", "d-flex", "align-items-center"], ["src", "../../../assets/images/therapy/nutra.jpeg", "width", "40px", "height", "auto", "alt", ""], ["id", "others", "data-toggle", "tab", "href", "#services-5", 1, "nav-link", "py-4", "d-flex", "align-items-center"], ["src", "../../../assets/images/therapy/others.jpeg", "width", "50px", "height", "auto", "alt", ""], [1, "col-md-9"], [1, "tab-content", "pt-4", "pt-md-0", "pl-md-3"], ["id", "services-1", 1, "tab-pane", "container", "p-0", "active"], [1, "row"], [1, "col-md-5", "img", 2, "background-image", "url(assets/images/therapy/diamain.jpeg)"], [1, "col-md-7", "text", "pl-md-4"], [1, "fa", "fa-check"], [2, "text-align", "right"], ["routerLink", "/product-portfolio", 1, "btn", "btn-info"], ["id", "services-2", 1, "tab-pane", "container", "p-0", "fade"], [1, "col-md-5", "img", 2, "background-image", "url(assets/images/dept-2.jpg)"], ["id", "services-3", 1, "tab-pane", "container", "p-0", "fade"], [1, "col-md-5", "img", 2, "background-image", "url(assets/images/therapy/gastro.jpg)"], ["id", "services-4", 1, "tab-pane", "container", "p-0", "fade"], [1, "col-md-5", "img", 2, "background-image", "url(assets/images/therapy/Obesitymain.jpg)"], [1, "text-justify"], [1, "table", "table-bordered", "text-center"], [1, "danger"], ["colspan", "2", 2, "background-color", "#D9EDF7"], ["rowspan", "2", 2, "background-color", "#D9EDF7"], [2, "background-color", "#DFF0D8"], ["id", "services-5", 1, "tab-pane", "container", "p-0", "fade"], [1, "col-md-5", "img", 2, "background-image", "url(assets/images/therapy/othersmain.jpg)"], [1, "col-md-5", "img", 2, "background-image", "url(assets/images/dept-5.jpg)"], ["id", "cardiology", "id", "services-6", 1, "tab-pane", "container", "p-0", "fade"], [1, "col-md-5", "img", 2, "background-image", "url(assets/images/therapy/dept-6.jpg)"], ["id", "services-7", 1, "tab-pane", "container", "p-0", "fade"], [1, "col-md-5", "img", 2, "background-image", "url(assets/images/dept-7.jpg)"]], template: function TherapyComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -2519,7 +2576,7 @@ TherapyComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
                 templateUrl: './therapy.component.html',
                 styleUrls: ['./therapy.component.css']
             }]
-    }], function () { return []; }, null); })();
+    }], function () { return [{ type: _angular_router__WEBPACK_IMPORTED_MODULE_1__["ActivatedRoute"] }, { type: _angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"] }]; }, null); })();
 
 
 /***/ }),
@@ -3672,7 +3729,7 @@ class ProductComponent {
         if (this.productName === "TENLIP M/M FORTE") {
             this.productNameImg = "TENLIP_M_Forte";
         }
-        else if (this.productName === "TELFIRST 20/40 MG") {
+        else if (this.productName === "TELFIRST 20/40") {
             this.productNameImg = "Telfirst 20-40 logo";
         }
         else if (this.productName === "TELFIRST AM") {
@@ -3696,7 +3753,7 @@ class ProductComponent {
         else if (this.productName === "SINXIGA - 5M/10M/FORTE") {
             this.productNameImg = "SINXIGA 5M10MFORTE";
         }
-        else if (this.productName === "OBEZITA 60/120 CAP") {
+        else if (this.productName === "OBEZITA 60/120") {
             this.productNameImg = "OBEZITA 60120 CAP";
         }
         else if (this.productName === "ZICLA 60 SR/60SRM") {
@@ -3723,7 +3780,7 @@ class ProductComponent {
         else if (this.productName === "TELFIRST M 25/50MG") {
             this.productNameImg = "TELFIRST M 2550MG";
         }
-        else if (this.productName === "D- Bose M 0.2/0.3") {
+        else if (this.productName === "D- BOSE M 0.2/0.3") {
             this.productNameImg = "DBOSE M";
         }
         else if (this.productName === "GLIMFIRST MP1/MP2") {
@@ -3735,16 +3792,16 @@ class ProductComponent {
         else if (this.productName === "FIBTIUS") {
             this.productNameImg = "fibtius-new";
         }
-        else if (this.productName === "Atorfirst 10/20/40") {
+        else if (this.productName === "ATORFIRST 10/20/40") {
             this.productNameImg = "ATORFIRST";
         }
-        else if (this.productName === "Atorfirst F") {
+        else if (this.productName === "ATORFIRST F") {
             this.productNameImg = "Atorfirst F";
         }
-        else if (this.productName === "Dyloop 5/10/20") {
+        else if (this.productName === "DYLOOP 5/10/20") {
             this.productNameImg = "Dyloop";
         }
-        else if (this.productName === "Dyloop Plus") {
+        else if (this.productName === "DYLOOP Plus") {
             this.productNameImg = "Dyloop Plus";
         }
         else if (this.productName === "HOMO 16 LC") {
@@ -3762,7 +3819,7 @@ class ProductComponent {
         else if (this.productName === "BIPRA 20") {
             this.productNameImg = "Bipra 20";
         }
-        else if (this.productName === "Panfirst 40/D") {
+        else if (this.productName === "PANFIRST 40") {
             this.productNameImg = "Panfirst D";
         }
         else if (this.productName === "PANFIRST D") {
@@ -3792,7 +3849,7 @@ class ProductComponent {
         else if (this.productName === "ZICLA M") {
             this.productNameImg = "Zicla M";
         }
-        else if (this.productName === "TELFIRST CT 40 +6.25/12.5 MG") {
+        else if (this.productName === "TELFIRST CT 40 + 6.25/12.5") {
             this.productNameImg = "TELFIRST CT 406.25 TAB";
         }
         else if (this.productName === "VILSURE M") {
@@ -3807,7 +3864,7 @@ class ProductComponent {
         else if (this.productName === "TENLIP 20") {
             this.productNameImg = "Tenlip 20";
         }
-        else if (this.productName === "METFIRST XL 25MG") {
+        else if (this.productName === "METFIRST XL 25/50") {
             this.productNameImg = "METFIRST XL 25MG TAB";
         }
         else if (this.productName === "BIPRA D") {
@@ -3815,6 +3872,12 @@ class ProductComponent {
         }
         else if (this.productName === "ALFA SINCAL") {
             this.productNameImg = "ALPHA SINCAL";
+        }
+        else if (this.productName === "SINCAL") {
+            this.productNameImg = "SINCAL-TAB";
+        }
+        else if (this.productName === "FERNPRO") {
+            this.productNameImg = "FernPro";
         }
         else { }
         if (this.productAlsoAvaliable1 === undefined) {
@@ -3951,7 +4014,7 @@ class BlogComponent {
     }
 }
 BlogComponent.ɵfac = function BlogComponent_Factory(t) { return new (t || BlogComponent)(); };
-BlogComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: BlogComponent, selectors: [["app-blog"]], decls: 190, vars: 0, consts: [["data-stellar-background-ratio", "0.5", 1, "hero-wrap", "hero-wrap-2", "heroBreadcrumb", 2, "background-image", "url('assets/images/breadcums/updates.jpg')", "background-position", "50% -66px"], [1, "overlay"], [1, "container"], [1, "row", "no-gutters", "slider-text", "align-items-end", "justify-content-start"], [1, "col-md-9", "ftco-animate", "pb-5", "fadeInUp", "ftco-animated"], [1, "mb-3", "bread", 2, "color", "#fff"], [1, "ftco-section", "bg-light"], [1, "container-fluid", "px-md-5"], [1, "row", "d-flex"], [1, "col-lg-4", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "blog-entry"], ["data-toggle", "modal", "data-target", "#updatesModal4", 1, "block-20", 2, "background-image", "url('assets/images/updates/hold-bulletin-1.png')"], [1, "d-flex"], [1, "meta", "pt-3", "text-right", "pr-2"], [1, "fa", "fa-calendar", "mr-2"], [1, "text", "d-block"], [1, "heading"], ["data-toggle", "modal", "data-target", "#updatesModal11"], ["data-toggle", "modal", "data-target", "#updatesModal1", 1, "btn", "btn-secondary", "btn-outline-secondary", "py-2", "px-3"], ["data-toggle", "modal", "data-target", "#updatesModal2", 1, "block-20", 2, "background-image", "url('assets/images/updates/hold-bulletin-2.png')"], ["data-toggle", "modal", "data-target", "#updatesModal3"], ["data-toggle", "modal", "data-target", "#updatesModal2", 1, "btn", "btn-secondary", "btn-outline-secondary", "py-2", "px-3"], ["data-toggle", "modal", "data-target", "#updatesModal3", 1, "block-20", 2, "background-image", "url('assets/images/updates/Homo 16 D.png')", "background-size", "contain", "background-repeat", "no-repeat", "background-position", "center"], ["data-toggle", "modal", "data-target", "#updatesModal3", 1, "btn", "btn-secondary", "btn-outline-secondary", "py-2", "px-3"], ["data-toggle", "modal", "data-target", "#updatesModal4", 1, "block-20", 2, "background-image", "url('assets/images/updates/Telfirst 20-40 logo.png')", "background-size", "contain", "background-repeat", "no-repeat", "background-position", "center"], ["data-toggle", "modal", "data-target", "#updatesModal4", 1, "btn", "btn-secondary", "btn-outline-secondary", "py-2", "px-3"], ["data-toggle", "modal", "data-target", "#updatesModal5", 1, "block-20", 2, "background-image", "url('assets/images/updates/Glimfirst_M1.png')", "background-size", "contain", "background-repeat", "no-repeat", "background-position", "center"], ["data-toggle", "modal", "data-target", "#updatesModal5", 1, "btn", "btn-secondary", "btn-outline-secondary", "py-2", "px-3"], ["data-toggle", "modal", "data-target", "#updatesModal6", 1, "block-20", 2, "background-image", "url('assets/images/updates/GLIMFIRST MV1.png')", "background-size", "contain", "background-repeat", "no-repeat", "background-position", "center"], ["data-toggle", "modal", "data-target", "#updatesModal6", 1, "btn", "btn-secondary", "btn-outline-secondary", "py-2", "px-3"], ["id", "updatesModal1", "tabindex", "-1", "role", "dialog", "aria-labelledby", "exampleModalLabel", "aria-hidden", "true", 1, "modal", "fade"], ["role", "document", 1, "modal-dialog", "modal-lg"], [1, "modal-content"], [1, "modal-header"], [2, "color", "#0A939D"], ["type", "button", "data-dismiss", "modal", "aria-label", "Close", 1, "close"], ["aria-hidden", "true"], [1, "text-justify", "p-3"], ["src", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtrustConstantResourceUrl"]("assets/blog/HOLD-Bulletin1-Kaizer.pdf#toolbar=0&navpanes=0"), "width", "100%", "height", "500px"], [1, "modal-footer"], ["type", "button", "data-dismiss", "modal", 1, "btn", "btn-secondary"], ["id", "updatesModal2", "tabindex", "-1", "role", "dialog", "aria-labelledby", "exampleModalLabel", "aria-hidden", "true", 1, "modal", "fade"], ["src", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtrustConstantResourceUrl"]("assets/blog/HOLD-Bulletin2-Kaizer.pdf#toolbar=0&navpanes=0"), "width", "100%", "height", "500px"], ["id", "updatesModal3", "tabindex", "-1", "role", "dialog", "aria-labelledby", "exampleModalLabel", "aria-hidden", "true", 1, "modal", "fade"], ["src", "assets/images/updates/homo-16d.jpg", "alt", "Image Description", 2, "max-width", "100%", "height", "auto"], ["id", "updatesModal4", "tabindex", "-1", "role", "dialog", "aria-labelledby", "exampleModalLabel", "aria-hidden", "true", 1, "modal", "fade"], ["src", "assets/images/updates/TELFIRST 40.jpg", "alt", "Image Description", 2, "max-width", "100%", "height", "auto"], ["id", "updatesModal5", "tabindex", "-1", "role", "dialog", "aria-labelledby", "exampleModalLabel", "aria-hidden", "true", 1, "modal", "fade"], ["src", "assets/images/updates/glimfirst-m1-m2.jpg", "alt", "Image Description", 2, "max-width", "100%", "height", "auto"], ["id", "updatesModal6", "tabindex", "-1", "role", "dialog", "aria-labelledby", "exampleModalLabel", "aria-hidden", "true", 1, "modal", "fade"], ["src", "assets/images/updates/glimfirst-mv.jpg", "alt", "Image Description", 2, "max-width", "100%", "height", "auto"]], template: function BlogComponent_Template(rf, ctx) { if (rf & 1) {
+BlogComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: BlogComponent, selectors: [["app-blog"]], decls: 126, vars: 0, consts: [["data-stellar-background-ratio", "0.5", 1, "hero-wrap", "hero-wrap-2", "heroBreadcrumb", 2, "background-image", "url('assets/images/breadcums/updates.jpg')", "background-position", "50% -66px"], [1, "overlay"], [1, "container"], [1, "row", "no-gutters", "slider-text", "align-items-end", "justify-content-start"], [1, "col-md-9", "ftco-animate", "pb-5", "fadeInUp", "ftco-animated"], [1, "mb-3", "bread", 2, "color", "#fff"], [1, "ftco-section", "bg-light"], [1, "container-fluid", "px-md-5"], [1, "row", "d-flex"], [1, "col-lg-4", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "blog-entry"], ["data-toggle", "modal", "data-target", "#updatesModal4", 1, "block-20", 2, "background-image", "url('assets/images/updates/hold-bulletin-1.png')"], [1, "d-flex"], [1, "meta", "pt-3", "text-right", "pr-2"], [1, "fa", "fa-calendar", "mr-2"], [1, "text", "d-block"], [1, "heading"], ["data-toggle", "modal", "data-target", "#updatesModal11"], ["data-toggle", "modal", "data-target", "#updatesModal1", 1, "btn", "btn-secondary", "btn-outline-secondary", "py-2", "px-3"], ["data-toggle", "modal", "data-target", "#updatesModal2", 1, "block-20", 2, "background-image", "url('assets/images/updates/hold-bulletin-2.png')"], ["data-toggle", "modal", "data-target", "#updatesModal3"], ["data-toggle", "modal", "data-target", "#updatesModal2", 1, "btn", "btn-secondary", "btn-outline-secondary", "py-2", "px-3"], ["id", "updatesModal1", "tabindex", "-1", "role", "dialog", "aria-labelledby", "exampleModalLabel", "aria-hidden", "true", 1, "modal", "fade"], ["role", "document", 1, "modal-dialog", "modal-lg"], [1, "modal-content"], [1, "modal-header"], [2, "color", "#0A939D"], ["type", "button", "data-dismiss", "modal", "aria-label", "Close", 1, "close"], ["aria-hidden", "true"], [1, "text-justify", "p-3"], ["src", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtrustConstantResourceUrl"]("assets/blog/HOLD-Bulletin1-Kaizer.pdf#toolbar=0&navpanes=0"), "width", "100%", "height", "500px"], [1, "modal-footer"], ["type", "button", "data-dismiss", "modal", 1, "btn", "btn-secondary"], ["id", "updatesModal2", "tabindex", "-1", "role", "dialog", "aria-labelledby", "exampleModalLabel", "aria-hidden", "true", 1, "modal", "fade"], ["src", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtrustConstantResourceUrl"]("assets/blog/HOLD-Bulletin2-Kaizer.pdf#toolbar=0&navpanes=0"), "width", "100%", "height", "500px"], ["id", "updatesModal3", "tabindex", "-1", "role", "dialog", "aria-labelledby", "exampleModalLabel", "aria-hidden", "true", 1, "modal", "fade"], ["src", "assets/images/updates/homo-16d.jpg", "alt", "Image Description", 2, "max-width", "100%", "height", "auto"], ["id", "updatesModal4", "tabindex", "-1", "role", "dialog", "aria-labelledby", "exampleModalLabel", "aria-hidden", "true", 1, "modal", "fade"], ["src", "assets/images/updates/TELFIRST 40.jpg", "alt", "Image Description", 2, "max-width", "100%", "height", "auto"], ["id", "updatesModal5", "tabindex", "-1", "role", "dialog", "aria-labelledby", "exampleModalLabel", "aria-hidden", "true", 1, "modal", "fade"], ["src", "assets/images/updates/glimfirst-m1-m2.jpg", "alt", "Image Description", 2, "max-width", "100%", "height", "auto"], ["id", "updatesModal6", "tabindex", "-1", "role", "dialog", "aria-labelledby", "exampleModalLabel", "aria-hidden", "true", 1, "modal", "fade"], ["src", "assets/images/updates/glimfirst-mv.jpg", "alt", "Image Description", 2, "max-width", "100%", "height", "auto"]], template: function BlogComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -4021,256 +4084,148 @@ BlogComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "div", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "div", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](44, "a", 22);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](46, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](48, "a");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](49, "span", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](50, "May 5, 2024");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](51, "div", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "h3", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](53, "a", 20);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](54, "HOMO-16 D Vitamin D Combination for Diabetes Care: Fast Disintegrating Tablets ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "div", 22);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "div", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](44, "div", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "div", 25);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](46, "h5", 26);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](47, "HOLD Bulletin 1 ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](48, "button", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "span", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](50, "\u00D7");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](55, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](56, "a", 23);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](57, "Read more");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](51, "div", 29);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](52, "iframe", 30);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](53, "div", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](54, "button", 32);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](55, "Close");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](58, "div", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](59, "div", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](60, "a", 24);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](61, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](62, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](63, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](64, "a");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](65, "span", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](66, "May 5, 2024");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](56, "div", 33);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](57, "div", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](58, "div", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](59, "div", 25);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](60, "h5", 26);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](61, "HOLD Bulletin 2 ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "div", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](68, "h3", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](69, "a", 20);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](70, "TELFIRST 40 1ST Choice for Target BP Goals: 3 Significant Benefits for Better Patient Compliance ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](62, "button", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](63, "span", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](64, "\u00D7");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](71, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](72, "a", 25);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](73, "Read more");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](65, "div", 29);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](66, "iframe", 34);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "div", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](68, "button", 32);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](69, "Close");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "div", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](75, "div", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](76, "a", 26);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](78, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](79, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](80, "a");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](81, "span", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](82, "May 5, 2024");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "div", 35);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](71, "div", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](72, "div", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](73, "div", 25);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "h5", 26);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](75, "HOMO-16 D Vitamin D Combination for Diabetes Care: Fast Disintegrating Tablets ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](76, "button", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "span", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](78, "\u00D7");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](83, "div", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](84, "h3", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](85, "a", 20);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](86, "GLIMFIRST M1 M2/FORTE Dynamic Duo for Smart Control: Reduced Tablet Size and Affordability for Better Patient Compliance ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](87, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](88, "a", 27);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](89, "Read more");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](79, "div", 29);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](80, "img", 36);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](81, "div", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "button", 32);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](83, "Close");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](90, "div", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](91, "div", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](92, "a", 28);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](93, "div", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](94, "div", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](95, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](96, "a");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](97, "span", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](98, "May 5, 2024");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](84, "div", 37);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](85, "div", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](86, "div", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](87, "div", 25);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](88, "h5", 26);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](89, "TELFIRST 40 1ST Choice for Target BP Goals: 3 Significant Benefits for Better Patient Compliance ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](90, "button", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](91, "span", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](92, "\u00D7");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](99, "div", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](100, "h3", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](101, "a", 20);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](102, "GLIMFIRST MV1 MV2 Dynamic Trio For PPG Control: Reduced Tablet Size for Better Patient Compliance ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](93, "div", 29);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](94, "img", 38);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](103, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](104, "a", 29);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](105, "Read more");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](95, "div", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](96, "button", 32);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](97, "Close");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](98, "div", 39);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](99, "div", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](100, "div", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](101, "div", 25);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](102, "h5", 26);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](103, "GLIMFIRST MV1 M2/FORTE Dynamic Duo for Smart Control: Reduced Tablet Size and Affordability for Better Patient Compliance ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](104, "button", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](105, "span", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](106, "\u00D7");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](106, "div", 30);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](107, "div", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](108, "div", 32);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](109, "div", 33);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](110, "h5", 34);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](111, "HOLD Bulletin 1 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](107, "div", 29);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](108, "img", 40);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](112, "button", 35);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](113, "span", 36);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](114, "\u00D7");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](109, "div", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](110, "button", 32);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](111, "Close");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](115, "div", 37);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](116, "iframe", 38);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](117, "div", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](118, "button", 40);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](119, "Close");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](112, "div", 41);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](113, "div", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](114, "div", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](115, "div", 25);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](116, "h5", 26);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](117, "GLIMFIRST MV1 MV2 Dynamic Trio For PPG Control: Reduced Tablet Size for Better Patient Compliance ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](118, "button", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](119, "span", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](120, "\u00D7");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](120, "div", 41);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](121, "div", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](122, "div", 32);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](123, "div", 33);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](124, "h5", 34);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](125, "HOLD Bulletin 2 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](121, "div", 29);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](122, "img", 42);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](126, "button", 35);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](127, "span", 36);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](128, "\u00D7");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](129, "div", 37);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](130, "iframe", 42);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](131, "div", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](132, "button", 40);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](133, "Close");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](134, "div", 43);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](135, "div", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](136, "div", 32);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](137, "div", 33);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](138, "h5", 34);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](139, "HOMO-16 D Vitamin D Combination for Diabetes Care: Fast Disintegrating Tablets ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](140, "button", 35);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](141, "span", 36);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](142, "\u00D7");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](143, "div", 37);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](144, "img", 44);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](145, "div", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](146, "button", 40);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](147, "Close");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](148, "div", 45);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](149, "div", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](150, "div", 32);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](151, "div", 33);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](152, "h5", 34);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](153, "TELFIRST 40 1ST Choice for Target BP Goals: 3 Significant Benefits for Better Patient Compliance ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](154, "button", 35);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](155, "span", 36);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](156, "\u00D7");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](157, "div", 37);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](158, "img", 46);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](159, "div", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](160, "button", 40);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](161, "Close");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](162, "div", 47);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](163, "div", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](164, "div", 32);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](165, "div", 33);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](166, "h5", 34);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](167, "GLIMFIRST MV1 M2/FORTE Dynamic Duo for Smart Control: Reduced Tablet Size and Affordability for Better Patient Compliance ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](168, "button", 35);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](169, "span", 36);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](170, "\u00D7");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](171, "div", 37);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](172, "img", 48);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](173, "div", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](174, "button", 40);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](175, "Close");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](176, "div", 49);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](177, "div", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](178, "div", 32);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](179, "div", 33);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](180, "h5", 34);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](181, "GLIMFIRST MV1 MV2 Dynamic Trio For PPG Control: Reduced Tablet Size for Better Patient Compliance ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](182, "button", 35);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](183, "span", 36);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](184, "\u00D7");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](185, "div", 37);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](186, "img", 50);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](187, "div", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](188, "button", 40);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](189, "Close");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](123, "div", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](124, "button", 32);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](125, "Close");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -4308,7 +4263,7 @@ class ContactComponent {
     }
 }
 ContactComponent.ɵfac = function ContactComponent_Factory(t) { return new (t || ContactComponent)(); };
-ContactComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ContactComponent, selectors: [["app-contact"]], decls: 232, vars: 0, consts: [["data-stellar-background-ratio", "0.5", 1, "hero-wrap", "hero-wrap-2", "heroBreadcrumb", 2, "background-image", "url('assets/images/breadcums/contact.jpg')", "background-position", "50% -66px"], [1, "overlay"], [1, "container"], [1, "row", "no-gutters", "slider-text", "align-items-end", "justify-content-start"], [1, "col-md-9", "ftco-animate", "pb-5", "fadeInUp", "ftco-animated"], [1, "mb-3", "bread", 2, "color", "white"], [1, "ftco-section", "contact-section"], [1, "row", "d-flex", "contact-info", "mb-5"], [1, "col-md-6", "col-lg-4", "d-flex", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "align-self-stretch", "box", "p-2", "text-center", "bg-light"], [1, "icon", "d-flex", "align-items-center", "justify-content-center"], [1, "fa", "fa-address-card-o"], [1, "mb-2"], [1, "m-0"], [1, "fa", "fa-phone"], ["href", "tel://1234567920"], [1, "fa", "fa-envelope"], ["href", "mailto:sinsanpharma2007@gmail.com"], [1, "row", "no-gutters", "block-9"], [1, "col-md-6", "order-md-last", "d-flex"], ["action", "#", 1, "bg-light", "p-5", "contact-form"], [1, "form-group"], ["type", "text", "placeholder", "Your Name", 1, "form-control"], ["type", "text", "placeholder", "Your Email", 1, "form-control"], ["type", "text", "placeholder", "Subject", 1, "form-control"], ["name", "", "id", "", "cols", "30", "rows", "7", "placeholder", "Message", 1, "form-control"], ["type", "submit", "value", "Send Message", 1, "btn", "btn-secondary", "py-3", "px-5"], [1, "col-md-6", "d-flex"], ["src", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtrustConstantResourceUrl"]("https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15133.010288769876!2d73.8339696!3d18.5174851!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xec14bcc1ed9d9046!2sSinsan%20Pharmaceuticals%20Private%20Limited!5e0!3m2!1sen!2sin!4v1609683599665!5m2!1sen!2sin"), "width", "100%", "height", "100%", "frameborder", "0", "allowfullscreen", "", "aria-hidden", "false", "tabindex", "0", 2, "border", "0"], [1, "col-md-6", "d-none"], ["id", "map", 1, "bg-white", 2, "position", "relative", "overflow", "hidden"], [2, "height", "100%", "width", "100%", "position", "absolute", "top", "0px", "left", "0px", "background-color", "rgb(229, 227, 223)"], [1, "gm-style", 2, "position", "absolute", "z-index", "0", "left", "0px", "top", "0px", "height", "100%", "width", "100%", "padding", "0px", "border-width", "0px", "margin", "0px"], ["tabindex", "0", "aria-label", "Map", "aria-roledescription", "map", "role", "img", 2, "position", "absolute", "z-index", "0", "left", "0px", "top", "0px", "height", "100%", "width", "100%", "padding", "0px", "border-width", "0px", "margin", "0px", "cursor", "url(\"https://maps.gstatic.com/mapfiles/openhand_8_8.cur\"), default", "touch-action", "pan-x pan-y"], [2, "z-index", "1", "position", "absolute", "left", "50%", "top", "50%", "width", "100%", "transform", "translate(0px, 0px)"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "100", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "0"], [2, "position", "absolute", "z-index", "993", "transform", "matrix(1, 0, 0, 1, -181, -34)"], [2, "position", "absolute", "left", "0px", "top", "0px", "width", "256px", "height", "256px"], [2, "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "-256px", "top", "0px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "-256px", "top", "-256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "0px", "top", "-256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "256px", "top", "-256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "256px", "top", "0px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "256px", "top", "256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "0px", "top", "256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "-256px", "top", "256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "-256px", "top", "-512px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "0px", "top", "-512px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "256px", "top", "-512px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "101", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "102", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "103", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "-1"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "0px", "top", "0px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "-256px", "top", "0px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "-256px", "top", "-256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "0px", "top", "-256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "256px", "top", "-256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "256px", "top", "0px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "256px", "top", "256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "0px", "top", "256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "-256px", "top", "256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "-256px", "top", "-512px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "0px", "top", "-512px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "256px", "top", "-512px"], [2, "position", "absolute", "left", "0px", "top", "0px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i37!3i48!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=90213", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "-256px", "top", "0px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i36!3i48!4i256!2m3!1e0!2sm!3i536259286!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=104903", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "-256px", "top", "-256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i36!3i47!4i256!2m3!1e0!2sm!3i536259274!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=64348", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "0px", "top", "-256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i37!3i47!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=120441", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "256px", "top", "-256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i38!3i47!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=85998", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "256px", "top", "0px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i38!3i48!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=55770", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "0px", "top", "256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i37!3i49!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=59985", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "256px", "top", "256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i38!3i49!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=25542", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "-256px", "top", "256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i36!3i49!4i256!2m3!1e0!2sm!3i536259286!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=74675", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "-256px", "top", "-512px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i36!3i46!4i256!2m3!1e0!2sm!3i536259274!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=94576", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "256px", "top", "-512px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i38!3i46!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=116226", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "0px", "top", "-512px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i37!3i46!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=19598", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [1, "gm-style-pbc", 2, "z-index", "2", "position", "absolute", "height", "100%", "width", "100%", "padding", "0px", "border-width", "0px", "margin", "0px", "left", "0px", "top", "0px", "opacity", "0"], [1, "gm-style-pbt"], [2, "z-index", "3", "position", "absolute", "height", "100%", "width", "100%", "padding", "0px", "border-width", "0px", "margin", "0px", "left", "0px", "top", "0px", "touch-action", "pan-x pan-y"], [2, "z-index", "4", "position", "absolute", "left", "50%", "top", "50%", "width", "100%", "transform", "translate(0px, 0px)"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "104", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "105", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "106", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "107", "width", "100%"], ["aria-hidden", "true", "frameborder", "0", "tabindex", "-1", 2, "z-index", "-1", "position", "absolute", "width", "100%", "height", "100%", "top", "0px", "left", "0px", "border", "none"], [2, "pointer-events", "none", "width", "100%", "height", "100%", "box-sizing", "border-box", "position", "absolute", "z-index", "1000002", "opacity", "0", "border", "2px solid rgb(26, 115, 232)"], ["draggable", "false", "title", "Toggle fullscreen view", "aria-label", "Toggle fullscreen view", "type", "button", 1, "gm-control-active", "gm-fullscreen-control", 2, "background", "none rgb(255, 255, 255)", "border", "0px", "margin", "10px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "absolute", "cursor", "pointer", "user-select", "none", "border-radius", "2px", "height", "40px", "width", "40px", "box-shadow", "rgba(0, 0, 0, 0.3) 0px 1px 4px -1px", "overflow", "hidden", "top", "0px", "right", "0px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["draggable", "false", "controlwidth", "40", "controlheight", "81", 1, "gmnoprint", "gm-bundled-control", "gm-bundled-control-on-bottom", 2, "margin", "10px", "user-select", "none", "position", "absolute", "bottom", "95px", "right", "40px"], ["controlwidth", "40", "controlheight", "40", 1, "gmnoprint", 2, "display", "none", "position", "absolute"], [2, "width", "40px", "height", "40px"], ["draggable", "false", "title", "Rotate map 90 degrees", "aria-label", "Rotate map 90 degrees", "type", "button", 1, "gm-control-active", 2, "background", "none rgb(255, 255, 255)", "display", "none", "border", "0px", "margin", "0px 0px 32px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "relative", "cursor", "pointer", "user-select", "none", "width", "40px", "height", "40px", "top", "0px", "left", "0px", "overflow", "hidden", "box-shadow", "rgba(0, 0, 0, 0.3) 0px 1px 4px -1px", "border-radius", "2px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "height", "18px", "width", "18px"], ["draggable", "false", "title", "Tilt map", "aria-label", "Tilt map", "type", "button", 1, "gm-tilt", "gm-control-active", 2, "background", "none rgb(255, 255, 255)", "display", "block", "border", "0px", "margin", "0px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "relative", "cursor", "pointer", "user-select", "none", "width", "40px", "height", "40px", "top", "0px", "left", "0px", "overflow", "hidden", "box-shadow", "rgba(0, 0, 0, 0.3) 0px 1px 4px -1px", "border-radius", "2px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "width", "18px"], ["controlwidth", "40", "controlheight", "81", 1, "gmnoprint", 2, "position", "absolute", "left", "0px", "top", "0px"], ["draggable", "false", 2, "user-select", "none", "box-shadow", "rgba(0, 0, 0, 0.3) 0px 1px 4px -1px", "border-radius", "2px", "cursor", "pointer", "background-color", "rgb(255, 255, 255)", "width", "40px", "height", "81px"], ["draggable", "false", "title", "Zoom in", "aria-label", "Zoom in", "type", "button", 1, "gm-control-active", 2, "background", "none", "display", "block", "border", "0px", "margin", "0px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "relative", "cursor", "pointer", "user-select", "none", "overflow", "hidden", "width", "40px", "height", "40px", "top", "0px", "left", "0px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23666%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23333%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23111%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], [2, "position", "relative", "overflow", "hidden", "width", "30px", "height", "1px", "margin", "0px 5px", "background-color", "rgb(230, 230, 230)", "top", "0px"], ["draggable", "false", "title", "Zoom out", "aria-label", "Zoom out", "type", "button", 1, "gm-control-active", 2, "background", "none", "display", "block", "border", "0px", "margin", "0px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "relative", "cursor", "pointer", "user-select", "none", "overflow", "hidden", "width", "40px", "height", "40px", "top", "0px", "left", "0px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], [2, "margin-left", "5px", "margin-right", "5px", "z-index", "1000000", "position", "absolute", "left", "0px", "bottom", "0px"], ["target", "_blank", "rel", "noopener", "href", "https://maps.google.com/maps?ll=40.69847,-73.951442&z=7&t=m&hl=en-US&gl=US&mapclient=apiv3", "title", "Open this area in Google Maps (opens a new window)", 2, "position", "static", "overflow", "visible", "float", "none", "display", "inline"], [2, "width", "66px", "height", "26px", "cursor", "pointer"], ["alt", "", "src", "https://maps.gstatic.com/mapfiles/api-3/images/google_white5.png", "draggable", "false", 2, "position", "absolute", "left", "0px", "top", "0px", "width", "66px", "height", "26px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px"], [1, "gmnoprint", 2, "z-index", "1000001", "position", "absolute", "right", "71px", "bottom", "0px", "width", "121px"], ["draggable", "false", 1, "gm-style-cc", 2, "user-select", "none", "height", "14px", "line-height", "14px"], [2, "opacity", "0.7", "width", "100%", "height", "100%", "position", "absolute"], [2, "width", "1px"], [2, "background-color", "rgb(245, 245, 245)", "width", "auto", "height", "100%", "margin-left", "1px"], [2, "position", "relative", "padding-right", "6px", "padding-left", "6px", "box-sizing", "border-box", "font-family", "Roboto, Arial, sans-serif", "font-size", "10px", "color", "rgb(0, 0, 0)", "white-space", "nowrap", "direction", "ltr", "text-align", "right", "vertical-align", "middle", "display", "inline-block"], [2, "text-decoration", "none", "cursor", "pointer", "display", "none"], ["draggable", "false", 1, "gmnoprint", "gm-style-cc", 2, "z-index", "1000001", "user-select", "none", "height", "14px", "line-height", "14px", "position", "absolute", "right", "0px", "bottom", "0px"], ["href", "https://www.google.com/intl/en-US_US/help/terms_maps.html", "target", "_blank", "rel", "noopener", 2, "text-decoration", "none", "cursor", "pointer", "color", "rgb(0, 0, 0)"], ["draggable", "false", 1, "gm-style-cc", 2, "user-select", "none", "height", "14px", "line-height", "14px", "display", "none", "position", "absolute", "right", "0px", "bottom", "0px"], ["target", "_blank", "rel", "noopener", "title", "Report errors in the road map or imagery to Google", "dir", "ltr", "href", "https://www.google.com/maps/@40.6984703,-73.9514422,7z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3", 2, "font-family", "Roboto, Arial, sans-serif", "font-size", "10px", "color", "rgb(0, 0, 0)", "text-decoration", "none", "position", "relative"], [1, "gmnoscreen", 2, "position", "absolute", "right", "0px", "bottom", "0px"], [2, "font-family", "Roboto, Arial, sans-serif", "font-size", "11px", "color", "rgb(0, 0, 0)", "direction", "ltr", "text-align", "right", "background-color", "rgb(245, 245, 245)"], [2, "background-color", "white", "padding", "15px 21px", "border", "1px solid rgb(171, 171, 171)", "font-family", "Roboto, Arial, sans-serif", "color", "rgb(34, 34, 34)", "box-sizing", "border-box", "box-shadow", "rgba(0, 0, 0, 0.2) 0px 4px 16px", "z-index", "10000002", "display", "none", "width", "300px", "height", "180px", "position", "absolute", "left", "128px", "top", "210px"], [2, "padding", "0px 0px 10px", "font-size", "16px", "box-sizing", "border-box"], [2, "font-size", "13px"], ["draggable", "false", "title", "Close", "aria-label", "Close", "type", "button", 1, "gm-ui-hover-effect", 2, "background", "none", "display", "block", "border", "0px", "margin", "0px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "absolute", "cursor", "pointer", "user-select", "none", "top", "0px", "right", "0px", "width", "37px", "height", "37px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224px%22%20height%3D%2224px%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22%23000000%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M19%206.41L17.59%205%2012%2010.59%206.41%205%205%206.41%2010.59%2012%205%2017.59%206.41%2019%2012%2013.41%2017.59%2019%2019%2017.59%2013.41%2012z%22%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M0%200h24v24H0z%22%20fill%3D%22none%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "pointer-events", "none", "display", "block", "width", "13px", "height", "13px", "margin", "12px"], [2, "background-color", "white", "font-weight", "500", "font-family", "Roboto, sans-serif", "padding", "15px 25px", "box-sizing", "border-box", "top", "5px", "border", "1px solid rgba(0, 0, 0, 0.12)", "border-radius", "5px", "left", "50%", "max-width", "375px", "position", "absolute", "transform", "translateX(-50%)", "width", "calc(100% - 10px)", "z-index", "1"], ["alt", "", "src", "https://maps.gstatic.com/mapfiles/api-3/images/google_gray.svg", "draggable", "false", 2, "padding", "0px", "margin", "0px", "border", "0px", "height", "17px", "vertical-align", "middle", "width", "52px", "user-select", "none"], [2, "line-height", "20px", "margin", "15px 0px"], [2, "color", "rgba(0, 0, 0, 0.87)", "font-size", "14px"], [2, "width", "100%"], [2, "line-height", "16px", "vertical-align", "middle"], ["href", "https://developers.google.com/maps/documentation/javascript/error-messages?utm_source=maps_js&utm_medium=degraded&utm_campaign=billing#api-key-and-billing-errors", "target", "_blank", "rel", "noopener", 2, "color", "rgba(0, 0, 0, 0.54)", "font-size", "12px"], [2, "text-align", "right"], [1, "dismissButton"]], template: function ContactComponent_Template(rf, ctx) { if (rf & 1) {
+ContactComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ContactComponent, selectors: [["app-contact"]], decls: 232, vars: 0, consts: [["data-stellar-background-ratio", "0.5", 1, "hero-wrap", "hero-wrap-2", "heroBreadcrumb", 2, "background-image", "url('assets/images/breadcums/contact.jpg')", "background-position", "50% -66px"], [1, "overlay"], [1, "container"], [1, "row", "no-gutters", "slider-text", "align-items-end", "justify-content-start"], [1, "col-md-9", "ftco-animate", "pb-5", "fadeInUp", "ftco-animated"], [1, "mb-3", "bread", 2, "color", "white"], [1, "ftco-section", "contact-section"], [1, "row", "d-flex", "contact-info", "mb-5"], [1, "col-md-6", "col-lg-4", "d-flex", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "align-self-stretch", "box", "p-2", "text-center", "bg-light"], [1, "icon", "d-flex", "align-items-center", "justify-content-center"], [1, "fa", "fa-address-card-o"], [1, "mb-2"], [1, "m-0"], [1, "fa", "fa-phone"], ["href", "tel://1234567920"], [1, "fa", "fa-envelope"], ["href", "mailto:sinsanpharma2007@gmail.com"], [1, "row", "no-gutters", "block-9"], [1, "col-md-6", "order-md-last", "d-flex"], ["action", "#", 1, "bg-light", "p-5", "contact-form"], [1, "form-group"], ["type", "text", "placeholder", "Your Name", 1, "form-control"], ["type", "text", "placeholder", "Your Email", 1, "form-control"], ["type", "text", "placeholder", "Subject", 1, "form-control"], ["name", "", "id", "", "cols", "30", "rows", "7", "placeholder", "Message", 1, "form-control"], ["type", "submit", "value", "Send Message", 1, "btn", "btn-secondary", "py-3", "px-5"], [1, "col-md-6", "d-flex"], ["src", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtrustConstantResourceUrl"]("https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d30142.59343743123!2d72.8359055!3d19.2028802!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b7327b50f833%3A0xf42c2d915ce22000!2sWestern%20Edge%20II!5e0!3m2!1sen!2sin!4v1715823292246!5m2!1sen!2sin"), "width", "100%", "height", "100%", "frameborder", "0", "allowfullscreen", "", "aria-hidden", "false", "tabindex", "0", 2, "border", "0"], [1, "col-md-6", "d-none"], ["id", "map", 1, "bg-white", 2, "position", "relative", "overflow", "hidden"], [2, "height", "100%", "width", "100%", "position", "absolute", "top", "0px", "left", "0px", "background-color", "rgb(229, 227, 223)"], [1, "gm-style", 2, "position", "absolute", "z-index", "0", "left", "0px", "top", "0px", "height", "100%", "width", "100%", "padding", "0px", "border-width", "0px", "margin", "0px"], ["tabindex", "0", "aria-label", "Map", "aria-roledescription", "map", "role", "img", 2, "position", "absolute", "z-index", "0", "left", "0px", "top", "0px", "height", "100%", "width", "100%", "padding", "0px", "border-width", "0px", "margin", "0px", "cursor", "url(\"https://maps.gstatic.com/mapfiles/openhand_8_8.cur\"), default", "touch-action", "pan-x pan-y"], [2, "z-index", "1", "position", "absolute", "left", "50%", "top", "50%", "width", "100%", "transform", "translate(0px, 0px)"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "100", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "0"], [2, "position", "absolute", "z-index", "993", "transform", "matrix(1, 0, 0, 1, -181, -34)"], [2, "position", "absolute", "left", "0px", "top", "0px", "width", "256px", "height", "256px"], [2, "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "-256px", "top", "0px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "-256px", "top", "-256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "0px", "top", "-256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "256px", "top", "-256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "256px", "top", "0px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "256px", "top", "256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "0px", "top", "256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "-256px", "top", "256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "-256px", "top", "-512px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "0px", "top", "-512px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "256px", "top", "-512px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "101", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "102", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "103", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "-1"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "0px", "top", "0px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "-256px", "top", "0px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "-256px", "top", "-256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "0px", "top", "-256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "256px", "top", "-256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "256px", "top", "0px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "256px", "top", "256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "0px", "top", "256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "-256px", "top", "256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "-256px", "top", "-512px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "0px", "top", "-512px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "256px", "top", "-512px"], [2, "position", "absolute", "left", "0px", "top", "0px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i37!3i48!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=90213", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "-256px", "top", "0px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i36!3i48!4i256!2m3!1e0!2sm!3i536259286!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=104903", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "-256px", "top", "-256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i36!3i47!4i256!2m3!1e0!2sm!3i536259274!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=64348", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "0px", "top", "-256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i37!3i47!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=120441", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "256px", "top", "-256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i38!3i47!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=85998", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "256px", "top", "0px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i38!3i48!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=55770", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "0px", "top", "256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i37!3i49!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=59985", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "256px", "top", "256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i38!3i49!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=25542", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "-256px", "top", "256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i36!3i49!4i256!2m3!1e0!2sm!3i536259286!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=74675", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "-256px", "top", "-512px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i36!3i46!4i256!2m3!1e0!2sm!3i536259274!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=94576", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "256px", "top", "-512px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i38!3i46!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=116226", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "0px", "top", "-512px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i37!3i46!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=19598", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [1, "gm-style-pbc", 2, "z-index", "2", "position", "absolute", "height", "100%", "width", "100%", "padding", "0px", "border-width", "0px", "margin", "0px", "left", "0px", "top", "0px", "opacity", "0"], [1, "gm-style-pbt"], [2, "z-index", "3", "position", "absolute", "height", "100%", "width", "100%", "padding", "0px", "border-width", "0px", "margin", "0px", "left", "0px", "top", "0px", "touch-action", "pan-x pan-y"], [2, "z-index", "4", "position", "absolute", "left", "50%", "top", "50%", "width", "100%", "transform", "translate(0px, 0px)"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "104", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "105", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "106", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "107", "width", "100%"], ["aria-hidden", "true", "frameborder", "0", "tabindex", "-1", 2, "z-index", "-1", "position", "absolute", "width", "100%", "height", "100%", "top", "0px", "left", "0px", "border", "none"], [2, "pointer-events", "none", "width", "100%", "height", "100%", "box-sizing", "border-box", "position", "absolute", "z-index", "1000002", "opacity", "0", "border", "2px solid rgb(26, 115, 232)"], ["draggable", "false", "title", "Toggle fullscreen view", "aria-label", "Toggle fullscreen view", "type", "button", 1, "gm-control-active", "gm-fullscreen-control", 2, "background", "none rgb(255, 255, 255)", "border", "0px", "margin", "10px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "absolute", "cursor", "pointer", "user-select", "none", "border-radius", "2px", "height", "40px", "width", "40px", "box-shadow", "rgba(0, 0, 0, 0.3) 0px 1px 4px -1px", "overflow", "hidden", "top", "0px", "right", "0px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["draggable", "false", "controlwidth", "40", "controlheight", "81", 1, "gmnoprint", "gm-bundled-control", "gm-bundled-control-on-bottom", 2, "margin", "10px", "user-select", "none", "position", "absolute", "bottom", "95px", "right", "40px"], ["controlwidth", "40", "controlheight", "40", 1, "gmnoprint", 2, "display", "none", "position", "absolute"], [2, "width", "40px", "height", "40px"], ["draggable", "false", "title", "Rotate map 90 degrees", "aria-label", "Rotate map 90 degrees", "type", "button", 1, "gm-control-active", 2, "background", "none rgb(255, 255, 255)", "display", "none", "border", "0px", "margin", "0px 0px 32px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "relative", "cursor", "pointer", "user-select", "none", "width", "40px", "height", "40px", "top", "0px", "left", "0px", "overflow", "hidden", "box-shadow", "rgba(0, 0, 0, 0.3) 0px 1px 4px -1px", "border-radius", "2px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "height", "18px", "width", "18px"], ["draggable", "false", "title", "Tilt map", "aria-label", "Tilt map", "type", "button", 1, "gm-tilt", "gm-control-active", 2, "background", "none rgb(255, 255, 255)", "display", "block", "border", "0px", "margin", "0px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "relative", "cursor", "pointer", "user-select", "none", "width", "40px", "height", "40px", "top", "0px", "left", "0px", "overflow", "hidden", "box-shadow", "rgba(0, 0, 0, 0.3) 0px 1px 4px -1px", "border-radius", "2px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "width", "18px"], ["controlwidth", "40", "controlheight", "81", 1, "gmnoprint", 2, "position", "absolute", "left", "0px", "top", "0px"], ["draggable", "false", 2, "user-select", "none", "box-shadow", "rgba(0, 0, 0, 0.3) 0px 1px 4px -1px", "border-radius", "2px", "cursor", "pointer", "background-color", "rgb(255, 255, 255)", "width", "40px", "height", "81px"], ["draggable", "false", "title", "Zoom in", "aria-label", "Zoom in", "type", "button", 1, "gm-control-active", 2, "background", "none", "display", "block", "border", "0px", "margin", "0px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "relative", "cursor", "pointer", "user-select", "none", "overflow", "hidden", "width", "40px", "height", "40px", "top", "0px", "left", "0px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23666%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23333%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23111%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], [2, "position", "relative", "overflow", "hidden", "width", "30px", "height", "1px", "margin", "0px 5px", "background-color", "rgb(230, 230, 230)", "top", "0px"], ["draggable", "false", "title", "Zoom out", "aria-label", "Zoom out", "type", "button", 1, "gm-control-active", 2, "background", "none", "display", "block", "border", "0px", "margin", "0px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "relative", "cursor", "pointer", "user-select", "none", "overflow", "hidden", "width", "40px", "height", "40px", "top", "0px", "left", "0px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], [2, "margin-left", "5px", "margin-right", "5px", "z-index", "1000000", "position", "absolute", "left", "0px", "bottom", "0px"], ["target", "_blank", "rel", "noopener", "href", "https://maps.google.com/maps?ll=40.69847,-73.951442&z=7&t=m&hl=en-US&gl=US&mapclient=apiv3", "title", "Open this area in Google Maps (opens a new window)", 2, "position", "static", "overflow", "visible", "float", "none", "display", "inline"], [2, "width", "66px", "height", "26px", "cursor", "pointer"], ["alt", "", "src", "https://maps.gstatic.com/mapfiles/api-3/images/google_white5.png", "draggable", "false", 2, "position", "absolute", "left", "0px", "top", "0px", "width", "66px", "height", "26px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px"], [1, "gmnoprint", 2, "z-index", "1000001", "position", "absolute", "right", "71px", "bottom", "0px", "width", "121px"], ["draggable", "false", 1, "gm-style-cc", 2, "user-select", "none", "height", "14px", "line-height", "14px"], [2, "opacity", "0.7", "width", "100%", "height", "100%", "position", "absolute"], [2, "width", "1px"], [2, "background-color", "rgb(245, 245, 245)", "width", "auto", "height", "100%", "margin-left", "1px"], [2, "position", "relative", "padding-right", "6px", "padding-left", "6px", "box-sizing", "border-box", "font-family", "Roboto, Arial, sans-serif", "font-size", "10px", "color", "rgb(0, 0, 0)", "white-space", "nowrap", "direction", "ltr", "text-align", "right", "vertical-align", "middle", "display", "inline-block"], [2, "text-decoration", "none", "cursor", "pointer", "display", "none"], ["draggable", "false", 1, "gmnoprint", "gm-style-cc", 2, "z-index", "1000001", "user-select", "none", "height", "14px", "line-height", "14px", "position", "absolute", "right", "0px", "bottom", "0px"], ["href", "https://www.google.com/intl/en-US_US/help/terms_maps.html", "target", "_blank", "rel", "noopener", 2, "text-decoration", "none", "cursor", "pointer", "color", "rgb(0, 0, 0)"], ["draggable", "false", 1, "gm-style-cc", 2, "user-select", "none", "height", "14px", "line-height", "14px", "display", "none", "position", "absolute", "right", "0px", "bottom", "0px"], ["target", "_blank", "rel", "noopener", "title", "Report errors in the road map or imagery to Google", "dir", "ltr", "href", "https://www.google.com/maps/@40.6984703,-73.9514422,7z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3", 2, "font-family", "Roboto, Arial, sans-serif", "font-size", "10px", "color", "rgb(0, 0, 0)", "text-decoration", "none", "position", "relative"], [1, "gmnoscreen", 2, "position", "absolute", "right", "0px", "bottom", "0px"], [2, "font-family", "Roboto, Arial, sans-serif", "font-size", "11px", "color", "rgb(0, 0, 0)", "direction", "ltr", "text-align", "right", "background-color", "rgb(245, 245, 245)"], [2, "background-color", "white", "padding", "15px 21px", "border", "1px solid rgb(171, 171, 171)", "font-family", "Roboto, Arial, sans-serif", "color", "rgb(34, 34, 34)", "box-sizing", "border-box", "box-shadow", "rgba(0, 0, 0, 0.2) 0px 4px 16px", "z-index", "10000002", "display", "none", "width", "300px", "height", "180px", "position", "absolute", "left", "128px", "top", "210px"], [2, "padding", "0px 0px 10px", "font-size", "16px", "box-sizing", "border-box"], [2, "font-size", "13px"], ["draggable", "false", "title", "Close", "aria-label", "Close", "type", "button", 1, "gm-ui-hover-effect", 2, "background", "none", "display", "block", "border", "0px", "margin", "0px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "absolute", "cursor", "pointer", "user-select", "none", "top", "0px", "right", "0px", "width", "37px", "height", "37px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224px%22%20height%3D%2224px%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22%23000000%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M19%206.41L17.59%205%2012%2010.59%206.41%205%205%206.41%2010.59%2012%205%2017.59%206.41%2019%2012%2013.41%2017.59%2019%2019%2017.59%2013.41%2012z%22%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M0%200h24v24H0z%22%20fill%3D%22none%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "pointer-events", "none", "display", "block", "width", "13px", "height", "13px", "margin", "12px"], [2, "background-color", "white", "font-weight", "500", "font-family", "Roboto, sans-serif", "padding", "15px 25px", "box-sizing", "border-box", "top", "5px", "border", "1px solid rgba(0, 0, 0, 0.12)", "border-radius", "5px", "left", "50%", "max-width", "375px", "position", "absolute", "transform", "translateX(-50%)", "width", "calc(100% - 10px)", "z-index", "1"], ["alt", "", "src", "https://maps.gstatic.com/mapfiles/api-3/images/google_gray.svg", "draggable", "false", 2, "padding", "0px", "margin", "0px", "border", "0px", "height", "17px", "vertical-align", "middle", "width", "52px", "user-select", "none"], [2, "line-height", "20px", "margin", "15px 0px"], [2, "color", "rgba(0, 0, 0, 0.87)", "font-size", "14px"], [2, "width", "100%"], [2, "line-height", "16px", "vertical-align", "middle"], ["href", "https://developers.google.com/maps/documentation/javascript/error-messages?utm_source=maps_js&utm_medium=degraded&utm_campaign=billing#api-key-and-billing-errors", "target", "_blank", "rel", "noopener", 2, "color", "rgba(0, 0, 0, 0.54)", "font-size", "12px"], [2, "text-align", "right"], [1, "dismissButton"]], template: function ContactComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -4333,11 +4288,13 @@ ContactComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, "Address");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "p", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, "M/S Sinsan Pharmaceuticals Pvt.Ltd., B/1107,\u00A0The\u00A0Western\u00A0Edge\u00A0II\u00A0Premises\u00A0");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](18, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "Co-Op\u00A0Soc.\u00A0Ltd., off W E Highway, Behind Metro, Borivali (East),");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](20, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, " Mumbai \u2013 400 066 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, "Sinsan Pharmaceuticals Pvt Ltd. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "p", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "Sales & Marketing Office ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "p", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "M/S Sinsan Pharmaceuticals Pvt.Ltd., B 1004 Western Express Highway, Magathane, Food Corporation of India Warehouse, Borivali East, Mumbai, Maharashtra 400066 ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -4749,7 +4706,7 @@ const arr = [
         "companyName": "KAIZER",
         "department": "Anti-Diabetic",
         "productName": "TENLIP M/M FORTE",
-        "composition": "Each uncoated bilayered tablet contains Teneligliptin Hydrobromide Hydrate eq. to tenegliptin 20mg + Metformin Hydrochloride I.P 500mg/1000mg (as sustained release forms)",
+        "composition": "Each uncoated bilayered tablet contains Teneligliptin Hydrobromide Hydrate eq. to Teneligliptin 20mg + Metformin Hydrochloride I.P 500mg/1000mg (as sustained release forms)",
         "indication": "In Uncontrolled T2DM",
         "packing": "10*15 Alu-Alu",
     },
