@@ -564,7 +564,7 @@ HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](224, "div");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](225, "a");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](226, "span", 102);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](227, "May 05, 2024");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](227, "Sept 2023");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -591,7 +591,7 @@ HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](240, "div");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](241, "a");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](242, "span", 102);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](243, "May 05, 2024");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](243, "Feb 2024");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1041,7 +1041,7 @@ class HeaderComponent {
     }
 }
 HeaderComponent.ɵfac = function HeaderComponent_Factory(t) { return new (t || HeaderComponent)(); };
-HeaderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HeaderComponent, selectors: [["app-header"]], decls: 119, vars: 0, consts: [[1, "py-1", "top", "d-none"], [1, "container"], [1, "row"], [1, "col-sm", "text-center", "text-md-left", "mb-md-0", "mb-2", "pr-md-4", "d-flex", "topper", "align-items-center"], [1, "mb-0", "w-100"], [1, "fa", "fa-paper-plane"], [1, "text"], [1, "col-sm", "justify-content-center", "d-flex", "mb-md-0", "mb-2"], [1, "social-media"], [1, "mb-0", "d-flex"], ["href", "#", 1, "d-flex", "align-items-center", "justify-content-center"], [1, "fa", "fa-facebook"], [1, "sr-only"], [1, "fa", "fa-twitter"], [1, "fa", "fa-instagram"], [1, "fa", "fa-dribbble"], [1, "py-3"], [1, "container-flux"], [1, "row", "d-flex", "align-items-start", "align-items-center", "px-3", "px-md-0"], [1, "col-md-2", "d-flex", "mb-2", "mb-md-0"], ["routerLink", "home", 1, "navbar-brand", "d-flex", "align-items-start"], [1, ""], ["src", "../../../assets/images/Sinsan.jpg", "width", "250px", "height", "auto", "alt", ""], [1, "col-md-2", "d-flex", "topper", "mb-md-0", "mb-2", "align-items-center"], [1, "icon", "d-flex", "justify-content-center", "align-items-center"], [1, "fa", "fa-phone"], [1, "pr-md-2", "pl-md-3", "pl-3", "text"], [1, "con"], [1, "col-md-2", "d-flex", "topper", "mb-md-0", "align-items-center", "address"], [1, "fa", "fa-map-marker"], [1, "text", "pl-3", "pl-md-3"], [1, "hr"], [1, "text", "pl-2", "pl-md-2"], [1, "col-md-2", "d-flex", "topper", "mb-md-0", "align-items-center", "justify-content-center"], ["routerLink", "home", 1, "navbar-brand"], ["src", "../../../assets/images/qr-code.png", "width", "130px", "height", "auto", "alt", ""], [2, "font-size", "18px", "text-transform", "capitalize"], ["id", "ftco-navbar", 1, "navbar", "navbar-expand-lg", "ftco-navbar-light"], [1, "container", "d-flex", "align-items-center"], ["type", "button", "data-toggle", "collapse", "data-target", "#exCollapsingNavbar2", "aria-expanded", "false", "aria-label", "Toggle navigation", 1, "navbar-toggler"], [1, "fa", "fa-bars"], ["id", "exCollapsingNavbar2", 1, "collapse", "navbar-collapse"], [1, "nav", "navbar-nav", "ml-auto", "leftNav", "pt-2"], [1, "nav-item"], ["routerLink", "/home", "routerLinkActive", "actives", 1, "nav-link"], [1, "nav-item", "dropdown"], ["data-toggle", "dropdown", "aria-haspopup", "true", "aria-expanded", "false", "id", "navbarDropdownMenuLink2", "routerLinkActive", "actives", 1, "nav-link", "dropdown-toggle"], ["aria-labelledby", "navbarDropdownMenuLink2", 1, "dropdown-menu"], ["routerLink", "/aboutus", 1, "dropdown-item"], [1, "dropdown-divider"], ["routerLink", "/milestone", 1, "dropdown-item", 2, "cursor", "pointer"], ["routerLink", "/therapy-areas", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/product-portfolio", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/updates", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/gallery", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/careers", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/contactus", "routerLinkActive", "actives", 1, "nav-link"]], template: function HeaderComponent_Template(rf, ctx) { if (rf & 1) {
+HeaderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HeaderComponent, selectors: [["app-header"]], decls: 114, vars: 0, consts: [[1, "py-1", "top", "d-none"], [1, "container"], [1, "row"], [1, "col-sm", "text-center", "text-md-left", "mb-md-0", "mb-2", "pr-md-4", "d-flex", "topper", "align-items-center"], [1, "mb-0", "w-100"], [1, "fa", "fa-paper-plane"], [1, "text"], [1, "col-sm", "justify-content-center", "d-flex", "mb-md-0", "mb-2"], [1, "social-media"], [1, "mb-0", "d-flex"], ["href", "#", 1, "d-flex", "align-items-center", "justify-content-center"], [1, "fa", "fa-facebook"], [1, "sr-only"], [1, "fa", "fa-twitter"], [1, "fa", "fa-instagram"], [1, "fa", "fa-dribbble"], [1, "py-3"], [1, "container-flux"], [1, "row", "d-flex", "align-items-start", "align-items-center", "px-3", "px-md-0"], [1, "col-md-2", "d-flex", "mb-2", "mb-md-0"], ["routerLink", "home", 1, "navbar-brand", "d-flex", "align-items-start"], [1, ""], ["src", "../../../assets/images/Sinsan.jpg", "width", "250px", "height", "auto", "alt", ""], [1, "col-md-2", "d-flex", "topper", "mb-md-0", "mb-2", "align-items-center"], [1, "icon", "d-flex", "justify-content-center", "align-items-center"], [1, "fa", "fa-envelope"], [1, "pr-md-2", "pl-md-3", "pl-3", "text"], [1, "con"], [1, "col-md-2", "d-flex", "topper", "mb-md-0", "align-items-center", "address", 2, "padding-left", "25px"], [1, "fa", "fa-map-marker"], [1, "text", "pl-3", "pl-md-3"], [1, "hr"], [1, "col-md-2", "d-flex", "topper", "mb-md-0", "align-items-center", "address"], [1, "text", "pl-2", "pl-md-2"], [1, "col-md-2", "d-flex", "topper", "mb-md-0", "align-items-center", "justify-content-center"], ["href", "https://hold.sinsanpharma.com/"], ["src", "../../../assets/images/qr-code.png", "width", "130px", "height", "auto", "alt", ""], [2, "font-size", "18px", "text-transform", "capitalize"], ["id", "ftco-navbar", 1, "navbar", "navbar-expand-lg", "ftco-navbar-light"], [1, "container", "d-flex", "align-items-center"], ["type", "button", "data-toggle", "collapse", "data-target", "#exCollapsingNavbar2", "aria-expanded", "false", "aria-label", "Toggle navigation", 1, "navbar-toggler"], [1, "fa", "fa-bars"], ["id", "exCollapsingNavbar2", 1, "collapse", "navbar-collapse"], [1, "nav", "navbar-nav", "ml-auto", "leftNav", "pt-2"], [1, "nav-item"], ["routerLink", "/home", "routerLinkActive", "actives", 1, "nav-link"], [1, "nav-item", "dropdown"], ["data-toggle", "dropdown", "aria-haspopup", "true", "aria-expanded", "false", "id", "navbarDropdownMenuLink2", "routerLinkActive", "actives", 1, "nav-link", "dropdown-toggle"], ["aria-labelledby", "navbarDropdownMenuLink2", 1, "dropdown-menu"], ["routerLink", "/aboutus", 1, "dropdown-item"], [1, "dropdown-divider"], ["routerLink", "/milestone", 1, "dropdown-item", 2, "cursor", "pointer"], ["routerLink", "/therapy-areas", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/product-portfolio", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/updates", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/gallery", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/careers", "routerLinkActive", "actives", 1, "nav-link"], ["routerLink", "/contactus", "routerLinkActive", "actives", 1, "nav-link"]], template: function HeaderComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -1108,134 +1108,126 @@ HeaderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](38, "div", 26);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "p", 27);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](41, " Call");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](43, " 020-25665800");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](41, "sinsanpharma2007@gmail.com");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](44, "div", 28);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "div", 24);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](46, "span", 29);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "div", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "div", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](44, "span", 29);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "div", 30);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](48, "p", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](50, "Registered Office Address: ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](51, "p", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](53, "Sinsan Pharmaceuticals Pvt Ltd.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "div", 30);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](46, "p", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](48, "Registered Office Address: ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](54, "p", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](55, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](56, "Sales & Marketing Office");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "p", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](50, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](51, "Sinsan Pharmaceuticals Pvt Ltd.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](57, "p", 27);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](58, "Godown # 01, Ground Floor, S. No. 44, \u00A0 H. No. 3/7/3/3, Near Matoshree Garden, Pisoli, Pune 411-028 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "p", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](53, "Godown No. 2, Gr. Floor, Matoshri Garden, Milkatcom No. 3117, Survey No. 44/3/7/3/3, Pisoli Road, Opp. Dharmvat Petrol Pump, Pisoli, Pune-411060. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](59, "div", 28);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](60, "div", 24);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](61, "span", 29);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](54, "div", 32);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](55, "div", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](56, "span", 29);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](62, "div", 32);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](63, "p", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](64, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](65, "Our Location");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](66, "p", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](68, "Sinsan Pharmaceuticals Pvt Ltd.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](57, "div", 33);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](58, "p", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](59, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](60, "Our Location");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](69, "p", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](71, "Sales & Marketing Office");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](61, "p", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](62, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](63, "Sinsan Pharmaceuticals Pvt Ltd.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](72, "p", 27);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](73, "B 1004 Western Express Highway, Magathane, Food Corporation of India Warehouse, Borivali East, Mumbai, Maharashtra 400066 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](64, "p", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](65, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](66, "Sales & Marketing Office");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "p", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](68, "B/1106, The Western Edge II Premises Co-op Soc Ltd., Off. W E Highway, Behind Metro Mall, Borivali East, Mumbai-400066. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "div", 33);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](75, "a", 34);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](76, "span", 21);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](78, "img", 35);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](69, "div", 34);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "a", 35);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](71, "span", 21);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](72, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](73, "img", 36);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](79, "p", 36);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](80, "small");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](81, " Patient Education Site");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "p", 37);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](75, "small");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](76, " Patient Education Site ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "nav", 37);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](83, "div", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](84, "button", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](85, "span", 40);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](86, " Menu ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "nav", 38);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](78, "div", 39);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](79, "button", 40);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](80, "span", 41);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](81, " Menu ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](87, "div", 41);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](88, "ul", 42);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](89, "li", 43);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](90, "a", 44);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](91, "Home");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](92, "li", 45);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](93, "a", 46);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](94, "About");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](95, "div", 47);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](96, "a", 48);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](97, "About Us");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](98, "div", 49);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](99, "a", 50);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](100, "Milestone");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "div", 42);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](83, "ul", 43);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](84, "li", 44);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](85, "a", 45);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](86, "Home");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](87, "li", 46);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](88, "a", 47);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](89, "About");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](101, "li", 43);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](102, "a", 51);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](103, "Therapy Areas");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](90, "div", 48);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](91, "a", 49);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](92, "About Us");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](104, "li", 43);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](105, "a", 52);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](106, "Product Portfolio");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](107, "li", 43);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](108, "a", 53);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](109, "Updates");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](93, "div", 50);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](94, "a", 51);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](95, "Milestone");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](110, "li", 43);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](111, "a", 54);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](112, "Gallery");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](96, "li", 44);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](97, "a", 52);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](98, "Therapy Areas");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](113, "li", 43);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](114, "a", 55);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](115, "Careers");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](99, "li", 44);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](100, "a", 53);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](101, "Product Portfolio");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](116, "li", 43);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](117, "a", 56);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](118, "Contact");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](102, "li", 44);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](103, "a", 54);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](104, "Updates");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](105, "li", 44);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](106, "a", 55);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](107, "Gallery");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](108, "li", 44);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](109, "a", 56);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](110, "Careers");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](111, "li", 44);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](112, "a", 57);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](113, "Contact");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1283,7 +1275,7 @@ class FooterComponent {
     }
 }
 FooterComponent.ɵfac = function FooterComponent_Factory(t) { return new (t || FooterComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_1__["Router"])); };
-FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: FooterComponent, selectors: [["app-footer"]], decls: 114, vars: 10, consts: [[1, "ftco-footer"], [1, "container"], [1, "row"], [1, "col-lg-3", "col-md-3"], [1, "ftco-footer-widget"], [1, "ftco-heading-2", "logo", "d-flex", "align-items-center"], ["routerLink", "home"], [1, ""], ["routerLink", "aboutus"], [1, "ftco-footer-social", "list-unstyled", "mt-4"], ["href", "https://www.linkedin.com/company/sinsan-pharmaceuticals-private-limited", "target", "_blank"], [1, "fa", "fa-linkedin"], ["href", "https://twitter.com/PharmaSinsan", "target", "_blank"], [1, "fa", "fa-twitter"], ["href", "https://www.facebook.com/Sinsanpharmaceutical", "target", "_blank"], [1, "fa", "fa-facebook"], ["href", "https://www.instagram.com/sinsanpharma/?hl=en", "target", "_blank"], [1, "fa", "fa-instagram"], [1, "ftco-heading-2"], [1, "list-unstyled"], ["fragment", "diabetology", 3, "routerLink"], [1, "fa", "fa-chevron-right", "mr-2"], ["fragment", "cardiology", 3, "routerLink"], ["fragment", "obesity", 3, "routerLink"], ["fragment", "gastroenterology", 3, "routerLink"], ["fragment", "others", 3, "routerLink"], [1, "col-lg-2", "col-md-2"], ["routerLink", "therapy-areas"], ["routerLink", "product-portfolio"], ["routerLink", "updates"], ["routerLink", "gallery"], ["routerLink", "careers"], [1, "col-lg-4", "col-md-4"], [1, "block-23", "mb-3"], [2, "color", "#000000"], [1, "fa", "fa-map-marker", "mr-3", 2, "color", "#0A939D"], [1, "text", 2, "color", "#000"], [1, "fa", "fa-phone", "mr-3", 2, "color", "#0A939D"], [1, "fa", "fa-paper-plane", "mr-3", 2, "color", "#0A939D"], ["href", "mailto:sinsanpharma2007@gmail.com"]], template: function FooterComponent_Template(rf, ctx) { if (rf & 1) {
+FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: FooterComponent, selectors: [["app-footer"]], decls: 109, vars: 10, consts: [[1, "ftco-footer"], [1, "container"], [1, "row"], [1, "col-lg-3", "col-md-3"], [1, "ftco-footer-widget"], [1, "ftco-heading-2", "logo", "d-flex", "align-items-center"], ["routerLink", "home"], [1, ""], ["routerLink", "aboutus"], [1, "ftco-footer-social", "list-unstyled", "mt-4"], ["href", "https://www.linkedin.com/company/sinsan-pharmaceuticals-private-limited", "target", "_blank"], [1, "fa", "fa-linkedin"], ["href", "https://twitter.com/PharmaSinsan", "target", "_blank"], [1, "fa", "fa-twitter"], ["href", "https://www.facebook.com/Sinsanpharmaceutical", "target", "_blank"], [1, "fa", "fa-facebook"], ["href", "https://www.instagram.com/sinsanpharma/?hl=en", "target", "_blank"], [1, "fa", "fa-instagram"], [1, "ftco-heading-2"], [1, "list-unstyled"], ["fragment", "diabetology", 3, "routerLink"], [1, "fa", "fa-chevron-right", "mr-2"], ["fragment", "cardiology", 3, "routerLink"], ["fragment", "obesity", 3, "routerLink"], ["fragment", "gastroenterology", 3, "routerLink"], ["fragment", "others", 3, "routerLink"], [1, "col-lg-2", "col-md-2"], ["routerLink", "therapy-areas"], ["routerLink", "product-portfolio"], ["routerLink", "updates"], ["routerLink", "gallery"], ["routerLink", "careers"], [1, "col-lg-4", "col-md-4"], [1, "block-23", "mb-3"], [2, "color", "#000000"], [1, "fa", "fa-map-marker", "mr-3", 2, "color", "#0A939D"], [1, "text", 2, "color", "#000"], [1, "fa", "fa-paper-plane", "mr-3", 2, "color", "#0A939D"], ["href", "mailto:sinsanpharma2007@gmail.com"]], template: function FooterComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "footer", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -1438,23 +1430,15 @@ FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](99, "li");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](100, "span", 35);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](101, "span", 36);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](102, "B 1004 Western Express Highway, Magathane, Food Corporation of India Warehouse, Borivali East, Mumbai, Maharashtra 400066 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](102, "B/1106, The Western Edge II Premises Co-op Soc Ltd., Off. W E Highway, Behind Metro Mall, Borivali East, Mumbai-400066. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](103, "li");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](104, "a");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](105, "span", 37);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](106, "span", 36);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](107, "020-25665800");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](108, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](109, "a");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](110, "span", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](111, "span", 36);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](112, "a", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](113, "sinsanpharma2007@gmail.com");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](107, "a", 38);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](108, "sinsanpharma2007@gmail.com");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -3798,7 +3782,7 @@ class ProductComponent {
         else if (this.productName === "ATORFIRST F") {
             this.productNameImg = "Atorfirst F";
         }
-        else if (this.productName === "DYLOOP 5/10/20") {
+        else if (this.productName === "DYLOOP 10/20") {
             this.productNameImg = "Dyloop";
         }
         else if (this.productName === "DYLOOP Plus") {
@@ -3820,7 +3804,7 @@ class ProductComponent {
             this.productNameImg = "Bipra 20";
         }
         else if (this.productName === "PANFIRST 40") {
-            this.productNameImg = "Panfirst D";
+            this.productNameImg = "Panfirst 40";
         }
         else if (this.productName === "PANFIRST D") {
             this.productNameImg = "Panfirst D";
@@ -4038,7 +4022,7 @@ BlogComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "div");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "a");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "span", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](18, "May 05, 2024");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](18, "Sept 2024");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -4065,7 +4049,7 @@ BlogComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "div");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "a");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](33, "span", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](34, "May 5, 2024");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](34, "Feb 2024");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -4263,7 +4247,7 @@ class ContactComponent {
     }
 }
 ContactComponent.ɵfac = function ContactComponent_Factory(t) { return new (t || ContactComponent)(); };
-ContactComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ContactComponent, selectors: [["app-contact"]], decls: 232, vars: 0, consts: [["data-stellar-background-ratio", "0.5", 1, "hero-wrap", "hero-wrap-2", "heroBreadcrumb", 2, "background-image", "url('assets/images/breadcums/contact.jpg')", "background-position", "50% -66px"], [1, "overlay"], [1, "container"], [1, "row", "no-gutters", "slider-text", "align-items-end", "justify-content-start"], [1, "col-md-9", "ftco-animate", "pb-5", "fadeInUp", "ftco-animated"], [1, "mb-3", "bread", 2, "color", "white"], [1, "ftco-section", "contact-section"], [1, "row", "d-flex", "contact-info", "mb-5"], [1, "col-md-6", "col-lg-4", "d-flex", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "align-self-stretch", "box", "p-2", "text-center", "bg-light"], [1, "icon", "d-flex", "align-items-center", "justify-content-center"], [1, "fa", "fa-address-card-o"], [1, "mb-2"], [1, "m-0"], [1, "fa", "fa-phone"], ["href", "tel://1234567920"], [1, "fa", "fa-envelope"], ["href", "mailto:sinsanpharma2007@gmail.com"], [1, "row", "no-gutters", "block-9"], [1, "col-md-6", "order-md-last", "d-flex"], ["action", "#", 1, "bg-light", "p-5", "contact-form"], [1, "form-group"], ["type", "text", "placeholder", "Your Name", 1, "form-control"], ["type", "text", "placeholder", "Your Email", 1, "form-control"], ["type", "text", "placeholder", "Subject", 1, "form-control"], ["name", "", "id", "", "cols", "30", "rows", "7", "placeholder", "Message", 1, "form-control"], ["type", "submit", "value", "Send Message", 1, "btn", "btn-secondary", "py-3", "px-5"], [1, "col-md-6", "d-flex"], ["src", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtrustConstantResourceUrl"]("https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d30142.59343743123!2d72.8359055!3d19.2028802!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b7327b50f833%3A0xf42c2d915ce22000!2sWestern%20Edge%20II!5e0!3m2!1sen!2sin!4v1715823292246!5m2!1sen!2sin"), "width", "100%", "height", "100%", "frameborder", "0", "allowfullscreen", "", "aria-hidden", "false", "tabindex", "0", 2, "border", "0"], [1, "col-md-6", "d-none"], ["id", "map", 1, "bg-white", 2, "position", "relative", "overflow", "hidden"], [2, "height", "100%", "width", "100%", "position", "absolute", "top", "0px", "left", "0px", "background-color", "rgb(229, 227, 223)"], [1, "gm-style", 2, "position", "absolute", "z-index", "0", "left", "0px", "top", "0px", "height", "100%", "width", "100%", "padding", "0px", "border-width", "0px", "margin", "0px"], ["tabindex", "0", "aria-label", "Map", "aria-roledescription", "map", "role", "img", 2, "position", "absolute", "z-index", "0", "left", "0px", "top", "0px", "height", "100%", "width", "100%", "padding", "0px", "border-width", "0px", "margin", "0px", "cursor", "url(\"https://maps.gstatic.com/mapfiles/openhand_8_8.cur\"), default", "touch-action", "pan-x pan-y"], [2, "z-index", "1", "position", "absolute", "left", "50%", "top", "50%", "width", "100%", "transform", "translate(0px, 0px)"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "100", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "0"], [2, "position", "absolute", "z-index", "993", "transform", "matrix(1, 0, 0, 1, -181, -34)"], [2, "position", "absolute", "left", "0px", "top", "0px", "width", "256px", "height", "256px"], [2, "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "-256px", "top", "0px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "-256px", "top", "-256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "0px", "top", "-256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "256px", "top", "-256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "256px", "top", "0px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "256px", "top", "256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "0px", "top", "256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "-256px", "top", "256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "-256px", "top", "-512px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "0px", "top", "-512px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "256px", "top", "-512px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "101", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "102", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "103", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "-1"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "0px", "top", "0px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "-256px", "top", "0px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "-256px", "top", "-256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "0px", "top", "-256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "256px", "top", "-256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "256px", "top", "0px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "256px", "top", "256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "0px", "top", "256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "-256px", "top", "256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "-256px", "top", "-512px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "0px", "top", "-512px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "256px", "top", "-512px"], [2, "position", "absolute", "left", "0px", "top", "0px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i37!3i48!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=90213", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "-256px", "top", "0px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i36!3i48!4i256!2m3!1e0!2sm!3i536259286!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=104903", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "-256px", "top", "-256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i36!3i47!4i256!2m3!1e0!2sm!3i536259274!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=64348", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "0px", "top", "-256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i37!3i47!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=120441", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "256px", "top", "-256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i38!3i47!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=85998", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "256px", "top", "0px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i38!3i48!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=55770", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "0px", "top", "256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i37!3i49!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=59985", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "256px", "top", "256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i38!3i49!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=25542", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "-256px", "top", "256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i36!3i49!4i256!2m3!1e0!2sm!3i536259286!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=74675", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "-256px", "top", "-512px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i36!3i46!4i256!2m3!1e0!2sm!3i536259274!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=94576", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "256px", "top", "-512px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i38!3i46!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=116226", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "0px", "top", "-512px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i37!3i46!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=19598", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [1, "gm-style-pbc", 2, "z-index", "2", "position", "absolute", "height", "100%", "width", "100%", "padding", "0px", "border-width", "0px", "margin", "0px", "left", "0px", "top", "0px", "opacity", "0"], [1, "gm-style-pbt"], [2, "z-index", "3", "position", "absolute", "height", "100%", "width", "100%", "padding", "0px", "border-width", "0px", "margin", "0px", "left", "0px", "top", "0px", "touch-action", "pan-x pan-y"], [2, "z-index", "4", "position", "absolute", "left", "50%", "top", "50%", "width", "100%", "transform", "translate(0px, 0px)"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "104", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "105", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "106", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "107", "width", "100%"], ["aria-hidden", "true", "frameborder", "0", "tabindex", "-1", 2, "z-index", "-1", "position", "absolute", "width", "100%", "height", "100%", "top", "0px", "left", "0px", "border", "none"], [2, "pointer-events", "none", "width", "100%", "height", "100%", "box-sizing", "border-box", "position", "absolute", "z-index", "1000002", "opacity", "0", "border", "2px solid rgb(26, 115, 232)"], ["draggable", "false", "title", "Toggle fullscreen view", "aria-label", "Toggle fullscreen view", "type", "button", 1, "gm-control-active", "gm-fullscreen-control", 2, "background", "none rgb(255, 255, 255)", "border", "0px", "margin", "10px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "absolute", "cursor", "pointer", "user-select", "none", "border-radius", "2px", "height", "40px", "width", "40px", "box-shadow", "rgba(0, 0, 0, 0.3) 0px 1px 4px -1px", "overflow", "hidden", "top", "0px", "right", "0px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["draggable", "false", "controlwidth", "40", "controlheight", "81", 1, "gmnoprint", "gm-bundled-control", "gm-bundled-control-on-bottom", 2, "margin", "10px", "user-select", "none", "position", "absolute", "bottom", "95px", "right", "40px"], ["controlwidth", "40", "controlheight", "40", 1, "gmnoprint", 2, "display", "none", "position", "absolute"], [2, "width", "40px", "height", "40px"], ["draggable", "false", "title", "Rotate map 90 degrees", "aria-label", "Rotate map 90 degrees", "type", "button", 1, "gm-control-active", 2, "background", "none rgb(255, 255, 255)", "display", "none", "border", "0px", "margin", "0px 0px 32px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "relative", "cursor", "pointer", "user-select", "none", "width", "40px", "height", "40px", "top", "0px", "left", "0px", "overflow", "hidden", "box-shadow", "rgba(0, 0, 0, 0.3) 0px 1px 4px -1px", "border-radius", "2px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "height", "18px", "width", "18px"], ["draggable", "false", "title", "Tilt map", "aria-label", "Tilt map", "type", "button", 1, "gm-tilt", "gm-control-active", 2, "background", "none rgb(255, 255, 255)", "display", "block", "border", "0px", "margin", "0px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "relative", "cursor", "pointer", "user-select", "none", "width", "40px", "height", "40px", "top", "0px", "left", "0px", "overflow", "hidden", "box-shadow", "rgba(0, 0, 0, 0.3) 0px 1px 4px -1px", "border-radius", "2px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "width", "18px"], ["controlwidth", "40", "controlheight", "81", 1, "gmnoprint", 2, "position", "absolute", "left", "0px", "top", "0px"], ["draggable", "false", 2, "user-select", "none", "box-shadow", "rgba(0, 0, 0, 0.3) 0px 1px 4px -1px", "border-radius", "2px", "cursor", "pointer", "background-color", "rgb(255, 255, 255)", "width", "40px", "height", "81px"], ["draggable", "false", "title", "Zoom in", "aria-label", "Zoom in", "type", "button", 1, "gm-control-active", 2, "background", "none", "display", "block", "border", "0px", "margin", "0px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "relative", "cursor", "pointer", "user-select", "none", "overflow", "hidden", "width", "40px", "height", "40px", "top", "0px", "left", "0px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23666%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23333%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23111%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], [2, "position", "relative", "overflow", "hidden", "width", "30px", "height", "1px", "margin", "0px 5px", "background-color", "rgb(230, 230, 230)", "top", "0px"], ["draggable", "false", "title", "Zoom out", "aria-label", "Zoom out", "type", "button", 1, "gm-control-active", 2, "background", "none", "display", "block", "border", "0px", "margin", "0px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "relative", "cursor", "pointer", "user-select", "none", "overflow", "hidden", "width", "40px", "height", "40px", "top", "0px", "left", "0px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], [2, "margin-left", "5px", "margin-right", "5px", "z-index", "1000000", "position", "absolute", "left", "0px", "bottom", "0px"], ["target", "_blank", "rel", "noopener", "href", "https://maps.google.com/maps?ll=40.69847,-73.951442&z=7&t=m&hl=en-US&gl=US&mapclient=apiv3", "title", "Open this area in Google Maps (opens a new window)", 2, "position", "static", "overflow", "visible", "float", "none", "display", "inline"], [2, "width", "66px", "height", "26px", "cursor", "pointer"], ["alt", "", "src", "https://maps.gstatic.com/mapfiles/api-3/images/google_white5.png", "draggable", "false", 2, "position", "absolute", "left", "0px", "top", "0px", "width", "66px", "height", "26px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px"], [1, "gmnoprint", 2, "z-index", "1000001", "position", "absolute", "right", "71px", "bottom", "0px", "width", "121px"], ["draggable", "false", 1, "gm-style-cc", 2, "user-select", "none", "height", "14px", "line-height", "14px"], [2, "opacity", "0.7", "width", "100%", "height", "100%", "position", "absolute"], [2, "width", "1px"], [2, "background-color", "rgb(245, 245, 245)", "width", "auto", "height", "100%", "margin-left", "1px"], [2, "position", "relative", "padding-right", "6px", "padding-left", "6px", "box-sizing", "border-box", "font-family", "Roboto, Arial, sans-serif", "font-size", "10px", "color", "rgb(0, 0, 0)", "white-space", "nowrap", "direction", "ltr", "text-align", "right", "vertical-align", "middle", "display", "inline-block"], [2, "text-decoration", "none", "cursor", "pointer", "display", "none"], ["draggable", "false", 1, "gmnoprint", "gm-style-cc", 2, "z-index", "1000001", "user-select", "none", "height", "14px", "line-height", "14px", "position", "absolute", "right", "0px", "bottom", "0px"], ["href", "https://www.google.com/intl/en-US_US/help/terms_maps.html", "target", "_blank", "rel", "noopener", 2, "text-decoration", "none", "cursor", "pointer", "color", "rgb(0, 0, 0)"], ["draggable", "false", 1, "gm-style-cc", 2, "user-select", "none", "height", "14px", "line-height", "14px", "display", "none", "position", "absolute", "right", "0px", "bottom", "0px"], ["target", "_blank", "rel", "noopener", "title", "Report errors in the road map or imagery to Google", "dir", "ltr", "href", "https://www.google.com/maps/@40.6984703,-73.9514422,7z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3", 2, "font-family", "Roboto, Arial, sans-serif", "font-size", "10px", "color", "rgb(0, 0, 0)", "text-decoration", "none", "position", "relative"], [1, "gmnoscreen", 2, "position", "absolute", "right", "0px", "bottom", "0px"], [2, "font-family", "Roboto, Arial, sans-serif", "font-size", "11px", "color", "rgb(0, 0, 0)", "direction", "ltr", "text-align", "right", "background-color", "rgb(245, 245, 245)"], [2, "background-color", "white", "padding", "15px 21px", "border", "1px solid rgb(171, 171, 171)", "font-family", "Roboto, Arial, sans-serif", "color", "rgb(34, 34, 34)", "box-sizing", "border-box", "box-shadow", "rgba(0, 0, 0, 0.2) 0px 4px 16px", "z-index", "10000002", "display", "none", "width", "300px", "height", "180px", "position", "absolute", "left", "128px", "top", "210px"], [2, "padding", "0px 0px 10px", "font-size", "16px", "box-sizing", "border-box"], [2, "font-size", "13px"], ["draggable", "false", "title", "Close", "aria-label", "Close", "type", "button", 1, "gm-ui-hover-effect", 2, "background", "none", "display", "block", "border", "0px", "margin", "0px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "absolute", "cursor", "pointer", "user-select", "none", "top", "0px", "right", "0px", "width", "37px", "height", "37px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224px%22%20height%3D%2224px%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22%23000000%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M19%206.41L17.59%205%2012%2010.59%206.41%205%205%206.41%2010.59%2012%205%2017.59%206.41%2019%2012%2013.41%2017.59%2019%2019%2017.59%2013.41%2012z%22%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M0%200h24v24H0z%22%20fill%3D%22none%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "pointer-events", "none", "display", "block", "width", "13px", "height", "13px", "margin", "12px"], [2, "background-color", "white", "font-weight", "500", "font-family", "Roboto, sans-serif", "padding", "15px 25px", "box-sizing", "border-box", "top", "5px", "border", "1px solid rgba(0, 0, 0, 0.12)", "border-radius", "5px", "left", "50%", "max-width", "375px", "position", "absolute", "transform", "translateX(-50%)", "width", "calc(100% - 10px)", "z-index", "1"], ["alt", "", "src", "https://maps.gstatic.com/mapfiles/api-3/images/google_gray.svg", "draggable", "false", 2, "padding", "0px", "margin", "0px", "border", "0px", "height", "17px", "vertical-align", "middle", "width", "52px", "user-select", "none"], [2, "line-height", "20px", "margin", "15px 0px"], [2, "color", "rgba(0, 0, 0, 0.87)", "font-size", "14px"], [2, "width", "100%"], [2, "line-height", "16px", "vertical-align", "middle"], ["href", "https://developers.google.com/maps/documentation/javascript/error-messages?utm_source=maps_js&utm_medium=degraded&utm_campaign=billing#api-key-and-billing-errors", "target", "_blank", "rel", "noopener", 2, "color", "rgba(0, 0, 0, 0.54)", "font-size", "12px"], [2, "text-align", "right"], [1, "dismissButton"]], template: function ContactComponent_Template(rf, ctx) { if (rf & 1) {
+ContactComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ContactComponent, selectors: [["app-contact"]], decls: 225, vars: 0, consts: [["data-stellar-background-ratio", "0.5", 1, "hero-wrap", "hero-wrap-2", "heroBreadcrumb", 2, "background-image", "url('assets/images/breadcums/contact.jpg')", "background-position", "50% -66px"], [1, "overlay"], [1, "container"], [1, "row", "no-gutters", "slider-text", "align-items-end", "justify-content-start"], [1, "col-md-9", "ftco-animate", "pb-5", "fadeInUp", "ftco-animated"], [1, "mb-3", "bread", 2, "color", "white"], [1, "ftco-section", "contact-section"], [1, "row", "d-flex", "contact-info", "mb-5"], [1, "col-md-6", "col-lg-4", "d-flex", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "align-self-stretch", "box", "p-2", "text-center", "bg-light"], [1, "icon", "d-flex", "align-items-center", "justify-content-center"], [1, "fa", "fa-address-card-o"], [1, "mb-2"], [1, "m-0"], [1, "fa", "fa-envelope"], ["href", "mailto:sinsanpharma2007@gmail.com"], [1, "row", "no-gutters", "block-9"], [1, "col-md-6", "order-md-last", "d-flex"], ["action", "#", 1, "bg-light", "p-5", "contact-form"], [1, "form-group"], ["type", "text", "placeholder", "Your Name", 1, "form-control"], ["type", "text", "placeholder", "Your Email", 1, "form-control"], ["type", "text", "placeholder", "Subject", 1, "form-control"], ["name", "", "id", "", "cols", "30", "rows", "7", "placeholder", "Message", 1, "form-control"], ["type", "submit", "value", "Send Message", 1, "btn", "btn-secondary", "py-3", "px-5"], [1, "col-md-6", "d-flex"], ["src", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtrustConstantResourceUrl"]("https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d30142.59343743123!2d72.8359055!3d19.2028802!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b7327b50f833%3A0xf42c2d915ce22000!2sWestern%20Edge%20II!5e0!3m2!1sen!2sin!4v1715823292246!5m2!1sen!2sin"), "width", "100%", "height", "100%", "frameborder", "0", "allowfullscreen", "", "aria-hidden", "false", "tabindex", "0", 2, "border", "0"], [1, "col-md-6", "d-none"], ["id", "map", 1, "bg-white", 2, "position", "relative", "overflow", "hidden"], [2, "height", "100%", "width", "100%", "position", "absolute", "top", "0px", "left", "0px", "background-color", "rgb(229, 227, 223)"], [1, "gm-style", 2, "position", "absolute", "z-index", "0", "left", "0px", "top", "0px", "height", "100%", "width", "100%", "padding", "0px", "border-width", "0px", "margin", "0px"], ["tabindex", "0", "aria-label", "Map", "aria-roledescription", "map", "role", "img", 2, "position", "absolute", "z-index", "0", "left", "0px", "top", "0px", "height", "100%", "width", "100%", "padding", "0px", "border-width", "0px", "margin", "0px", "cursor", "url(\"https://maps.gstatic.com/mapfiles/openhand_8_8.cur\"), default", "touch-action", "pan-x pan-y"], [2, "z-index", "1", "position", "absolute", "left", "50%", "top", "50%", "width", "100%", "transform", "translate(0px, 0px)"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "100", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "0"], [2, "position", "absolute", "z-index", "993", "transform", "matrix(1, 0, 0, 1, -181, -34)"], [2, "position", "absolute", "left", "0px", "top", "0px", "width", "256px", "height", "256px"], [2, "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "-256px", "top", "0px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "-256px", "top", "-256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "0px", "top", "-256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "256px", "top", "-256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "256px", "top", "0px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "256px", "top", "256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "0px", "top", "256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "-256px", "top", "256px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "-256px", "top", "-512px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "0px", "top", "-512px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "256px", "top", "-512px", "width", "256px", "height", "256px"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "101", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "102", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "103", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "-1"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "0px", "top", "0px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "-256px", "top", "0px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "-256px", "top", "-256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "0px", "top", "-256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "256px", "top", "-256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "256px", "top", "0px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "256px", "top", "256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "0px", "top", "256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "-256px", "top", "256px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "-256px", "top", "-512px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "0px", "top", "-512px"], [2, "width", "256px", "height", "256px", "overflow", "hidden", "position", "absolute", "left", "256px", "top", "-512px"], [2, "position", "absolute", "left", "0px", "top", "0px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i37!3i48!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=90213", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "-256px", "top", "0px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i36!3i48!4i256!2m3!1e0!2sm!3i536259286!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=104903", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "-256px", "top", "-256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i36!3i47!4i256!2m3!1e0!2sm!3i536259274!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=64348", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "0px", "top", "-256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i37!3i47!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=120441", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "256px", "top", "-256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i38!3i47!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=85998", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "256px", "top", "0px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i38!3i48!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=55770", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "0px", "top", "256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i37!3i49!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=59985", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "256px", "top", "256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i38!3i49!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=25542", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "-256px", "top", "256px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i36!3i49!4i256!2m3!1e0!2sm!3i536259286!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=74675", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "-256px", "top", "-512px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i36!3i46!4i256!2m3!1e0!2sm!3i536259274!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=94576", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "256px", "top", "-512px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i38!3i46!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=116226", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [2, "position", "absolute", "left", "0px", "top", "-512px", "width", "256px", "height", "256px", "transition", "opacity 200ms linear 0s"], ["draggable", "false", "alt", "", "role", "presentation", "src", "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i7!2i37!3i46!4i256!2m3!1e0!2sm!3i536259214!2m3!1e2!6m1!3e5!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcC5zOi02MHxwLmw6LTYw!4e0&key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&token=19598", 2, "width", "256px", "height", "256px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px", "max-width", "none"], [1, "gm-style-pbc", 2, "z-index", "2", "position", "absolute", "height", "100%", "width", "100%", "padding", "0px", "border-width", "0px", "margin", "0px", "left", "0px", "top", "0px", "opacity", "0"], [1, "gm-style-pbt"], [2, "z-index", "3", "position", "absolute", "height", "100%", "width", "100%", "padding", "0px", "border-width", "0px", "margin", "0px", "left", "0px", "top", "0px", "touch-action", "pan-x pan-y"], [2, "z-index", "4", "position", "absolute", "left", "50%", "top", "50%", "width", "100%", "transform", "translate(0px, 0px)"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "104", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "105", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "106", "width", "100%"], [2, "position", "absolute", "left", "0px", "top", "0px", "z-index", "107", "width", "100%"], ["aria-hidden", "true", "frameborder", "0", "tabindex", "-1", 2, "z-index", "-1", "position", "absolute", "width", "100%", "height", "100%", "top", "0px", "left", "0px", "border", "none"], [2, "pointer-events", "none", "width", "100%", "height", "100%", "box-sizing", "border-box", "position", "absolute", "z-index", "1000002", "opacity", "0", "border", "2px solid rgb(26, 115, 232)"], ["draggable", "false", "title", "Toggle fullscreen view", "aria-label", "Toggle fullscreen view", "type", "button", 1, "gm-control-active", "gm-fullscreen-control", 2, "background", "none rgb(255, 255, 255)", "border", "0px", "margin", "10px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "absolute", "cursor", "pointer", "user-select", "none", "border-radius", "2px", "height", "40px", "width", "40px", "box-shadow", "rgba(0, 0, 0, 0.3) 0px 1px 4px -1px", "overflow", "hidden", "top", "0px", "right", "0px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C0v2v4h2V2h4V0H2H0z%20M16%2C0h-4v2h4v4h2V2V0H16z%20M16%2C16h-4v2h4h2v-2v-4h-2V16z%20M2%2C12H0v4v2h2h4v-2H2V12z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["draggable", "false", "controlwidth", "40", "controlheight", "81", 1, "gmnoprint", "gm-bundled-control", "gm-bundled-control-on-bottom", 2, "margin", "10px", "user-select", "none", "position", "absolute", "bottom", "95px", "right", "40px"], ["controlwidth", "40", "controlheight", "40", 1, "gmnoprint", 2, "display", "none", "position", "absolute"], [2, "width", "40px", "height", "40px"], ["draggable", "false", "title", "Rotate map 90 degrees", "aria-label", "Rotate map 90 degrees", "type", "button", 1, "gm-control-active", 2, "background", "none rgb(255, 255, 255)", "display", "none", "border", "0px", "margin", "0px 0px 32px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "relative", "cursor", "pointer", "user-select", "none", "width", "40px", "height", "40px", "top", "0px", "left", "0px", "overflow", "hidden", "box-shadow", "rgba(0, 0, 0, 0.3) 0px 1px 4px -1px", "border-radius", "2px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2222%22%20viewBox%3D%220%200%2024%2022%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20fill-rule%3D%22evenodd%22%20d%3D%22M20%2010c0-5.52-4.48-10-10-10s-10%204.48-10%2010v5h5v-5c0-2.76%202.24-5%205-5s5%202.24%205%205v5h-4l6.5%207%206.5-7h-4v-5z%22%20clip-rule%3D%22evenodd%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "height", "18px", "width", "18px"], ["draggable", "false", "title", "Tilt map", "aria-label", "Tilt map", "type", "button", 1, "gm-tilt", "gm-control-active", 2, "background", "none rgb(255, 255, 255)", "display", "block", "border", "0px", "margin", "0px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "relative", "cursor", "pointer", "user-select", "none", "width", "40px", "height", "40px", "top", "0px", "left", "0px", "overflow", "hidden", "box-shadow", "rgba(0, 0, 0, 0.3) 0px 1px 4px -1px", "border-radius", "2px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218px%22%20height%3D%2216px%22%20viewBox%3D%220%200%2018%2016%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C16h8V9H0V16z%20M10%2C16h8V9h-8V16z%20M0%2C7h8V0H0V7z%20M10%2C0v7h8V0H10z%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "width", "18px"], ["controlwidth", "40", "controlheight", "81", 1, "gmnoprint", 2, "position", "absolute", "left", "0px", "top", "0px"], ["draggable", "false", 2, "user-select", "none", "box-shadow", "rgba(0, 0, 0, 0.3) 0px 1px 4px -1px", "border-radius", "2px", "cursor", "pointer", "background-color", "rgb(255, 255, 255)", "width", "40px", "height", "81px"], ["draggable", "false", "title", "Zoom in", "aria-label", "Zoom in", "type", "button", 1, "gm-control-active", 2, "background", "none", "display", "block", "border", "0px", "margin", "0px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "relative", "cursor", "pointer", "user-select", "none", "overflow", "hidden", "width", "40px", "height", "40px", "top", "0px", "left", "0px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23666%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23333%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23111%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], [2, "position", "relative", "overflow", "hidden", "width", "30px", "height", "1px", "margin", "0px 5px", "background-color", "rgb(230, 230, 230)", "top", "0px"], ["draggable", "false", "title", "Zoom out", "aria-label", "Zoom out", "type", "button", 1, "gm-control-active", 2, "background", "none", "display", "block", "border", "0px", "margin", "0px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "relative", "cursor", "pointer", "user-select", "none", "overflow", "hidden", "width", "40px", "height", "40px", "top", "0px", "left", "0px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23333%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23111%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A", "alt", "", 2, "height", "18px", "width", "18px"], [2, "margin-left", "5px", "margin-right", "5px", "z-index", "1000000", "position", "absolute", "left", "0px", "bottom", "0px"], ["target", "_blank", "rel", "noopener", "href", "https://maps.google.com/maps?ll=40.69847,-73.951442&z=7&t=m&hl=en-US&gl=US&mapclient=apiv3", "title", "Open this area in Google Maps (opens a new window)", 2, "position", "static", "overflow", "visible", "float", "none", "display", "inline"], [2, "width", "66px", "height", "26px", "cursor", "pointer"], ["alt", "", "src", "https://maps.gstatic.com/mapfiles/api-3/images/google_white5.png", "draggable", "false", 2, "position", "absolute", "left", "0px", "top", "0px", "width", "66px", "height", "26px", "user-select", "none", "border", "0px", "padding", "0px", "margin", "0px"], [1, "gmnoprint", 2, "z-index", "1000001", "position", "absolute", "right", "71px", "bottom", "0px", "width", "121px"], ["draggable", "false", 1, "gm-style-cc", 2, "user-select", "none", "height", "14px", "line-height", "14px"], [2, "opacity", "0.7", "width", "100%", "height", "100%", "position", "absolute"], [2, "width", "1px"], [2, "background-color", "rgb(245, 245, 245)", "width", "auto", "height", "100%", "margin-left", "1px"], [2, "position", "relative", "padding-right", "6px", "padding-left", "6px", "box-sizing", "border-box", "font-family", "Roboto, Arial, sans-serif", "font-size", "10px", "color", "rgb(0, 0, 0)", "white-space", "nowrap", "direction", "ltr", "text-align", "right", "vertical-align", "middle", "display", "inline-block"], [2, "text-decoration", "none", "cursor", "pointer", "display", "none"], ["draggable", "false", 1, "gmnoprint", "gm-style-cc", 2, "z-index", "1000001", "user-select", "none", "height", "14px", "line-height", "14px", "position", "absolute", "right", "0px", "bottom", "0px"], ["href", "https://www.google.com/intl/en-US_US/help/terms_maps.html", "target", "_blank", "rel", "noopener", 2, "text-decoration", "none", "cursor", "pointer", "color", "rgb(0, 0, 0)"], ["draggable", "false", 1, "gm-style-cc", 2, "user-select", "none", "height", "14px", "line-height", "14px", "display", "none", "position", "absolute", "right", "0px", "bottom", "0px"], ["target", "_blank", "rel", "noopener", "title", "Report errors in the road map or imagery to Google", "dir", "ltr", "href", "https://www.google.com/maps/@40.6984703,-73.9514422,7z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3", 2, "font-family", "Roboto, Arial, sans-serif", "font-size", "10px", "color", "rgb(0, 0, 0)", "text-decoration", "none", "position", "relative"], [1, "gmnoscreen", 2, "position", "absolute", "right", "0px", "bottom", "0px"], [2, "font-family", "Roboto, Arial, sans-serif", "font-size", "11px", "color", "rgb(0, 0, 0)", "direction", "ltr", "text-align", "right", "background-color", "rgb(245, 245, 245)"], [2, "background-color", "white", "padding", "15px 21px", "border", "1px solid rgb(171, 171, 171)", "font-family", "Roboto, Arial, sans-serif", "color", "rgb(34, 34, 34)", "box-sizing", "border-box", "box-shadow", "rgba(0, 0, 0, 0.2) 0px 4px 16px", "z-index", "10000002", "display", "none", "width", "300px", "height", "180px", "position", "absolute", "left", "128px", "top", "210px"], [2, "padding", "0px 0px 10px", "font-size", "16px", "box-sizing", "border-box"], [2, "font-size", "13px"], ["draggable", "false", "title", "Close", "aria-label", "Close", "type", "button", 1, "gm-ui-hover-effect", 2, "background", "none", "display", "block", "border", "0px", "margin", "0px", "padding", "0px", "text-transform", "none", "appearance", "none", "position", "absolute", "cursor", "pointer", "user-select", "none", "top", "0px", "right", "0px", "width", "37px", "height", "37px"], ["src", "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224px%22%20height%3D%2224px%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22%23000000%22%3E%0A%20%20%20%20%3Cpath%20d%3D%22M19%206.41L17.59%205%2012%2010.59%206.41%205%205%206.41%2010.59%2012%205%2017.59%206.41%2019%2012%2013.41%2017.59%2019%2019%2017.59%2013.41%2012z%22%2F%3E%0A%20%20%20%20%3Cpath%20d%3D%22M0%200h24v24H0z%22%20fill%3D%22none%22%2F%3E%0A%3C%2Fsvg%3E%0A", 2, "pointer-events", "none", "display", "block", "width", "13px", "height", "13px", "margin", "12px"], [2, "background-color", "white", "font-weight", "500", "font-family", "Roboto, sans-serif", "padding", "15px 25px", "box-sizing", "border-box", "top", "5px", "border", "1px solid rgba(0, 0, 0, 0.12)", "border-radius", "5px", "left", "50%", "max-width", "375px", "position", "absolute", "transform", "translateX(-50%)", "width", "calc(100% - 10px)", "z-index", "1"], ["alt", "", "src", "https://maps.gstatic.com/mapfiles/api-3/images/google_gray.svg", "draggable", "false", 2, "padding", "0px", "margin", "0px", "border", "0px", "height", "17px", "vertical-align", "middle", "width", "52px", "user-select", "none"], [2, "line-height", "20px", "margin", "15px 0px"], [2, "color", "rgba(0, 0, 0, 0.87)", "font-size", "14px"], [2, "width", "100%"], [2, "line-height", "16px", "vertical-align", "middle"], ["href", "https://developers.google.com/maps/documentation/javascript/error-messages?utm_source=maps_js&utm_medium=degraded&utm_campaign=billing#api-key-and-billing-errors", "target", "_blank", "rel", "noopener", 2, "color", "rgba(0, 0, 0, 0.54)", "font-size", "12px"], [2, "text-align", "right"], [1, "dismissButton"]], template: function ContactComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -4294,322 +4278,309 @@ ContactComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "Sales & Marketing Office ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "p", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "M/S Sinsan Pharmaceuticals Pvt.Ltd., B 1004 Western Express Highway, Magathane, Food Corporation of India Warehouse, Borivali East, Mumbai, Maharashtra 400066 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "M/S Sinsan Pharmaceuticals Pvt.Ltd., ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](22, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](23, " B/1106, The Western Edge II Premises Co-op Soc Ltd., Off. W E Highway, Behind Metro Mall, Borivali East, Mumbai-400066. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "div", 8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "div", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "div", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](25, "span", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "div", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "div", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "div", 10);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](27, "span", 14);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "h3", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](27, "Contact Number");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "h3", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](29, "Email Address");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "p", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "a", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](30, "020-25665800");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "div", 8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "div", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "div", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](34, "span", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "h3", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](36, "Email Address");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "p", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](38, "a", 17);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](39, "sinsanpharma2007@gmail.com");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "p", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "a", 15);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, "sinsanpharma2007@gmail.com");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "div", 18);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "div", 19);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "form", 20);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "div", 21);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](44, "input", 22);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "div", 16);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](34, "div", 17);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "form", 18);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](36, "div", 19);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](37, "input", 20);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "div", 21);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](46, "input", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](38, "div", 19);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](39, "input", 21);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](47, "div", 21);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](48, "input", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "div", 19);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](41, "input", 22);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "div", 21);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](50, "textarea", 25);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "div", 19);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](43, "textarea", 23);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](51, "div", 21);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](52, "input", 26);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](53, "div", 27);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](54, "iframe", 28);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](55, "div", 29);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](56, "div", 30);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](57, "div", 31);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](58, "div", 32);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](59, "div", 33);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](60, "div", 34);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](61, "div", 35);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](62, "div", 36);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](63, "div", 37);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](64, "div", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](65, "div", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](66, "div", 40);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](67, "div", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](68, "div", 41);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](69, "div", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "div", 42);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](71, "div", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](72, "div", 43);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](73, "div", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "div", 44);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](75, "div", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](76, "div", 45);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](77, "div", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](78, "div", 46);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](79, "div", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](80, "div", 47);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](81, "div", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "div", 48);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](83, "div", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](84, "div", 49);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](85, "div", 39);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](86, "div", 50);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](87, "div", 39);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](44, "div", 19);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](45, "input", 24);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](46, "div", 25);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](47, "iframe", 26);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](88, "div", 51);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](89, "div", 52);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](90, "div", 53);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](91, "div", 54);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](92, "div", 37);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](93, "div", 55);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](94, "div", 56);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](95, "div", 57);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](96, "div", 58);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](97, "div", 59);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](98, "div", 60);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](99, "div", 61);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](100, "div", 62);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](101, "div", 63);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](102, "div", 64);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](103, "div", 65);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](104, "div", 66);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](48, "div", 27);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "div", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](50, "div", 29);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](51, "div", 30);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "div", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](53, "div", 32);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](54, "div", 33);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](55, "div", 34);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](56, "div", 35);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](57, "div", 36);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](58, "div", 37);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](59, "div", 38);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](60, "div", 37);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](61, "div", 39);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](62, "div", 37);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](105, "div", 36);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](106, "div", 37);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](107, "div", 67);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](108, "img", 68);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](63, "div", 40);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](64, "div", 37);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](109, "div", 69);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](110, "img", 70);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](65, "div", 41);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](66, "div", 37);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](111, "div", 71);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](112, "img", 72);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "div", 42);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](68, "div", 37);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](113, "div", 73);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](114, "img", 74);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](69, "div", 43);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](70, "div", 37);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](115, "div", 75);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](116, "img", 76);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](71, "div", 44);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](72, "div", 37);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](117, "div", 77);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](118, "img", 78);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](73, "div", 45);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](74, "div", 37);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](119, "div", 79);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](120, "img", 80);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](75, "div", 46);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](76, "div", 37);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](121, "div", 81);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](122, "img", 82);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "div", 47);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](78, "div", 37);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](123, "div", 83);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](124, "img", 84);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](125, "div", 85);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](126, "img", 86);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](127, "div", 87);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](128, "img", 88);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](129, "div", 89);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](130, "img", 90);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](79, "div", 48);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](80, "div", 37);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](131, "div", 91);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](132, "p", 92);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](81, "div", 49);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](82, "div", 50);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](83, "div", 51);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](84, "div", 52);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](85, "div", 35);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](86, "div", 53);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](87, "div", 54);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](88, "div", 55);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](89, "div", 56);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](90, "div", 57);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](91, "div", 58);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](92, "div", 59);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](93, "div", 60);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](94, "div", 61);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](95, "div", 62);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](96, "div", 63);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](97, "div", 64);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](133, "div", 93);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](134, "div", 94);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](135, "div", 95);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](136, "div", 96);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](137, "div", 97);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](138, "div", 98);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](98, "div", 34);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](99, "div", 35);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](100, "div", 65);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](101, "img", 66);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](102, "div", 67);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](103, "img", 68);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](104, "div", 69);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](105, "img", 70);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](106, "div", 71);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](107, "img", 72);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](108, "div", 73);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](109, "img", 74);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](110, "div", 75);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](111, "img", 76);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](112, "div", 77);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](113, "img", 78);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](114, "div", 79);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](115, "img", 80);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](116, "div", 81);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](117, "img", 82);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](118, "div", 83);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](119, "img", 84);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](120, "div", 85);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](121, "img", 86);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](122, "div", 87);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](123, "img", 88);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](139, "iframe", 99);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](140, "div", 100);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](141, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](142, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](124, "div", 89);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](125, "p", 90);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](126, "div", 91);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](127, "div", 92);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](128, "div", 93);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](129, "div", 94);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](130, "div", 95);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](131, "div", 96);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](132, "iframe", 97);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](133, "div", 98);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](134, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](135, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](136, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](137, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](138, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](139, "button", 99);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](140, "img", 100);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](141, "img", 101);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](142, "img", 102);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](143, "div");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](144, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](145, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](146, "button", 101);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](147, "img", 102);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](148, "img", 103);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](149, "img", 104);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](145, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](146, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](147, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](148, "div", 103);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](149, "div", 104);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](150, "div", 105);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](151, "button", 106);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](152, "img", 107);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](153, "img", 108);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](154, "img", 109);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](150, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](151, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](152, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](153, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](154, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](155, "div", 105);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](156, "div", 106);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](157, "div", 107);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](158, "button", 108);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](159, "img", 109);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](160, "img", 110);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](161, "img", 111);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](162, "button", 112);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](163, "img", 113);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](164, "img", 114);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](165, "img", 115);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](155, "button", 110);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](156, "img", 111);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](157, "img", 112);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](158, "img", 113);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](166, "div", 116);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](167, "div", 117);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](168, "button", 118);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](169, "img", 119);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](170, "img", 120);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](171, "img", 121);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](159, "div", 114);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](160, "div", 115);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](161, "button", 116);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](162, "img", 117);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](163, "img", 118);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](164, "img", 119);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](172, "div", 122);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](173, "button", 123);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](174, "img", 124);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](175, "img", 125);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](176, "img", 126);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](165, "div", 120);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](166, "button", 121);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](167, "img", 122);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](168, "img", 123);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](169, "img", 124);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](177, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](178, "div", 127);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](179, "a", 128);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](180, "div", 129);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](181, "img", 130);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](170, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](171, "div", 125);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](172, "a", 126);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](173, "div", 127);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](174, "img", 128);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](182, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](183, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](184, "div", 131);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](185, "div", 132);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](186, "div", 133);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](187, "div", 134);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](188, "div", 135);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](175, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](176, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](177, "div", 129);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](178, "div", 130);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](179, "div", 131);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](180, "div", 132);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](181, "div", 133);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](189, "div", 136);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](190, "a", 137);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](191, "Map Data");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](182, "div", 134);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](183, "a", 135);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](184, "Map Data");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](192, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](193, "Map data \u00A92020 Google");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](185, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](186, "Map data \u00A92020 Google");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](187, "div", 136);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](188, "div", 131);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](189, "div", 132);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](190, "div", 133);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](191, "div", 134);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](192, "a", 137);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](193, "Terms of Use");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](194, "div", 138);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](195, "div", 133);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](196, "div", 134);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](197, "div", 135);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](195, "div", 131);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](196, "div", 132);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](197, "div", 133);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](198, "div", 136);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](198, "div", 134);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](199, "a", 139);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](200, "Terms of Use");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](200, "Report a map error");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](201, "div", 140);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](202, "div", 133);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](203, "div", 134);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](204, "div", 135);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](205, "div", 136);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](206, "a", 141);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](207, "Report a map error");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](202, "div", 141);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](203, "Map data \u00A92020 Google");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](208, "div", 142);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](209, "div", 143);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](210, "Map data \u00A92020 Google");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](204, "div", 142);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](205, "div", 143);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](206, "Map Data");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](207, "div", 144);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](208, "Map data \u00A92020 Google");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](211, "div", 144);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](212, "div", 145);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](213, "Map Data");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](214, "div", 146);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](215, "Map data \u00A92020 Google");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](216, "button", 147);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](217, "img", 148);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](209, "button", 145);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](210, "img", 146);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](218, "div", 149);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](219, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](220, "img", 150);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](211, "div", 147);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](212, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](213, "img", 148);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](221, "div", 151);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](222, "span", 152);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](223, "This page can't load Google Maps correctly.");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](224, "table", 153);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](225, "tr");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](226, "td", 154);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](227, "a", 155);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](228, "Do you own this website?");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](214, "div", 149);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](215, "span", 150);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](216, "This page can't load Google Maps correctly.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](229, "td", 156);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](230, "button", 157);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](231, "OK");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](217, "table", 151);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](218, "tr");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](219, "td", 152);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](220, "a", 153);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](221, "Do you own this website?");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](222, "td", 154);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](223, "button", 155);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](224, "OK");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -4900,68 +4871,6 @@ const arr = [
     //      "packing": "10*15 Alu-Alu",
     //      "dose": "Once Daily"
     //  },
-    {
-        "companyName": "KAIZER",
-        "department": "Others",
-        "productName": "BENTOZ",
-        "composition": "Multivitamin Multimineral Tablet",
-        "indication": "In Nutrition Depletion",
-        "packing": "15 tab*02 Blister ",
-        "dose": "Once Daily"
-    },
-    {
-        "companyName": "CITIUS",
-        "department": "Others",
-        "productName": "ALFA SINCAL",
-        "composition": "Each film coated Tablet contains, Calcitriol 0.25 mcg + Calcium Carbonate I.P 1250 mg eqv.to Elemental Calcium 500 mg + Zinc sulphate monohydrate eqv.to Elemental Zinc 7.5 mg",
-        "indication": "In Osteoporosis",
-        "packing": "10*15 Alu-Alu",
-        "dose": "Once Daily"
-    },
-    {
-        "companyName": "CITIUS",
-        "department": "Others",
-        "productName": "SINCAL",
-        "composition": "Each film coated tablet contains 1250mg. of  Calcium Carbonate from  an organic source (Oyster Shell) equivalent to Elemental Calcium 500 mg+ Vitamin D3 I.P.  250 I.U  ",
-        "indication": "In Calcium Deficiency",
-        "packing": "15 tab*10's Blister ",
-    },
-    {
-        "companyName": "CITIUS",
-        "department": "Others",
-        "productName": "DFRIZ",
-        "composition": "Each film coated Tablet contains Diacerin I.P. 50mg+ Glucosamine Sulphate pottasium chloride USP 750 mg+ Methyl Sulphonyl Methane U.S.P. 250mg",
-        "indication": "In Osteoarthritis",
-        "packing": "10 tab*6'S Alu-Alu",
-        "dose": "Once Daily"
-    },
-    {
-        "companyName": "KAIZER",
-        "department": "Others",
-        "productName": "GOXOI",
-        "composition": "Each film coated tablet contains Febuxostat 40/80 mg",
-        "indication": "In management of Hyperuricemia",
-        "packing": "10*15 Alu-Alu/ 10*10 Alu-Alu",
-        "dose": "Once Daily"
-    },
-    {
-        "companyName": "KAIZER",
-        "department": "Others",
-        "productName": "CAMDEM",
-        "composition": "Each film coated tablet contain  Escitalopram Oxalate 5/10mg + Clonazepam I.P. 0.5mg",
-        "indication": "In patients of Depression / Anxiety / Panic Disorder",
-        "packing": "10*15 Aluminium Foil",
-        "dose": "Once Daily"
-    },
-    {
-        "companyName": "CITIUS",
-        "department": "Others",
-        "productName": "CORBET XT",
-        "composition": "Each film coated Tablet contains Ferrous Ascorbate equivalet to elemental Iron 100 mg + Folic acid I.P. 1.5 mg",
-        "indication": "In Iron Deficiency Anaemia",
-        "packing": "10*10 Alu-Alu",
-        "dose": "Once Daily"
-    },
     //  {
     //      "companyName": "KAIZER",
     //      "department": "Others",
@@ -5067,7 +4976,7 @@ const arr = [
     {
         "companyName": "CITIUS",
         "department": "Cardiac",
-        "productName": "DYLOOP 5/10/20",
+        "productName": "DYLOOP 10/20",
         "composition": "Each Uncoated tablet contains Torsemide U.S.P 10/20 mg tablets",
         "indication": "In Hypertension with Edema",
         "packing": "10*15 Alu-Alu",
@@ -5337,8 +5246,68 @@ const arr = [
         "indication": "In Gastroesophageal Reflux Disease",
         "packing": "10*15 Alu-Alu",
         "dose": "Once Daily",
-        "alsoAvaliable1": "Panfirst 40",
-        "alsoAvaliable2": "Panfirst 40 Inj"
+    },
+    {
+        "companyName": "KAIZER",
+        "department": "Others",
+        "productName": "BENTOZ",
+        "composition": "Multivitamin Multimineral Tablet",
+        "indication": "In Nutrition Depletion",
+        "packing": "15 tab*02 Blister ",
+        "dose": "Once Daily"
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Others",
+        "productName": "ALFA SINCAL",
+        "composition": "Each film coated Tablet contains, Calcitriol 0.25 mcg + Calcium Carbonate I.P 1250 mg eqv.to Elemental Calcium 500 mg + Zinc sulphate monohydrate eqv.to Elemental Zinc 7.5 mg",
+        "indication": "In Osteoporosis",
+        "packing": "10*15 Alu-Alu",
+        "dose": "Once Daily"
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Others",
+        "productName": "SINCAL",
+        "composition": "Each film coated tablet contains 1250mg. of  Calcium Carbonate from  an organic source (Oyster Shell) equivalent to Elemental Calcium 500 mg+ Vitamin D3 I.P.  250 I.U  ",
+        "indication": "In Calcium Deficiency",
+        "packing": "15 tab*10's Blister ",
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Others",
+        "productName": "DFRIZ",
+        "composition": "Each film coated Tablet contains Diacerin I.P. 50mg+ Glucosamine Sulphate pottasium chloride USP 750 mg+ Methyl Sulphonyl Methane U.S.P. 250mg",
+        "indication": "In Osteoarthritis",
+        "packing": "10 tab*6'S Alu-Alu",
+        "dose": "Once Daily"
+    },
+    {
+        "companyName": "KAIZER",
+        "department": "Others",
+        "productName": "GOXOI",
+        "composition": "Each film coated tablet contains Febuxostat 40/80 mg",
+        "indication": "In management of Hyperuricemia",
+        "packing": "10*15 Alu-Alu/ 10*10 Alu-Alu",
+        "dose": "Once Daily"
+    },
+    {
+        "companyName": "KAIZER",
+        "department": "Others",
+        "productName": "CAMDEM",
+        "composition": "Each film coated tablet contain  Escitalopram Oxalate 5/10mg + Clonazepam I.P. 0.5mg",
+        "indication": "In patients of Depression / Anxiety / Panic Disorder",
+        "packing": "10*15 Aluminium Foil",
+        "dose": "Once Daily"
+    },
+    {
+        "companyName": "CITIUS",
+        "department": "Others",
+        "productName": "CORBET XT",
+        "composition": "Each film coated Tablet contains Ferrous Ascorbate equivalet to elemental Iron 100 mg + Folic acid I.P. 1.5 mg",
+        "indication": "In Iron Deficiency Anaemia",
+        "packing": "10*10 Alu-Alu",
+        "dose": "Once Daily"
     },
 ];
 const updatesArr = [
@@ -5377,7 +5346,7 @@ class AboutusComponent {
     }
 }
 AboutusComponent.ɵfac = function AboutusComponent_Factory(t) { return new (t || AboutusComponent)(); };
-AboutusComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutusComponent, selectors: [["app-aboutus"]], decls: 137, vars: 0, consts: [["data-stellar-background-ratio", "0.5", 1, "hero-wrap", "hero-wrap-2", "heroBreadcrumb", 2, "background-image", "url('assets/images/breadcums/about.jpg')", "background-position", "50% -66px"], [1, "overlay"], [1, "container"], [1, "row", "no-gutters", "slider-text", "align-items-end", "justify-content-start"], [1, "col-md-9", "ftco-animate", "pb-5", "fadeInUp", "ftco-animated"], [1, "mb-3", "bread", 2, "color", "#ffffff"], ["id", "about-section", 1, "ftco-counter", "img", "ftco-section", "ftco-no-pt", "ftco-no-pb"], [1, "row", "d-flex"], [1, "col-md-12", "col-lg-12", "pl-lg-12"], [1, ""], [1, "row", "justify-content-start"], [1, "col-md-12", "heading-section", "ftco-animate", "p-4", "p-lg-5", "fadeInUp", "ftco-animated", "text-justify"], [1, "mb-4"], [1, "ftco-section", "bg-light", 2, "padding", "0 !important"], [1, "container-fluid", "px-5"], [1, "row", "justify-content-center"], [1, "col-md-8", "text-center", "heading-section", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "row"], [1, "col-md-12", "col-lg-12", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "row", "d-none"], [1, "col-md-3", "col-lg-3"], [1, "col-md-6", "col-lg-6"], [1, "staff"], [1, "img-wrap", "d-flex", "align-items-stretch"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/directornew.jpeg)", "z-index", "99"], [1, "text", "text-center"], [1, "mb-2", 2, "color", "#fff !important"], [1, "faded"], [2, "color", "#fff!important"], [1, "ftco-social", "text-center"], [1, "ftco-animate", "fadeInUp", "ftco-animated"], [1, "d-flex", "align-items-center", "justify-content-center"], [1, "fa", "fa-envelope"], [1, "col-md-12", "col-lg-12"], [1, "text-justify"], ["href", "mailto:roshanjain@sinsanpharma.com", 1, "maila", 2, "color", "white"], [1, "ftco-section", "bg-light", 2, "padding", "2em !important"], [1, "col-md-8", "text-center", "heading-section"], [1, "staff", 2, "border", "solid 1px #0B939D"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/leadership/Sunil_Bhutani.png)"], [1, "text", "text-justify", 2, "background", "none !important", "padding-bottom", "0 !important"], [1, "mb-2", "text-center", 2, "color", "black !important", "text-transform", "uppercase"], [1, "position", "mb-2", "text-center", 2, "text-transform", "uppercase"], [2, "color", "black", "font-size", "12px"], [1, "col-md-6", "col-lg-6", "hoverSty"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/leadership/Kuldeep_Tyagi.png)"], [1, "col-md-6", "col-lg-6", "d-none"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/leadership/Mahesh_Dabeer.jpeg)"], [1, "mb-2", "text-center", 2, "color", "black !important"], [1, "position", "mb-2", "text-center"], [1, "faded", 2, "padding", "0!important"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/leadership/Satwant_singh_bagga.png)"]], template: function AboutusComponent_Template(rf, ctx) { if (rf & 1) {
+AboutusComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutusComponent, selectors: [["app-aboutus"]], decls: 137, vars: 0, consts: [["data-stellar-background-ratio", "0.5", 1, "hero-wrap", "hero-wrap-2", "heroBreadcrumb", 2, "background-image", "url('assets/images/breadcums/about.jpg')", "background-position", "50% -66px"], [1, "overlay"], [1, "container"], [1, "row", "no-gutters", "slider-text", "align-items-end", "justify-content-start"], [1, "col-md-9", "ftco-animate", "pb-5", "fadeInUp", "ftco-animated"], [1, "mb-3", "bread", 2, "color", "#ffffff"], ["id", "about-section", 1, "ftco-counter", "img", "ftco-section", "ftco-no-pt", "ftco-no-pb"], [1, "row", "d-flex"], [1, "col-md-12", "col-lg-12", "pl-lg-12"], [1, ""], [1, "row", "justify-content-start"], [1, "col-md-12", "heading-section", "ftco-animate", "p-4", "p-lg-5", "fadeInUp", "ftco-animated", "text-justify"], [1, "mb-4"], [1, "ftco-section", "bg-light", 2, "padding", "0 !important"], [1, "container-fluid", "px-5"], [1, "row", "justify-content-center"], [1, "col-md-8", "text-center", "heading-section", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "row"], [1, "col-md-12", "col-lg-12", "ftco-animate", "fadeInUp", "ftco-animated"], [1, "row", "d-none"], [1, "col-md-3", "col-lg-3"], [1, "col-md-6", "col-lg-6"], [1, "staff"], [1, "img-wrap", "d-flex", "align-items-stretch"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/directornew.jpg)", "z-index", "99"], [1, "text", "text-center"], [1, "mb-2", 2, "color", "#fff !important"], [1, "faded"], [2, "color", "#fff!important"], [1, "ftco-social", "text-center"], [1, "ftco-animate", "fadeInUp", "ftco-animated"], [1, "d-flex", "align-items-center", "justify-content-center"], [1, "fa", "fa-envelope"], [1, "col-md-12", "col-lg-12"], [1, "text-justify"], ["href", "mailto:roshanjain@sinsanpharma.com", 1, "maila", 2, "color", "white"], [1, "ftco-section", "bg-light", 2, "padding", "2em !important"], [1, "col-md-8", "text-center", "heading-section"], [1, "staff", 2, "border", "solid 1px #0B939D"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/leadership/Sunil_Bhutani.png)"], [1, "text", "text-justify", 2, "background", "none !important", "padding-bottom", "0 !important"], [1, "mb-2", "text-center", 2, "color", "black !important", "text-transform", "uppercase"], [1, "position", "mb-2", "text-center", 2, "text-transform", "uppercase"], [2, "color", "black", "font-size", "12px"], [1, "col-md-6", "col-lg-6", "hoverSty"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/leadership/Kuldeep_Tyagi.png)"], [1, "col-md-6", "col-lg-6", "d-none"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/leadership/Mahesh_Dabeer.jpeg)"], [1, "mb-2", "text-center", 2, "color", "black !important"], [1, "position", "mb-2", "text-center"], [1, "faded", 2, "padding", "0!important"], [1, "img", "align-self-stretch", 2, "background-image", "url(assets/images/leadership/Satwant_singh_bagga.png)"]], template: function AboutusComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
